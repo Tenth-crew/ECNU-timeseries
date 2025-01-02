@@ -1,0 +1,217 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+10270250,facebook/react,69631,facebook,JavaScript,MIT License
+2126244,twbs/bootstrap,2918581,twbs,JavaScript,MIT License
+126577260,trekhleb/javascript-algorithms,0,,JavaScript,MIT License
+6498492,airbnb/javascript,698437,airbnb,JavaScript,MIT License
+36633370,awesome-selfhosted/awesome-selfhosted,24270415,awesome-selfhosted,JavaScript,Other
+29028775,facebook/react-native,69631,facebook,JavaScript,Other
+112507086,30-seconds/30-seconds-of-code,43479428,30-seconds,JavaScript,Creative Commons Zero v1.0 Universal
+943149,d3/d3,1562726,d3,JavaScript,ISC License
+63537249,facebook/create-react-app,69631,facebook,JavaScript,MIT License
+70107786,vercel/next.js,14985020,vercel,JavaScript,MIT License
+23088740,axios/axios,32372333,axios,JavaScript,MIT License
+27193779,nodejs/node,9950313,nodejs,JavaScript,Other
+576201,mrdoob/three.js,0,,JavaScript,MIT License
+103633984,goldbergyoni/nodebestpractices,0,,JavaScript,Creative Commons Attribution Share Alike 4.0 International
+23083156,mui/material-ui,33663932,mui,JavaScript,MIT License
+74791366,ryanmcdermott/clean-code-javascript,0,,JavaScript,MIT License
+3470471,FortAwesome/Font-Awesome,1505683,FortAwesome,JavaScript,Other
+14747598,typicode/json-server,0,,JavaScript,MIT License
+106017343,tailwindlabs/tailwindcss,67109815,tailwindlabs,JavaScript,MIT License
+1861458,hakimel/reveal.js,0,,JavaScript,MIT License
+311525798,microsoft/Web-Dev-For-Beginners,6154722,microsoft,JavaScript,MIT License
+3678731,webpack/webpack,2105791,webpack,JavaScript,MIT License
+157616880,iptv-org/iptv,55937028,iptv-org,JavaScript,The Unlicense
+460078,angular/angular.js,139426,angular,JavaScript,MIT License
+237159,expressjs/express,5658226,expressjs,JavaScript,MIT License
+8843683,chartjs/Chart.js,10342521,chartjs,JavaScript,MIT License
+3228505,atom/atom,1089146,atom,JavaScript,MIT License
+1334369,resume/resume.github.com,602612,resume,JavaScript,
+4311796,adam-p/markdown-here,0,,JavaScript,MIT License
+167174,jquery/jquery,70142,jquery,JavaScript,MIT License
+63539055,jaywcjlove/awesome-mac,0,,JavaScript,Creative Commons Zero v1.0 Universal
+3955647,lodash/lodash,2565403,lodash,JavaScript,Other
+36040894,gatsbyjs/gatsby,12551863,gatsbyjs,JavaScript,MIT License
+486550,h5bp/html5-boilerplate,1136800,h5bp,JavaScript,MIT License
+147350463,leonardomso/33-js-concepts,0,,JavaScript,MIT License
+26066727,mermaid-js/mermaid,57169982,mermaid-js,JavaScript,MIT License
+43441403,strapi/strapi,19872173,strapi,JavaScript,Other
+9309093,Semantic-Org/Semantic-UI,5796209,Semantic-Org,JavaScript,MIT License
+127407957,azl397985856/leetcode,0,,JavaScript,Other
+278335273,anuraghazra/github-readme-stats,0,,JavaScript,MIT License
+138839979,scutan90/DeepLearning-500-questions,0,,JavaScript,GNU General Public License v3.0
+1424470,moment/moment,4129662,moment,JavaScript,MIT License
+46629305,NARKOZ/hacker-scripts,0,,JavaScript,
+75104123,prettier/prettier,25822731,prettier,JavaScript,MIT License
+34302698,serverless/serverless,13742415,serverless,JavaScript,MIT License
+19872456,ReactTraining/react-router,11823761,ReactTraining,JavaScript,MIT License
+53809090,juliangarnier/anime,0,,JavaScript,MIT License
+3214406,meteor/meteor,789528,meteor,JavaScript,Other
+31629751,cypress-io/cypress,8908513,cypress-io,JavaScript,MIT License
+9852918,TryGhost/Ghost,2178663,TryGhost,JavaScript,MIT License
+15428480,ColorlibHQ/AdminLTE,39128121,ColorlibHQ,JavaScript,MIT License
+99598595,parcel-bundler/parcel,32607881,parcel-bundler,JavaScript,MIT License
+71995937,nuxt/nuxt.js,23360933,nuxt,JavaScript,Other
+128907699,iamkun/dayjs,0,,JavaScript,MIT License
+58836534,algorithm-visualizer/algorithm-visualizer,38487505,algorithm-visualizer,JavaScript,MIT License
+16752620,gogs/gogs,6656686,gogs,JavaScript,MIT License
+1663468,mozilla/pdf.js,131524,mozilla,JavaScript,Apache License 2.0
+49970642,yarnpkg/yarn,22247014,yarnpkg,JavaScript,Other
+3100121,nwjs/nw.js,10180421,nwjs,JavaScript,MIT License
+23974149,Dogfalo/materialize,0,,JavaScript,MIT License
+67186968,chinese-poetry/chinese-poetry,30764933,chinese-poetry,JavaScript,MIT License
+10187082,Unitech/pm2,0,,JavaScript,Other
+140687430,dcloudio/uni-app,5485517,dcloudio,JavaScript,Apache License 2.0
+110446844,marktext/marktext,36623013,marktext,JavaScript,MIT License
+3065454,impress/impress.js,5477410,impress,JavaScript,MIT License
+931135,Leaflet/Leaflet,2854298,Leaflet,JavaScript,Other
+5923215,hexojs/hexo,6375567,hexojs,JavaScript,MIT License
+117372806,yangshun/front-end-interview-handbook,0,,JavaScript,MIT License
+162279822,agalwood/Motrix,0,,JavaScript,MIT License
+667006,videojs/video.js,3287189,videojs,JavaScript,Other
+667561,Marak/faker.js,0,,JavaScript,Other
+85031442,poteto/hiring-without-whiteboards,0,,JavaScript,MIT License
+5239185,quilljs/quill,7089101,quilljs,JavaScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+12972263,alvarotrigo/fullPage.js,0,,JavaScript,GNU General Public License v3.0
+47394776,lerna/lerna,19333396,lerna,JavaScript,MIT License
+14370955,sahat/hackathon-starter,0,,JavaScript,MIT License
+80276391,GitSquared/edex-ui,0,,JavaScript,GNU General Public License v3.0
+33263118,gorhill/uBlock,0,,JavaScript,GNU General Public License v3.0
+2935735,adobe/brackets,476009,adobe,JavaScript,MIT License
+3721224,nolimits4web/swiper,0,,JavaScript,MIT License
+42283287,preactjs/preact,26872990,preactjs,JavaScript,MIT License
+11551538,koajs/koa,5055057,koajs,JavaScript,MIT License
+9393759,photonstorm/phaser,0,,JavaScript,MIT License
+42751014,zenorocha/clipboard.js,0,,JavaScript,MIT License
+11167738,gulpjs/gulp,6200624,gulpjs,JavaScript,MIT License
+60630844,microsoft/monaco-editor,6154722,microsoft,JavaScript,MIT License
+32948863,jondot/awesome-react-native,0,,JavaScript,
+67508428,jgraph/drawio,1769238,jgraph,JavaScript,Apache License 2.0
+110058856,LeCoupa/awesome-cheatsheets,0,,JavaScript,MIT License
+94498635,carbon-app/carbon,52179379,carbon-app,JavaScript,MIT License
+229764465,Asabeneh/30-Days-Of-JavaScript,0,,JavaScript,
+128565937,iamadamdev/bypass-paywalls-chrome,0,,JavaScript,
+48626335,vuejs/vue-cli,6128107,vuejs,JavaScript,MIT License
+97249406,denysdovhan/wtfjs,0,,JavaScript,Do What The F*ck You Want To Public License
+37958358,naptha/tesseract.js,7720173,naptha,JavaScript,Apache License 2.0
+30969188,react-boilerplate/react-boilerplate,25323389,react-boilerplate,JavaScript,MIT License
+2096579,markedjs/marked,19886934,markedjs,JavaScript,Other
+99761907,atlassian/react-beautiful-dnd,168166,atlassian,JavaScript,Other
+21125024,typicode/husky,0,,JavaScript,Other
+95876775,elsewhencode/project-guidelines,7815827,elsewhencode,JavaScript,MIT License
+1844251,tastejs/todomvc,1733746,tastejs,JavaScript,Other
+14098121,aosabook/500lines,0,,JavaScript,Other
+952189,jashkenas/backbone,0,,JavaScript,MIT License
+31085130,airbnb/lottie-web,698437,airbnb,JavaScript,MIT License
+39176269,vuejs/vuex,6128107,vuejs,JavaScript,MIT License
+29891188,standard/standard,29208316,standard,JavaScript,MIT License
+698041,caolan/async,0,,JavaScript,MIT License
+18049133,kenwheeler/slick,0,,JavaScript,MIT License
+13584262,webtorrent/webtorrent,5800008,webtorrent,JavaScript,MIT License
+790359,sequelize/sequelize,3591786,sequelize,JavaScript,MIT License
+170326929,goabstract/Awesome-Design-Tools,18014107,goabstract,JavaScript,MIT License
+91253698,ccxt/ccxt,31901609,ccxt,JavaScript,MIT License
+42920477,layui/layui,7955643,layui,JavaScript,MIT License
+349241,jashkenas/underscore,0,,JavaScript,Other
+61715431,Binaryify/NeteaseCloudMusicApi,0,,JavaScript,MIT License
+5405654,pcottle/learnGitBranching,0,,JavaScript,MIT License
+46273445,transloadit/uppy,125754,transloadit,JavaScript,MIT License
+15308499,SortableJS/Sortable,17040762,SortableJS,JavaScript,MIT License
+135614069,sudheerj/reactjs-interview-questions,0,,JavaScript,
+23736449,VincentGarreau/particles.js,0,,JavaScript,MIT License
+69495170,fastify/fastify,24939410,fastify,JavaScript,Other
+53370988,GoogleChrome/lighthouse,1778935,GoogleChrome,JavaScript,Apache License 2.0
+56899284,Kong/insomnia,962416,Kong,JavaScript,MIT License
+1283503,request/request,730467,request,JavaScript,Apache License 2.0
+1254497,codemirror/codemirror5,8876537,codemirror,JavaScript,MIT License
+402046,parallax/jsPDF,320004,parallax,JavaScript,MIT License
+25136308,github/fetch,9919,github,JavaScript,MIT License
+59996401,YMFE/yapi,19645609,YMFE,JavaScript,Apache License 2.0
+17372733,OAI/OpenAPI-Specification,16343502,OAI,JavaScript,Apache License 2.0
+3620194,select2/select2,8077542,select2,JavaScript,MIT License
+317757,Modernizr/Modernizr,131060,Modernizr,JavaScript,Other
+1028340,ajaxorg/ace,168515,ajaxorg,JavaScript,Other
+597879,Automattic/mongoose,887802,Automattic,JavaScript,MIT License
+18280236,GitbookIO/gitbook,7111340,GitbookIO,JavaScript,Apache License 2.0
+12244426,rstacruz/nprogress,0,,JavaScript,MIT License
+958314,remy/nodemon,0,,JavaScript,MIT License
+479924503,The-Run-Philosophy-Organization/run,103482135,The-Run-Philosophy-Organization,JavaScript,Other
+116392709,digitalocean/nginxconfig.io,4650108,digitalocean,JavaScript,MIT License
+25315643,nylas/nylas-mail,4219865,nylas,JavaScript,MIT License
+45431898,bvaughn/react-virtualized,0,,JavaScript,MIT License
+53639099,jamiebuilds/the-super-tiny-compiler,0,,JavaScript,Creative Commons Attribution 4.0 International
+115720575,immerjs/immer,45853199,immerjs,JavaScript,MIT License
+97086543,TheAlgorithms/Javascript,20487725,TheAlgorithms,JavaScript,GNU General Public License v3.0
+59239347,portainer/portainer,22225832,portainer,JavaScript,zlib License
+12226786,lovell/sharp,0,,JavaScript,Apache License 2.0
+2206953,tj/commander.js,0,,JavaScript,MIT License
+164574693,qishibo/AnotherRedisDesktopManager,0,,JavaScript,MIT License
+712530,fabricjs/fabric.js,24580162,fabricjs,JavaScript,Other
+33041711,ryanhanwu/How-To-Ask-Questions-The-Smart-Way,0,,JavaScript,MIT License
+44150497,remoteintech/remote-jobs,31714327,remoteintech,JavaScript,Creative Commons Zero v1.0 Universal
+3602123,hammerjs/hammer.js,7997161,hammerjs,JavaScript,MIT License
+2055965,swagger-api/swagger-ui,7658037,swagger-api,JavaScript,Apache License 2.0
+30794868,sampotts/plyr,0,,JavaScript,MIT License
+20270252,feathericons/feather,29268069,feathericons,JavaScript,MIT License
+35640229,rollup/rollup,12554859,rollup,JavaScript,Other
+9603240,pure-css/pure,23743443,pure-css,JavaScript,Other
+127769231,DIYgod/RSSHub,0,,JavaScript,MIT License
+43695474,quasarframework/quasar,23064371,quasarframework,JavaScript,MIT License
+10851820,ramda/ramda,5298359,ramda,JavaScript,MIT License
+224663696,alpinejs/alpine,59030169,alpinejs,JavaScript,MIT License
+65233633,vercel/pkg,14985020,vercel,JavaScript,MIT License
+74260508,docsifyjs/docsify,40133106,docsifyjs,JavaScript,MIT License
+1580851,dimsemenov/PhotoSwipe,0,,JavaScript,MIT License
+1801829,emberjs/ember.js,1253363,emberjs,JavaScript,MIT License
+3757512,balderdashy/sails,1445252,balderdashy,JavaScript,MIT License
+47071941,redux-saga/redux-saga,24776643,redux-saga,JavaScript,Other
+52113921,facebook/draft-js,69631,facebook,JavaScript,Other
+85541218,ascoders/weekly,0,,JavaScript,
+35133520,MostlyAdequate/mostly-adequate-guide,14079115,MostlyAdequate,JavaScript,Other
+19620844,ovity/octotree,43424025,ovity,JavaScript,GNU Affero General Public License v3.0
+38836015,michalsnik/aos,0,,JavaScript,MIT License
+77912349,qianguyihao/Web,0,,JavaScript,Other
+73681508,Tencent/wepy,18461506,Tencent,JavaScript,Other
+11061773,eslint/eslint,6019716,eslint,JavaScript,MIT License
+1451352,mochajs/mocha,8770005,mochajs,JavaScript,MIT License
+8686855,usablica/intro.js,2010360,usablica,JavaScript,Other
+58623321,bilibili/flv.js,12002442,bilibili,JavaScript,Apache License 2.0
+40484398,discordjs/discord.js,26492485,discordjs,JavaScript,Apache License 2.0
+14003349,localForage/localForage,18673496,localForage,JavaScript,Apache License 2.0
+51270739,viatsko/awesome-vscode,0,,JavaScript,Creative Commons Zero v1.0 Universal
+33895378,bevacqua/dragula,0,,JavaScript,MIT License
+37246537,chenglou/react-motion,0,,JavaScript,MIT License
+128237146,vuejs/vuepress,6128107,vuejs,JavaScript,MIT License
+734934,pugjs/pug,9338635,pugjs,JavaScript,
+7874074,goldfire/howler.js,0,,JavaScript,MIT License
+64700934,OpenZeppelin/openzeppelin-contracts,20820676,OpenZeppelin,JavaScript,MIT License
+2540368,jaredhanson/passport,0,,JavaScript,MIT License
+1198539,lutzroeder/netron,0,,JavaScript,MIT License
+23141830,paularmstrong/normalizr,0,,JavaScript,MIT License
+1213225,highlightjs/highlight.js,9039821,highlightjs,JavaScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+8768406,postcss/autoprefixer,8296347,postcss,JavaScript,MIT License
+965782,validatorjs/validator.js,52114810,validatorjs,JavaScript,MIT License
+181807583,haizlin/fe-interview,31833528,haizlin,JavaScript,MIT License
+15975439,jlmakes/scrollreveal,0,,JavaScript,
+37153337,necolas/react-native-web,0,,JavaScript,MIT License
+18964487,ruanyf/es6tutorial,0,,JavaScript,Other
+124171501,Meituan-Dianping/mpvue,20238146,Meituan-Dianping,JavaScript,MIT License
+39122628,git-tips/tips,13345927,git-tips,JavaScript,MIT License
+12670444,petkaantonov/bluebird,0,,JavaScript,MIT License
+26820798,avajs/ava,8527916,avajs,JavaScript,MIT License
+46622323,nefe/You-Dont-Need-jQuery,33238961,nefe,JavaScript,MIT License
+32531480,js-cookie/js-cookie,11557446,js-cookie,JavaScript,MIT License
+169529567,zhaoolee/ChromeAppHeroes,0,,JavaScript,GNU General Public License v3.0
+45942274,enzymejs/enzyme,60945302,enzymejs,JavaScript,MIT License
+50603846,parse-community/parse-server,26932219,parse-community,JavaScript,Other
+1206546,winstonjs/winston,9682013,winstonjs,JavaScript,MIT License
+181461073,v2fly/v2ray-core,49637375,v2fly,JavaScript,MIT License
+2051226,eligrey/FileSaver.js,0,,JavaScript,Other
+172741073,FredKSchott/snowpack,0,,JavaScript,MIT License
+74962515,gchq/CyberChef,15800240,gchq,JavaScript,Apache License 2.0
+8986773,benweet/stackedit,0,,JavaScript,Apache License 2.0
+195226340,goldbergyoni/javascript-testing-best-practices,0,,JavaScript,MIT License
+5830987,hapijs/joi,3774533,hapijs,JavaScript,Other
+11855195,chalk/chalk,13122722,chalk,JavaScript,MIT License
+99401299,ai/nanoid,0,,JavaScript,MIT License
+18477927,segmentio/nightmare,819518,segmentio,JavaScript,

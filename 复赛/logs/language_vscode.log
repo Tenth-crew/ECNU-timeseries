@@ -1,0 +1,76 @@
+True
+Args in experiment:
+[1mBasic Config[0m
+  Task Name:          long_term_forecast  Is Training:        1                   
+  Model ID:           language_vscode_84_84Model:              PatchTST            
+
+[1mData Loader[0m
+  Data:               custom              Root Path:          ./dataset/language/Detail_repo/TypeScript/
+  Data Path:          vscode_all_roll_ewma_span28_normalize.csvFeatures:           M                   
+  Target:             OT                  Freq:               h                   
+  Checkpoints:        ./checkpoints/      
+
+[1mForecasting Task[0m
+  Seq Len:            84                  Label Len:          84                  
+  Pred Len:           84                  Seasonal Patterns:  Monthly             
+  Inverse:            1                   
+
+[1mModel Parameters[0m
+  Top k:              5                   Num Kernels:        6                   
+  Enc In:             5                   Dec In:             5                   
+  C Out:              5                   d model:            512                 
+  n heads:            2                   e layers:           1                   
+  d layers:           1                   d FF:               2048                
+  Moving Avg:         25                  Factor:             3                   
+  Distil:             1                   Dropout:            0.1                 
+  Embed:              timeF               Activation:         gelu                
+  Output Attention:   0                   
+
+[1mRun Parameters[0m
+  Num Workers:        10                  Itr:                1                   
+  Train Epochs:       10                  Batch Size:         32                  
+  Patience:           3                   Learning Rate:      0.0001              
+  Des:                Exp                 Loss:               MSE                 
+  Lradj:              type1               Use Amp:            0                   
+
+[1mGPU[0m
+  Use GPU:            1                   GPU:                0                   
+  Use Multi GPU:      0                   Devices:            0,1,2,3             
+
+[1mDe-stationary Projector Params[0m
+  P Hidden Dims:      128, 128            P Hidden Layers:    2                   
+
+Use GPU: cuda:0
+>>>>>>>start training : long_term_forecast_language_vscode_84_84_PatchTST_custom_ftM_sl84_ll84_pl84_dm512_nh2_el1_dl1_df2048_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+len of dataset:  730
+train 271
+len of dataset:  730
+val 63
+len of dataset:  730
+test 63
+Epoch: 1 cost time: 1.3872618675231934
+Epoch: 1, Steps: 9 | Train Loss: 1.2248665 Vali Loss: 12.0158978 Test Loss: 0.6921652
+Validation loss decreased (inf --> 12.015898).  Saving model ...
+Updating learning rate to 0.0001
+Epoch: 2 cost time: 0.4693005084991455
+Epoch: 2, Steps: 9 | Train Loss: 0.9940910 Vali Loss: 11.7206097 Test Loss: 0.5438738
+Validation loss decreased (12.015898 --> 11.720610).  Saving model ...
+Updating learning rate to 5e-05
+Epoch: 3 cost time: 0.49480175971984863
+Epoch: 3, Steps: 9 | Train Loss: 0.8840336 Vali Loss: 11.7952213 Test Loss: 0.5877084
+EarlyStopping counter: 1 out of 3
+Updating learning rate to 2.5e-05
+Epoch: 4 cost time: 0.5149075984954834
+Epoch: 4, Steps: 9 | Train Loss: 0.7967408 Vali Loss: 12.1769772 Test Loss: 0.6618052
+EarlyStopping counter: 2 out of 3
+Updating learning rate to 1.25e-05
+Epoch: 5 cost time: 0.5321717262268066
+Epoch: 5, Steps: 9 | Train Loss: 0.7691836 Vali Loss: 12.3290348 Test Loss: 0.6937066
+EarlyStopping counter: 3 out of 3
+Early stopping
+>>>>>>>testing : long_term_forecast_language_vscode_84_84_PatchTST_custom_ftM_sl84_ll84_pl84_dm512_nh2_el1_dl1_df2048_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+len of dataset:  730
+test 63
+test shape: (63, 84, 5) (63, 84, 5)
+test shape: (63, 84, 5) (63, 84, 5)
+mse:0.5443371534347534, mae:0.5981833338737488, dtw:-999

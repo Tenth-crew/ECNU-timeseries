@@ -1,0 +1,242 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+13491895,EbookFoundation/free-programming-books,14127308,EbookFoundation,other,Other
+60493101,jwasham/coding-interview-university,0,,other,Creative Commons Attribution Share Alike 4.0 International
+132750724,codecrafters-io/build-your-own-x,58904235,codecrafters-io,other,
+14440270,getify/You-Dont-Know-JS,0,,other,Other
+31792824,flutter/flutter,14101776,flutter,other,"BSD 3-Clause ""New"" or ""Revised"" License"
+1062897,github/gitignore,9919,github,other,Creative Commons Zero v1.0 Universal
+19415064,ossu/computer-science,14957346,ossu,other,MIT License
+35955666,jlevy/the-art-of-command-line,0,,other,
+241576270,labuladong/fucking-algorithm,0,,other,
+14098069,justjavac/free-programming-books-zh_CN,0,,other,GNU General Public License v3.0
+138393139,trimstray/the-book-of-secret-knowledge,0,,other,MIT License
+88011908,practical-tutorials/project-based-learning,89421154,practical-tutorials,other,MIT License
+88464704,PanJiaChen/vue-element-admin,0,,other,MIT License
+2561582,animate-css/animate.css,64791939,animate-css,other,Other
+1863329,laravel/laravel,958072,laravel,other,
+44571718,vuejs/awesome-vue,6128107,vuejs,other,MIT License
+26500787,tonsky/FiraCode,0,,other,SIL Open Font License 1.1
+101296881,mtdvio/every-programmer-should-know,33053074,mtdvio,other,Creative Commons Attribution 4.0 International
+32484381,ripienaar/free-for-dev,0,,other,
+107111421,thedaviddias/Front-End-Checklist,0,,other,Creative Commons Zero v1.0 Universal
+172562475,florinpop17/app-ideas,0,,other,MIT License
+16408992,neovim/neovim,6471485,neovim,other,Other
+55076063,Hack-with-Github/Awesome-Hacking,18143746,Hack-with-Github,other,Creative Commons Zero v1.0 Universal
+128398636,xingshaocheng/architect-awesome,0,,other,
+3402537,h5bp/Front-end-Developer-Interview-Questions,1136800,h5bp,other,MIT License
+7600409,shadowsocks/shadowsocks-windows,3006190,shadowsocks,other,Other
+120538304,kelseyhightower/nocode,0,,other,Apache License 2.0
+18408635,chrislgarry/Apollo-11,0,,other,Other
+22670857,enaqx/awesome-react,0,,other,
+67274736,ElemeFE/element,12810740,ElemeFE,other,MIT License
+26898879,awesomedata/awesome-public-datasets,35111974,awesomedata,other,MIT License
+8514,rails/rails,4223,rails,other,MIT License
+191529732,lydiahallie/javascript-questions,0,,other,MIT License
+83999700,sdmg15/Best-websites-a-programmer-should-visit,0,,other,MIT License
+1700621,necolas/normalize.css,0,,other,MIT License
+203587744,hoppscotch/hoppscotch,56705483,hoppscotch,other,MIT License
+47018239,DopplerHQ/awesome-interview-questions,34022344,DopplerHQ,other,
+21737266,sindresorhus/awesome-nodejs,0,,other,Creative Commons Zero v1.0 Universal
+71583602,Developer-Y/cs-video-courses,0,,other,
+24953448,google/material-design-icons,1342004,google,other,Apache License 2.0
+261787758,bradtraversy/design-resources-for-developers,0,,other,MIT License
+44882201,MunGell/awesome-for-beginners,0,,other,
+50264296,jgthms/bulma,0,,other,MIT License
+65252,jekyll/jekyll,3083652,jekyll,other,MIT License
+90528830,Solido/awesome-flutter,0,,other,
+3482588,danielmiessler/SecLists,0,,other,MIT License
+26689598,prakhar1989/awesome-courses,0,,other,
+28428729,wasabeef/awesome-android-ui,0,,other,MIT License
+3432266,JetBrains/kotlin,878437,JetBrains,other,
+5152285,square/okhttp,82592,square,other,Apache License 2.0
+343965132,microsoft/ML-For-Beginners,6154722,microsoft,other,MIT License
+98029592,ziishaned/learn-regex,0,,other,MIT License
+21935031,fffaraz/awesome-cpp,0,,other,Other
+45986162,aymericdamien/TensorFlow-Examples,0,,other,Other
+51148780,android/architecture-samples,32689599,android,other,Apache License 2.0
+115478820,binhnguyennus/awesome-scalability,0,,other,MIT License
+1644196,JuliaLang/julia,743164,JuliaLang,other,Other
+11177928,karan/Projects,0,,other,MIT License
+22119721,k88hudson/git-flight-rules,0,,other,Creative Commons Attribution Share Alike 4.0 International
+27574418,ryanoasis/nerd-fonts,0,,other,Other
+77189043,bailicangdu/vue2-elm,0,,other,GNU General Public License v2.0
+68957920,justjavac/awesome-wechat-weapp,0,,other,GNU General Public License v3.0
+52281283,mastodon/mastodon,24979032,mastodon,other,GNU Affero General Public License v3.0
+139824423,Avik-Jain/100-Days-Of-ML-Code,0,,other,MIT License
+523379232,CompVis/stable-diffusion,30233788,CompVis,other,Other
+18708860,tiimgreen/github-cheat-sheet,0,,other,MIT License
+8681349,huginn/huginn,23225142,huginn,other,MIT License
+357728969,oven-sh/bun,108928776,oven-sh,other,
+7569578,discourse/discourse,3220138,discourse,other,Other
+65388917,jakevdp/PythonDataScienceHandbook,0,,other,Other
+102969245,golang-standards/project-layout,31396365,golang-standards,other,Other
+153697551,Fndroid/clash_for_windows_pkg,0,,other,
+49609581,PowerShell/PowerShell,11524380,PowerShell,other,MIT License
+69629434,FreeCodeCampChina/freecodecamp.cn,18478284,FreeCodeCampChina,other,Other
+10865436,dypsilon/frontend-dev-bookmarks,0,,other,
+27442967,fastlane/fastlane,11098337,fastlane,other,MIT License
+56969116,ngosang/trackerslist,0,,other,GNU General Public License v2.0
+14194174,alex/what-happens-when,0,,other,
+54544023,Alvin9999/new-pac,0,,other,
+82227585,kamranahmedse/design-patterns-for-humans,0,,other,
+199570071,2dust/v2rayN,0,,other,GNU General Public License v3.0
+12820537,slatedocs/slate,54482270,slatedocs,other,Apache License 2.0
+21648001,akullpp/awesome-java,0,,other,Other
+17165658,apache/spark,47359,apache,other,Apache License 2.0
+53238813,Homebrew/brew,1503512,Homebrew,other,"BSD 2-Clause ""Simplified"" License"
+61893399,brillout/awesome-react-components,0,,other,Creative Commons Zero v1.0 Universal
+26783295,Kong/kong,962416,Kong,other,Other
+62812261,kelseyhightower/kubernetes-the-hard-way,0,,other,Other
+1828795,AFNetworking/AFNetworking,1181541,AFNetworking,other,MIT License
+108761645,nocodb/nocodb,50206778,nocodb,other,GNU Affero General Public License v3.0
+7190986,shadowsocks/shadowsocks-android,3006190,shadowsocks,other,Other
+35969061,google/styleguide,1342004,google,other,Apache License 2.0
+119811010,tabler/tabler,35471246,tabler,other,MIT License
+29268051,google/material-design-lite,1342004,google,other,Apache License 2.0
+156157055,GokuMohandas/MadeWithML,0,,other,MIT License
+178092134,formulahendry/955.WLB,0,,other,
+6988020,SheetJS/sheetjs,5826089,SheetJS,other,Apache License 2.0
+45512989,xitu/gold-miner,10482599,xitu,other,
+67702184,topjohnwu/Magisk,0,,other,GNU General Public License v3.0
+169677297,vlang/v,46413578,vlang,other,MIT License
+15653276,Trinea/android-open-project,0,,other,Apache License 2.0
+1129010,blueimp/jQuery-File-Upload,0,,other,MIT License
+30203935,metabase/metabase,10520629,metabase,other,Other
+6731432,koalaman/shellcheck,0,,other,Other
+68720867,firstcontributions/first-contributions,37713493,firstcontributions,other,MIT License
+13840241,freeCodeCamp/devdocs,9892522,freeCodeCamp,other,Other
+17620347,dotnet/aspnetcore,9141961,dotnet,other,MIT License
+62156403,QSCTech/zju-icicles,4727983,QSCTech,other,
+12732573,junegunn/vim-plug,0,,other,MIT License
+21600440,bayandin/awesome-awesomeness,0,,other,
+21393871,sorrycc/awesome-javascript,0,,other,
+2573058,foundation/foundation-sites,35962841,foundation,other,MIT License
+238316428,CSSEGISandData/COVID-19,0,,other,
+40997482,vim/vim,11618545,vim,other,Vim License
+2293158,rapid7/metasploit-framework,1013671,rapid7,other,Other
+56717493,joshbuchea/HEAD,0,,other,
+17375436,lukehoban/es6features,0,,other,MIT License
+221129519,AobingJava/JavaFamily,0,,other,
+7548986,laravel/framework,958072,laravel,other,MIT License
+152870372,ruanyf/weekly,0,,other,
+95189138,alibaba/p3c,1961952,alibaba,other,Apache License 2.0
+4484451,amix/vimrc,0,,other,MIT License
+34824499,square/leakcanary,82592,square,other,Apache License 2.0
+10788737,codepath/android_guides,3710273,codepath,other,MIT License
+15585444,IanLunn/Hover,0,,other,Other
+458058,symfony/symfony,143937,symfony,other,MIT License
+14705691,ziadoz/awesome-php,0,,other,Do What The F*ck You Want To Public License
+158703981,lib-pku/libpku,44827603,lib-pku,other,
+84811466,mqyqingfeng/Blog,0,,other,
+29219243,bannedbook/fanqiang,0,,other,
+571770,jgm/pandoc,0,,other,Other
+382496361,louislam/uptime-kuma,0,,other,MIT License
+1864363,composer/composer,837015,composer,other,MIT License
+179613976,PKUanonym/REKCARC-TSC-UHT,0,,other,Creative Commons Attribution Share Alike 4.0 International
+28167802,Tencent/weui,18461506,Tencent,other,Other
+151619717,google-research/google-research,43830688,google-research,other,Apache License 2.0
+70431106,ZuzooVn/machine-learning-for-software-engineers,0,,other,Creative Commons Attribution Share Alike 4.0 International
+122692377,houshanren/hangzhou_house_knowledge,0,,other,
+21552971,alebcay/awesome-shell,0,,other,Creative Commons Zero v1.0 Universal
+164140756,files-community/Files,65931357,files-community,other,MIT License
+1481305,realpython/python-guide,5448020,realpython,other,Other
+42956467,herrbischoff/awesome-macos-command-line,0,,other,Creative Commons Attribution Share Alike 4.0 International
+270171567,freefq/free,0,,other,
+92807616,byoungd/English-level-up-tips-for-Chinese,0,,other,
+7607075,CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,0,,other,MIT License
+51863547,ageron/handson-ml,0,,other,Apache License 2.0
+109484365,fengdu78/Coursera-ML-AndrewNg-Notes,0,,other,
+481872,hashicorp/vagrant,761456,hashicorp,other,MIT License
+45456804,jobbole/awesome-python-cn,8531823,jobbole,other,Other
+207117992,viraptor/reverse-interview,0,,other,Other
+328831244,ibraheemdev/modern-unix,0,,other,
+419347358,PKUFlyingPig/pku-cs-self-learning,0,,other,Other
+313419,SDWebImage/SDWebImage,33113626,SDWebImage,other,MIT License
+35756351,nagadomi/waifu2x,0,,other,MIT License
+63484632,facebookresearch/fastText,16943930,facebookresearch,other,MIT License
+22362099,johnpapa/angular-styleguide,0,,other,MIT License
+64355429,iview/iview,20693613,iview,other,Other
+34453060,sindresorhus/awesome-electron,0,,other,Creative Commons Zero v1.0 Universal
+28699471,lukasz-madon/awesome-remote-job,0,,other,
+313330998,bradtraversy/50projects50days,0,,other,MIT License
+24297122,veggiemonk/awesome-docker,0,,other,Apache License 2.0
+60325062,terryum/awesome-deep-learning-papers,0,,other,
+41592744,AllThingsSmitty/css-protips,0,,other,Creative Commons Zero v1.0 Universal
+164554832,ageron/handson-ml2,0,,other,Apache License 2.0
+995750,VundleVim/Vundle.vim,12930284,VundleVim,other,MIT License
+11620669,CodeHubApp/CodeHub,31394933,CodeHubApp,other,
+102973646,fastai/fastai,20547620,fastai,other,Apache License 2.0
+24579238,vuejs/vue-devtools,6128107,vuejs,other,MIT License
+317836248,GorvGoyl/Clone-Wars,0,,other,GNU Affero General Public License v3.0
+2500088,gitlabhq/gitlabhq,1086321,gitlabhq,other,Other
+308770,heartcombo/devise,59584037,heartcombo,other,MIT License
+202367615,lyswhut/lx-music-desktop,0,,other,Apache License 2.0
+23069399,mdbootstrap/mdb-ui-kit,20553039,mdbootstrap,other,Other
+103953059,mbeaudru/modern-js-cheatsheet,0,,other,MIT License
+7212645,syl20bnr/spacemacs,0,,other,Other
+164608222,alibaba/flutter-go,1961952,alibaba,other,Other
+13428264,ShareX/ShareX,5548736,ShareX,other,GNU General Public License v3.0
+37382858,kilimchoi/engineering-blogs,0,,other,
+16677706,kahun/awesome-sysadmin,0,,other,Other
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,0,,other,
+15315789,Wox-launcher/Wox,15628601,Wox-launcher,other,MIT License
+90792131,android/architecture-components-samples,32689599,android,other,Apache License 2.0
+75867720,wesbos/JavaScript30,0,,other,
+73561650,jaywcjlove/linux-command,0,,other,MIT License
+1420053,guzzle/guzzle,638632,guzzle,other,MIT License
+1631024,harvesthq/chosen,43635,harvesthq,other,Other
+70104825,dotnet-architecture/eShopOnContainers,27453006,dotnet-architecture,other,MIT License
+12104024,datasciencemasters/go,5228194,datasciencemasters,other,The Unlicense
+277168957,eugeneyan/applied-ml,0,,other,MIT License
+131770422,neoclide/coc.nvim,23586922,neoclide,other,Other
+25880891,facebook/flow,69631,facebook,other,MIT License
+121081768,komeiji-satori/Dress,0,,other,Other
+5532320,Polymer/polymer,2159051,Polymer,other,Other
+50151075,markerikson/react-redux-links,0,,other,
+16722900,ipfs/ipfs,10536621,ipfs,other,MIT License
+18347476,google/iosched,1342004,google,other,Other
+4660742,zhiwehu/Python-programming-exercises,0,,other,
+22657662,wsargent/docker-cheat-sheet,0,,other,Creative Commons Attribution 4.0 International
+233472199,massgravel/Microsoft-Activation-Scripts,59795046,massgravel,other,
+1234714,elixir-lang/elixir,1481354,elixir-lang,other,Apache License 2.0
+60243197,nextcloud/server,19211038,nextcloud,other,Other
+152327866,Igglybuff/awesome-piracy,0,,other,Creative Commons Zero v1.0 Universal
+1800198,rwaldron/idiomatic.js,0,,other,Other
+2246815,DesignPatternsPHP/DesignPatternsPHP,78624921,DesignPatternsPHP,other,MIT License
+136062240,DovAmir/awesome-design-patterns,0,,other,
+60027534,Awesome-Windows/Awesome,19653660,Awesome-Windows,other,Creative Commons Zero v1.0 Universal
+20429943,SwiftGGTeam/the-swift-programming-language-in-chinese,13672422,SwiftGGTeam,other,
+35658863,ColorlibHQ/gentelella,39128121,ColorlibHQ,other,MIT License
+99433554,googlehosts/hosts,30318333,googlehosts,other,Other
+63188650,microsoft/api-guidelines,6154722,microsoft,other,Other
+153500249,sdras/awesome-actions,0,,other,Creative Commons Zero v1.0 Universal
+162783195,datawhalechina/pumpkin-book,46047812,datawhalechina,other,Other
+302603001,qier222/YesPlayMusic,0,,other,MIT License
+3112748,leereilly/games,0,,other,
+43807251,tachiyomiorg/tachiyomi,53302311,tachiyomiorg,other,Apache License 2.0
+155662306,trekhleb/homemade-machine-learning,0,,other,MIT License
+32157172,gfwlist/gfwlist,11460227,gfwlist,other,GNU Lesser General Public License v2.1
+40905762,judasn/IntelliJ-IDEA-Tutorial,0,,other,GNU General Public License v2.0
+325573863,coder2gwy/coder2gwy,0,,other,
+21515044,academic/awesome-datascience,17519607,academic,other,MIT License
+73648678,forem/forem,65030610,forem,other,GNU Affero General Public License v3.0
+240215314,docker/awesome-compose,5429470,docker,other,Creative Commons Zero v1.0 Universal
+1376664,Seldaek/monolog,0,,other,MIT License
+3431083,BradLarson/GPUImage,0,,other,"BSD 3-Clause ""New"" or ""Revised"" License"
+28723659,ChristosChristofidis/awesome-deep-learning,0,,other,
+537603333,openai/whisper,14957082,openai,other,MIT License
+482152820,geekan/HowToLiveLonger,0,,other,The Unlicense
+183345962,MustangYM/WeChatExtension-ForMac,0,,other,MIT License
+22374063,futurice/android-best-practices,852157,futurice,other,Other
+538746,ruby/ruby,210414,ruby,other,Other
+83516498,norvig/pytudes,0,,other,MIT License
+20787122,PostgREST/postgrest,15115011,PostgREST,other,MIT License
+48769241,penpot/penpot,30179644,penpot,other,Mozilla Public License 2.0
+3623050,Homebrew/homebrew-cask,1503512,Homebrew,other,"BSD 2-Clause ""Simplified"" License"
+93253246,javascript-tutorial/en.javascript.info,49552305,javascript-tutorial,other,Other
+113752225,tipsy/profile-summary-for-github,0,,other,Apache License 2.0
+77358263,SpaceVim/SpaceVim,24742154,SpaceVim,other,GNU General Public License v3.0
+69662720,mxgmn/WaveFunctionCollapse,0,,other,Other
+65848095,requarks/wiki,16729233,requarks,other,GNU Affero General Public License v3.0
+67687706,kdeldycke/awesome-falsehood,0,,other,Creative Commons Zero v1.0 Universal
+266231149,logseq/logseq,63385289,logseq,other,GNU Affero General Public License v3.0

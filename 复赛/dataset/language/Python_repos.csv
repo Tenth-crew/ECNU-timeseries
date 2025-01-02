@@ -1,0 +1,120 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+54346799,public-apis/public-apis,51121562,public-apis,Python,MIT License
+83222441,donnemartin/system-design-primer,0,,Python,Other
+21289110,vinta/awesome-python,0,,Python,Other
+63476337,TheAlgorithms/Python,20487725,TheAlgorithms,Python,MIT License
+123458551,jackfrued/Python-100-Days,0,,Python,
+1039520,ytdl-org/youtube-dl,48381040,ytdl-org,Python,The Unlicense
+155220641,huggingface/transformers,25720743,huggingface,Python,Apache License 2.0
+51117837,tensorflow/models,15658638,tensorflow,Python,Other
+33614304,nvbn/thefuck,0,,Python,MIT License
+4164482,django/django,27804,django,Python,Other
+58028038,521xueweihan/HelloGitHub,0,,Python,
+596892,pallets/flask,16748505,pallets,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+21872392,josephmisiti/awesome-machine-learning,0,,Python,Other
+12888993,home-assistant/core,13844975,home-assistant,Python,Apache License 2.0
+33015583,keras-team/keras,34455048,keras-team,Python,Other
+3638964,ansible/ansible,1507452,ansible,Python,GNU General Public License v3.0
+3544424,httpie/httpie,24454777,httpie,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+160919119,tiangolo/fastapi,0,,Python,MIT License
+843222,scikit-learn/scikit-learn,365630,scikit-learn,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+81598961,python/cpython,1525981,python,Python,Other
+32689863,3b1b/manim,0,,Python,Other
+1362490,psf/requests,50630501,psf,Python,Apache License 2.0
+83844720,ageitgey/face_recognition,0,,Python,MIT License
+5483330,soimort/you-get,0,,Python,Other
+529502,scrapy/scrapy,733635,scrapy,Python,Other
+71948498,localstack/localstack,28732122,localstack,Python,Other
+145553672,fighting41love/funNLP,0,,Python,
+40416236,minimaxir/big-list-of-naughty-strings,0,,Python,MIT License
+71220757,swisskyrepo/PayloadsAllTheThings,0,,Python,MIT License
+114747226,deepfakes/faceswap,0,,Python,GNU General Public License v3.0
+220809393,Textualize/rich,93378883,Textualize,Python,MIT License
+162998479,sherlock-project/sherlock,48293496,sherlock-project,Python,MIT License
+74627617,commaai/openpilot,16128714,commaai,Python,MIT License
+307260205,yt-dlp/yt-dlp,79589310,yt-dlp,Python,The Unlicense
+101138315,d2l-ai/d2l-zh,43974506,d2l-ai,Python,Apache License 2.0
+188660663,CorentinJ/Real-Time-Voice-Cloning,0,,Python,Other
+41058054,isocpp/CppCoreGuidelines,13841574,isocpp,Python,Other
+858127,pandas-dev/pandas,21206976,pandas-dev,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+136026789,iperov/DeepFaceLab,0,,Python,GNU General Public License v3.0
+212639071,bregman-arie/devops-exercises,0,,Python,Other
+4578002,faif/python-patterns,0,,Python,
+83119431,apachecn/ailearning,24802038,apachecn,Python,Other
+70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,0,,Python,
+264818686,ultralytics/yolov5,26833451,ultralytics,Python,GNU General Public License v3.0
+90563585,chubin/cheat.sh,0,,Python,MIT License
+4086616,shadowsocks/shadowsocks,3006190,shadowsocks,Python,
+873328,getsentry/sentry,1396951,getsentry,Python,Other
+154747577,google-research/bert,43830688,google-research,Python,Apache License 2.0
+101684374,satwikkansal/wtfpython,0,,Python,Do What The F*ck You Want To Public License
+191113739,0voice/interview_internal_reference,43104160,0voice,Python,
+29290473,XX-net/XX-Net,10395542,XX-net,Python,
+118861276,gto76/python-cheatsheet,0,,Python,
+91573538,testerSunshine/12306,0,,Python,MIT License
+125266328,psf/black,50630501,psf,Python,MIT License
+519832,mitmproxy/mitmproxy,4652787,mitmproxy,Python,MIT License
+26516210,certbot/certbot,17889013,certbot,Python,Other
+6007295,fxsjy/jieba,0,,Python,MIT License
+57222302,openai/gym,14957082,openai,Python,Other
+33884891,apache/airflow,47359,apache,Python,Apache License 2.0
+15045751,docker/compose,5429470,docker,Python,Apache License 2.0
+237791077,mingrammer/diagrams,0,,Python,MIT License
+24976755,hankcs/HanLP,0,,Python,Apache License 2.0
+19745004,odoo/odoo,6368483,odoo,Python,Other
+262296122,PaddlePaddle/PaddleOCR,23534030,PaddlePaddle,Python,Apache License 2.0
+28751632,0xAX/linux-insides,0,,Python,Other
+527591471,AUTOMATIC1111/stable-diffusion-webui,0,,Python,
+58842707,trailofbits/algo,2314423,trailofbits,Python,GNU Affero General Public License v3.0
+34757182,donnemartin/interactive-coding-challenges,0,,Python,Other
+4793392,sqlmapproject/sqlmap,735289,sqlmapproject,Python,Other
+393571599,babysor/Realtime-Voice-Clone-Chinese,0,,Python,Other
+84533158,yunjey/pytorch-tutorial,0,,Python,MIT License
+21467110,explosion/spaCy,20011530,explosion,Python,MIT License
+349321229,TencentARC/GFPGAN,83739826,TencentARC,Python,Other
+1431547,encode/django-rest-framework,19159390,encode,Python,Other
+105919803,facebookresearch/Detectron,16943930,facebookresearch,Python,Apache License 2.0
+4037197,ycm-core/YouCompleteMe,52140259,ycm-core,Python,GNU General Public License v3.0
+29749635,donnemartin/data-science-ipython-notebooks,0,,Python,Other
+82729529,google/python-fire,1342004,google,Python,Other
+79510167,pypa/pipenv,647025,pypa,Python,MIT License
+36804486,tqdm/tqdm,12731565,tqdm,Python,Other
+254832799,Z4nzu/hackingtool,0,,Python,MIT License
+71932349,ray-project/ray,22125274,ray-project,Python,Apache License 2.0
+206660580,facebookresearch/detectron2,16943930,facebookresearch,Python,Apache License 2.0
+123303402,python-poetry/poetry,48722593,python-poetry,Python,MIT License
+168799526,rwightman/pytorch-image-models,0,,Python,Apache License 2.0
+319029846,beurtschipper/Depix,0,,Python,Other
+107595270,matterport/Mask_RCNN,4206481,matterport,Python,Other
+145670234,open-mmlab/mmdetection,10245193,open-mmlab,Python,Apache License 2.0
+162723104,OWASP/CheatSheetSeries,155815,OWASP,Python,Other
+13926404,getredash/redash,10746780,getredash,Python,"BSD 2-Clause ""Simplified"" License"
+908607,numpy/numpy,288276,numpy,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+4008931,StevenBlack/hosts,0,,Python,MIT License
+2909429,nicolargo/glances,0,,Python,Other
+74073233,keon/algorithms,0,,Python,MIT License
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,0,,Python,MIT License
+80990461,eriklindernoren/ML-From-Scratch,0,,Python,MIT License
+196284711,microsoft/cascadia-code,6154722,microsoft,Python,SIL Open Font License 1.1
+420459569,github/copilot-docs,9919,github,Python,Creative Commons Attribution 4.0 International
+154739597,google/jax,1342004,google,Python,Other
+49935814,littlecodersh/ItChat,0,,Python,Other
+138331573,sebastianruder/NLP-progress,0,,Python,MIT License
+211124697,deezer/spleeter,4393583,deezer,Python,MIT License
+45723377,charlax/professional-programming,0,,Python,MIT License
+178626720,Lightning-AI/lightning,58386951,Lightning-AI,Python,Apache License 2.0
+301742,tornadoweb/tornado,7468980,tornadoweb,Python,Apache License 2.0
+12044132,bitcoinbook/bitcoinbook,5091621,bitcoinbook,Python,Other
+184460,celery/celery,319983,celery,Python,Other
+38696925,python-telegram-bot/python-telegram-bot,16178365,python-telegram-bot,Python,Other
+101782647,facebookresearch/fairseq,16943930,facebookresearch,Python,MIT License
+1377867,locustio/locust,2641063,locustio,Python,MIT License
+196353673,taosdata/TDengine,48876650,taosdata,Python,GNU Affero General Public License v3.0
+91629816,freqtrade/freqtrade,37536846,freqtrade,Python,GNU General Public License v3.0
+48623558,chubin/wttr.in,0,,Python,Apache License 2.0
+41654081,drduh/macOS-Security-and-Privacy-Guide,0,,Python,MIT License
+31522041,vnpy/vnpy,0,,Python,MIT License
+21484781,jumpserver/jumpserver,6006570,jumpserver,Python,GNU General Public License v3.0
+82040650,shimohq/chinese-programmer-wrong-pronunciation,13383310,shimohq,Python,
+66424871,pytorch/examples,21003710,pytorch,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+65711522,PaddlePaddle/Paddle,23534030,PaddlePaddle,Python,Apache License 2.0

@@ -1,0 +1,612 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license,org_type
+28457823,freeCodeCamp/freeCodeCamp,9892522,freeCodeCamp,TypeScript,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+13491895,EbookFoundation/free-programming-books,14127308,EbookFoundation,,Other,组织用户
+54346799,public-apis/public-apis,51121562,public-apis,Python,MIT License,组织用户
+11730342,vuejs/vue,6128107,vuejs,TypeScript,MIT License,组织用户
+10270250,facebook/react,69631,facebook,JavaScript,MIT License,组织用户
+132750724,codecrafters-io/build-your-own-x,58904235,codecrafters-io,,,组织用户
+45717250,tensorflow/tensorflow,15658638,tensorflow,C++,Apache License 2.0,组织用户
+2126244,twbs/bootstrap,2918581,twbs,JavaScript,MIT License,组织用户
+291137,ohmyzsh/ohmyzsh,22552083,ohmyzsh,Shell,MIT License,组织用户
+63476337,TheAlgorithms/Python,20487725,TheAlgorithms,Python,MIT License,组织用户
+31792824,flutter/flutter,14101776,flutter,Dart,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+1062897,github/gitignore,9919,github,,Creative Commons Zero v1.0 Universal,组织用户
+41881900,microsoft/vscode,6154722,microsoft,TypeScript,MIT License,组织用户
+6498492,airbnb/javascript,698437,airbnb,JavaScript,MIT License,组织用户
+19415064,ossu/computer-science,14957346,ossu,,MIT License,组织用户
+1039520,ytdl-org/youtube-dl,48381040,ytdl-org,Python,The Unlicense,组织用户
+36633370,awesome-selfhosted/awesome-selfhosted,24270415,awesome-selfhosted,JavaScript,Other,组织用户
+23096959,golang/go,4314092,golang,Go,Other,组织用户
+29028775,facebook/react-native,69631,facebook,JavaScript,Other,组织用户
+9384267,electron/electron,13409222,electron,C++,MIT License,组织用户
+112507086,30-seconds/30-seconds-of-code,43479428,30-seconds,JavaScript,Creative Commons Zero v1.0 Universal,组织用户
+943149,d3/d3,1562726,d3,JavaScript,ISC License,组织用户
+63537249,facebook/create-react-app,69631,facebook,JavaScript,MIT License,组织用户
+70107786,vercel/next.js,14985020,vercel,JavaScript,MIT License,组织用户
+23088740,axios/axios,32372333,axios,JavaScript,MIT License,组织用户
+20580498,kubernetes/kubernetes,13629408,kubernetes,Go,Apache License 2.0,组织用户
+27193779,nodejs/node,9950313,nodejs,JavaScript,Other,组织用户
+20929025,microsoft/TypeScript,6154722,microsoft,TypeScript,Apache License 2.0,组织用户
+133442384,denoland/deno,42048915,denoland,TypeScript,MIT License,组织用户
+100060912,microsoft/terminal,6154722,microsoft,C++,MIT License,组织用户
+24195339,angular/angular,139426,angular,TypeScript,MIT License,组织用户
+88011908,practical-tutorials/project-based-learning,89421154,practical-tutorials,,MIT License,组织用户
+184456251,microsoft/PowerToys,6154722,microsoft,C++,MIT License,组织用户
+23083156,mui/material-ui,33663932,mui,JavaScript,MIT License,组织用户
+34526884,ant-design/ant-design,12101536,ant-design,TypeScript,MIT License,组织用户
+90796663,puppeteer/puppeteer,6906516,puppeteer,TypeScript,Apache License 2.0,组织用户
+155220641,huggingface/transformers,25720743,huggingface,Python,Apache License 2.0,组织用户
+2561582,animate-css/animate.css,64791939,animate-css,CSS,Other,组织用户
+724712,rust-lang/rust,5430905,rust-lang,Rust,Other,组织用户
+54173593,storybookjs/storybook,22632046,storybookjs,TypeScript,MIT License,组织用户
+51117837,tensorflow/models,15658638,tensorflow,Python,Other,组织用户
+111583593,Genymobile/scrcpy,3427627,Genymobile,C,Apache License 2.0,组织用户
+1863329,laravel/laravel,958072,laravel,PHP,,组织用户
+52631841,gothinkster/realworld,8601733,gothinkster,TypeScript,MIT License,组织用户
+3470471,FortAwesome/Font-Awesome,1505683,FortAwesome,JavaScript,Other,组织用户
+4164482,django/django,27804,django,Python,Other,组织用户
+1181927,bitcoin/bitcoin,528860,bitcoin,C++,MIT License,组织用户
+151834062,doocs/advanced-java,43716716,doocs,Java,Creative Commons Attribution Share Alike 4.0 International,组织用户
+44571718,vuejs/awesome-vue,6128107,vuejs,,MIT License,组织用户
+15204860,papers-we-love/papers-we-love,6187757,papers-we-love,Shell,,组织用户
+5108051,opencv/opencv,5009934,opencv,C++,Other,组织用户
+20904437,gin-gonic/gin,7894478,gin-gonic,Go,MIT License,组织用户
+6296790,spring-projects/spring-boot,317776,spring-projects,Java,Apache License 2.0,组织用户
+7691631,moby/moby,27259197,moby,Go,Apache License 2.0,组织用户
+11180687,gohugoio/hugo,29385237,gohugoio,Go,Apache License 2.0,组织用户
+74293321,sveltejs/svelte,23617963,sveltejs,TypeScript,MIT License,组织用户
+101296881,mtdvio/every-programmer-should-know,33053074,mtdvio,,Creative Commons Attribution 4.0 International,组织用户
+612230,nvm-sh/nvm,49963700,nvm-sh,Shell,MIT License,组织用户
+106017343,tailwindlabs/tailwindcss,67109815,tailwindlabs,JavaScript,MIT License,组织用户
+311525798,microsoft/Web-Dev-For-Beginners,6154722,microsoft,JavaScript,MIT License,组织用户
+507775,elastic/elasticsearch,6764390,elastic,Java,Other,组织用户
+3678731,webpack/webpack,2105791,webpack,JavaScript,MIT License,组织用户
+10744183,netdata/netdata,43390781,netdata,C,GNU General Public License v3.0,组织用户
+44838949,apple/swift,10639145,apple,C++,Apache License 2.0,组织用户
+596892,pallets/flask,16748505,pallets,Python,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+65600975,pytorch/pytorch,21003710,pytorch,C++,Other,组织用户
+16408992,neovim/neovim,6471485,neovim,Vim script,Other,组织用户
+157616880,iptv-org/iptv,55937028,iptv-org,JavaScript,The Unlicense,组织用户
+460078,angular/angular.js,139426,angular,JavaScript,MIT License,组织用户
+237159,expressjs/express,5658226,expressjs,JavaScript,MIT License,组织用户
+8843683,chartjs/Chart.js,10342521,chartjs,JavaScript,MIT License,组织用户
+36535156,reduxjs/redux,13142323,reduxjs,TypeScript,Other,组织用户
+3228505,atom/atom,1089146,atom,JavaScript,MIT License,组织用户
+1334369,resume/resume.github.com,602612,resume,JavaScript,,组织用户
+172953845,coder/code-server,95932066,coder,TypeScript,MIT License,组织用户
+156018,redis/redis,1529926,redis,C,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+55076063,Hack-with-Github/Awesome-Hacking,18143746,Hack-with-Github,,Creative Commons Zero v1.0 Universal,组织用户
+23357588,protocolbuffers/protobuf,26310541,protocolbuffers,C++,Other,组织用户
+557980,socketio/socket.io,10566080,socketio,TypeScript,MIT License,组织用户
+167174,jquery/jquery,70142,jquery,JavaScript,MIT License,组织用户
+12888993,home-assistant/core,13844975,home-assistant,Python,Apache License 2.0,组织用户
+33015583,keras-team/keras,34455048,keras-team,Python,Other,组织用户
+15634981,godotengine/godot,6318500,godotengine,C++,Other,组织用户
+196701619,tauri-apps/tauri,54536011,tauri-apps,Rust,Other,组织用户
+3402537,h5bp/Front-end-Developer-Interview-Questions,1136800,h5bp,Nunjucks,MIT License,组织用户
+3638964,ansible/ansible,1507452,ansible,Python,GNU General Public License v3.0,组织用户
+3955647,lodash/lodash,2565403,lodash,JavaScript,Other,组织用户
+7600409,shadowsocks/shadowsocks-windows,3006190,shadowsocks,C#,Other,组织用户
+36040894,gatsbyjs/gatsby,12551863,gatsbyjs,JavaScript,MIT License,组织用户
+3544424,httpie/httpie,24454777,httpie,Python,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+9185792,apache/incubator-echarts,47359,apache,TypeScript,Apache License 2.0,组织用户
+486550,h5bp/html5-boilerplate,1136800,h5bp,JavaScript,MIT License,组织用户
+15111821,grafana/grafana,7195757,grafana,TypeScript,GNU Affero General Public License v3.0,组织用户
+80945428,nestjs/nest,28507035,nestjs,TypeScript,MIT License,组织用户
+67274736,ElemeFE/element,12810740,ElemeFE,Vue,MIT License,组织用户
+26066727,mermaid-js/mermaid,57169982,mermaid-js,JavaScript,MIT License,组织用户
+843222,scikit-learn/scikit-learn,365630,scikit-learn,Python,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+26898879,awesomedata/awesome-public-datasets,35111974,awesomedata,,MIT License,组织用户
+8514,rails/rails,4223,rails,Ruby,MIT License,组织用户
+257485422,vitejs/vite,65625612,vitejs,TypeScript,MIT License,组织用户
+43441403,strapi/strapi,19872173,strapi,JavaScript,Other,组织用户
+9309093,Semantic-Org/Semantic-UI,5796209,Semantic-Org,JavaScript,MIT License,组织用户
+1148753,spring-projects/spring-framework,317776,spring-projects,Java,Apache License 2.0,组织用户
+39464018,apache/superset,47359,apache,TypeScript,Apache License 2.0,组织用户
+81598961,python/cpython,1525981,python,Python,Other,组织用户
+63477660,TheAlgorithms/Java,20487725,TheAlgorithms,Java,MIT License,组织用户
+19872456,remix-run/react-router,64235328,remix-run,TypeScript,MIT License,组织用户
+203587744,hoppscotch/hoppscotch,56705483,hoppscotch,Vue,MIT License,组织用户
+47018239,DopplerHQ/awesome-interview-questions,34022344,DopplerHQ,,,组织用户
+1362490,psf/requests,50630501,psf,Python,Apache License 2.0,组织用户
+12256376,ionic-team/ionic-framework,3171503,ionic-team,TypeScript,Other,组织用户
+14712850,syncthing/syncthing,7628018,syncthing,Go,Mozilla Public License 2.0,组织用户
+22887094,tesseract-ocr/tesseract,8401422,tesseract-ocr,C++,Apache License 2.0,组织用户
+1424470,moment/moment,4129662,moment,JavaScript,MIT License,组织用户
+24953448,google/material-design-icons,1342004,google,,Apache License 2.0,组织用户
+7508411,ReactiveX/RxJava,6407041,ReactiveX,Java,Apache License 2.0,组织用户
+20300177,google/guava,1342004,google,Java,Apache License 2.0,组织用户
+6838921,prometheus/prometheus,3380462,prometheus,Go,Apache License 2.0,组织用户
+221981891,microsoft/playwright,6154722,microsoft,TypeScript,Apache License 2.0,组织用户
+65252,jekyll/jekyll,3083652,jekyll,Ruby,MIT License,组织用户
+529502,scrapy/scrapy,733635,scrapy,Python,Other,组织用户
+71948498,localstack/localstack,28732122,localstack,Python,Other,组织用户
+29207621,caddyserver/caddy,12955528,caddyserver,Go,Apache License 2.0,组织用户
+36502,git/git,18133,git,C,Other,组织用户
+75104123,prettier/prettier,25822731,prettier,JavaScript,MIT License,组织用户
+13233158,obsproject/obs-studio,7725691,obsproject,C,GNU General Public License v2.0,组织用户
+34302698,serverless/serverless,13742415,serverless,JavaScript,MIT License,组织用户
+51980455,alacritty/alacritty,29714349,alacritty,Rust,Apache License 2.0,组织用户
+3432266,JetBrains/kotlin,878437,JetBrains,Kotlin,,组织用户
+5152285,square/okhttp,82592,square,Kotlin,Apache License 2.0,组织用户
+214587193,supabase/supabase,54469796,supabase,TypeScript,Apache License 2.0,组织用户
+343965132,microsoft/ML-For-Beginners,6154722,microsoft,Jupyter Notebook,MIT License,组织用户
+3214406,meteor/meteor,789528,meteor,JavaScript,Other,组织用户
+15019962,tldr-pages/tldr,7366472,tldr-pages,Shell,Other,组织用户
+11225014,etcd-io/etcd,41972792,etcd-io,Go,Apache License 2.0,组织用户
+31629751,cypress-io/cypress,8908513,cypress-io,JavaScript,MIT License,组织用户
+6093316,DefinitelyTyped/DefinitelyTyped,3637556,DefinitelyTyped,TypeScript,Other,组织用户
+9852918,TryGhost/Ghost,2178663,TryGhost,JavaScript,MIT License,组织用户
+15428480,ColorlibHQ/AdminLTE,39128121,ColorlibHQ,JavaScript,MIT License,组织用户
+51148780,android/architecture-samples,32689599,android,Kotlin,Apache License 2.0,组织用户
+99598595,parcel-bundler/parcel,32607881,parcel-bundler,JavaScript,MIT License,组织用户
+24560307,babel/babel,9637642,babel,TypeScript,MIT License,组织用户
+71995937,nuxt/nuxt.js,23360933,nuxt,JavaScript,Other,组织用户
+58836534,algorithm-visualizer/algorithm-visualizer,38487505,algorithm-visualizer,JavaScript,MIT License,组织用户
+16752620,gogs/gogs,6656686,gogs,JavaScript,MIT License,组织用户
+220809393,Textualize/rich,93378883,Textualize,Python,MIT License,组织用户
+1644196,JuliaLang/julia,743164,JuliaLang,Julia,Other,组织用户
+41912791,v2ray/v2ray-core,14110142,v2ray,Go,MIT License,组织用户
+1663468,mozilla/pdf.js,131524,mozilla,JavaScript,Apache License 2.0,组织用户
+15062869,facebook/jest,69631,facebook,TypeScript,MIT License,组织用户
+49970642,yarnpkg/yarn,22247014,yarnpkg,JavaScript,Other,组织用户
+42408804,traefik/traefik,14280338,traefik,Go,MIT License,组织用户
+892275,square/retrofit,82592,square,Java,Apache License 2.0,组织用户
+94911145,facebook/docusaurus,69631,facebook,TypeScript,Other,组织用户
+15452919,ethereum/go-ethereum,6250754,ethereum,Go,Other,组织用户
+20619036,pi-hole/pi-hole,16827203,pi-hole,Shell,Other,组织用户
+62367558,vercel/hyper,14985020,vercel,TypeScript,MIT License,组织用户
+33791743,x64dbg/x64dbg,7937360,x64dbg,C++,Other,组织用户
+3100121,nwjs/nw.js,10180421,nwjs,JavaScript,MIT License,组织用户
+52281283,mastodon/mastodon,24979032,mastodon,Ruby,GNU Affero General Public License v3.0,组织用户
+22458259,Alamofire/Alamofire,7774181,Alamofire,Swift,MIT License,组织用户
+7741856,pixijs/pixijs,5406849,pixijs,TypeScript,MIT License,组织用户
+67186968,chinese-poetry/chinese-poetry,30764933,chinese-poetry,JavaScript,MIT License,组织用户
+231283452,excalidraw/excalidraw,59452120,excalidraw,TypeScript,MIT License,组织用户
+4710920,apache/dubbo,47359,apache,Java,Apache License 2.0,组织用户
+162998479,sherlock-project/sherlock,48293496,sherlock-project,Python,MIT License,组织用户
+74627617,commaai/openpilot,16128714,commaai,Python,MIT License,组织用户
+523379232,CompVis/stable-diffusion,30233788,CompVis,Jupyter Notebook,Other,组织用户
+65794292,styled-components/styled-components,20658825,styled-components,TypeScript,MIT License,组织用户
+140687430,dcloudio/uni-app,5485517,dcloudio,JavaScript,Apache License 2.0,组织用户
+110446844,marktext/marktext,36623013,marktext,JavaScript,MIT License,组织用户
+8681349,huginn/huginn,23225142,huginn,Ruby,MIT License,组织用户
+357728969,oven-sh/bun,108928776,oven-sh,Zig,,组织用户
+7569578,discourse/discourse,3220138,discourse,Ruby,Other,组织用户
+3065454,impress/impress.js,5477410,impress,JavaScript,MIT License,组织用户
+307260205,yt-dlp/yt-dlp,79589310,yt-dlp,Python,The Unlicense,组织用户
+101138315,d2l-ai/d2l-zh,43974506,d2l-ai,Python,Apache License 2.0,组织用户
+29261473,minio/minio,695951,minio,Go,GNU Affero General Public License v3.0,组织用户
+102969245,golang-standards/project-layout,31396365,golang-standards,Makefile,Other,组织用户
+27729880,grpc/grpc,7802525,grpc,C++,Apache License 2.0,组织用户
+49609581,PowerShell/PowerShell,11524380,PowerShell,C#,MIT License,组织用户
+69629434,FreeCodeCampChina/freecodecamp.cn,18478284,FreeCodeCampChina,CSS,Other,组织用户
+41058054,isocpp/CppCoreGuidelines,13841574,isocpp,Python,Other,组织用户
+173228436,NationalSecurityAgency/ghidra,11298292,NationalSecurityAgency,Java,Apache License 2.0,组织用户
+931135,Leaflet/Leaflet,2854298,Leaflet,JavaScript,Other,组织用户
+858127,pandas-dev/pandas,21206976,pandas-dev,Python,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+17803236,rclone/rclone,24937341,rclone,Go,MIT License,组织用户
+27442967,fastlane/fastlane,11098337,fastlane,Ruby,MIT License,组织用户
+67962648,vuetifyjs/vuetify,22138497,vuetifyjs,TypeScript,MIT License,组织用户
+5923215,hexojs/hexo,6375567,hexojs,JavaScript,MIT License,组织用户
+17728164,hashicorp/terraform,761456,hashicorp,Go,Mozilla Public License 2.0,组织用户
+364474335,google/zx,1342004,google,TypeScript,Apache License 2.0,组织用户
+1903522,php/php-src,25158,php,C,Other,组织用户
+12820537,slatedocs/slate,54482270,slatedocs,SCSS,Apache License 2.0,组织用户
+667006,videojs/video.js,3287189,videojs,JavaScript,Other,组织用户
+17165658,apache/spark,47359,apache,Scala,Apache License 2.0,组织用户
+35866694,RocketChat/Rocket.Chat,12508788,RocketChat,TypeScript,Other,组织用户
+137078487,vuejs/vue-next,6128107,vuejs,TypeScript,MIT License,组织用户
+53238813,Homebrew/brew,1503512,Homebrew,Ruby,"BSD 2-Clause ""Simplified"" License",组织用户
+83119431,apachecn/ailearning,24802038,apachecn,Python,Other,组织用户
+5239185,quilljs/quill,7089101,quilljs,JavaScript,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+47394776,lerna/lerna,19333396,lerna,JavaScript,MIT License,组织用户
+264818686,ultralytics/yolov5,26833451,ultralytics,Python,GNU General Public License v3.0,组织用户
+72495579,go-gitea/gitea,12724356,go-gitea,Go,MIT License,组织用户
+2935735,adobe/brackets,476009,adobe,JavaScript,MIT License,组织用户
+26783295,Kong/kong,962416,Kong,Lua,Other,组织用户
+42283287,preactjs/preact,26872990,preactjs,JavaScript,MIT License,组织用户
+70198875,airbnb/lottie-android,698437,airbnb,Java,Apache License 2.0,组织用户
+11551538,koajs/koa,5055057,koajs,JavaScript,MIT License,组织用户
+101394335,ant-design/ant-design-pro,12101536,ant-design,TypeScript,MIT License,组织用户
+163883279,nektos/act,3813618,nektos,Go,MIT License,组织用户
+1828795,AFNetworking/AFNetworking,1181541,AFNetworking,Objective-C,MIT License,组织用户
+108761645,nocodb/nocodb,50206778,nocodb,Vue,GNU Affero General Public License v3.0,组织用户
+11267509,bumptech/glide,423539,bumptech,Java,Other,组织用户
+4086616,shadowsocks/shadowsocks,3006190,shadowsocks,Python,,组织用户
+7190986,shadowsocks/shadowsocks-android,3006190,shadowsocks,Kotlin,Other,组织用户
+42489829,rust-lang/rustlings,5430905,rust-lang,Rust,MIT License,组织用户
+41986369,pingcap/tidb,11855343,pingcap,Go,Apache License 2.0,组织用户
+12791642,BVLC/caffe,6182163,BVLC,C++,Other,组织用户
+63266213,open-guides/og-aws,17152571,open-guides,Shell,Creative Commons Attribution 4.0 International,组织用户
+873328,getsentry/sentry,1396951,getsentry,Python,Other,组织用户
+11167738,gulpjs/gulp,6200624,gulpjs,JavaScript,MIT License,组织用户
+154747577,google-research/bert,43830688,google-research,Python,Apache License 2.0,组织用户
+159152904,jeecgboot/jeecg-boot,86360035,jeecgboot,Java,Apache License 2.0,组织用户
+35969061,google/styleguide,1342004,google,HTML,Apache License 2.0,组织用户
+119811010,tabler/tabler,35471246,tabler,HTML,MIT License,组织用户
+174038031,react-hook-form/react-hook-form,53986236,react-hook-form,TypeScript,MIT License,组织用户
+21413198,immutable-js/immutable-js,46405934,immutable-js,TypeScript,MIT License,组织用户
+60630844,microsoft/monaco-editor,6154722,microsoft,JavaScript,MIT License,组织用户
+67508428,jgraph/drawio,1769238,jgraph,JavaScript,Apache License 2.0,组织用户
+74175805,istio/istio,23534644,istio,Go,Apache License 2.0,组织用户
+29268051,google/material-design-lite,1342004,google,HTML,Apache License 2.0,组织用户
+128624453,NervJS/taro,30794937,NervJS,TypeScript,MIT License,组织用户
+76838017,iina/iina,35151645,iina,Swift,GNU General Public License v3.0,组织用户
+38558578,nativefier/nativefier,69503009,nativefier,TypeScript,MIT License,组织用户
+207645083,TanStack/query,72518640,TanStack,TypeScript,MIT License,组织用户
+6988020,SheetJS/sheetjs,5826089,SheetJS,Makefile,Apache License 2.0,组织用户
+94498635,carbon-app/carbon,52179379,carbon-app,JavaScript,MIT License,组织用户
+45512989,xitu/gold-miner,10482599,xitu,,,组织用户
+178991158,starship/starship,49654870,starship,Rust,ISC License,组织用户
+130688011,meilisearch/meilisearch,43250847,meilisearch,Rust,MIT License,组织用户
+23405758,google/leveldb,1342004,google,C++,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+146633589,alibaba/arthas,1961952,alibaba,Java,Apache License 2.0,组织用户
+191113739,0voice/interview_internal_reference,43104160,0voice,Python,,组织用户
+29290473,XX-net/XX-Net,10395542,XX-net,Python,,组织用户
+21938243,rust-unofficial/awesome-rust,20820960,rust-unofficial,Rust,Creative Commons Zero v1.0 Universal,组织用户
+169677297,vlang/v,46413578,vlang,V,MIT License,组织用户
+10446890,bilibili/ijkplayer,12002442,bilibili,C,Other,组织用户
+30203935,metabase/metabase,10520629,metabase,Clojure,Other,组织用户
+13855476,go-gorm/gorm,15127678,go-gorm,Go,MIT License,组织用户
+212613049,cli/cli,59704711,cli,Go,MIT License,组织用户
+68720867,firstcontributions/first-contributions,37713493,firstcontributions,,MIT License,组织用户
+125266328,psf/black,50630501,psf,Python,MIT License,组织用户
+24841635,date-fns/date-fns,14921202,date-fns,TypeScript,Other,组织用户
+377496562,AppFlowy-IO/appflowy,86002201,AppFlowy-IO,Rust,GNU Affero General Public License v3.0,组织用户
+2562751,zxing/zxing,1122572,zxing,Java,Apache License 2.0,组织用户
+1614410,FFmpeg/FFmpeg,729418,FFmpeg,C,Other,组织用户
+1064563,netty/netty,473791,netty,Java,Apache License 2.0,组织用户
+13840241,freeCodeCamp/devdocs,9892522,freeCodeCamp,Ruby,Other,组织用户
+17620347,dotnet/aspnetcore,9141961,dotnet,C#,MIT License,组织用户
+62156403,QSCTech/zju-icicles,4727983,QSCTech,HTML,,组织用户
+202890778,chakra-ui/chakra-ui,54212428,chakra-ui,TypeScript,MIT License,组织用户
+60844036,shadowsocks/ShadowsocksX-NG,3006190,shadowsocks,Swift,GNU General Public License v3.0,组织用户
+52773157,typeorm/typeorm,20165699,typeorm,TypeScript,MIT License,组织用户
+5625464,pyenv/pyenv,16530698,pyenv,Shell,MIT License,组织用户
+44662669,dbeaver/dbeaver,34743864,dbeaver,Java,Apache License 2.0,组织用户
+48610662,acmesh-official/acme.sh,60454762,acmesh-official,Shell,GNU General Public License v3.0,组织用户
+519832,mitmproxy/mitmproxy,4652787,mitmproxy,Python,MIT License,组织用户
+48626335,vuejs/vue-cli,6128107,vuejs,JavaScript,MIT License,组织用户
+26516210,certbot/certbot,17889013,certbot,Python,Other,组织用户
+2573058,foundation/foundation-sites,35962841,foundation,HTML,MIT License,组织用户
+40997482,vim/vim,11618545,vim,Vim script,Vim License,组织用户
+3577919,beego/beego,3884041,beego,Go,Other,组织用户
+259463685,carbon-language/carbon-lang,63681715,carbon-language,C++,Other,组织用户
+37958358,naptha/tesseract.js,7720173,naptha,JavaScript,Apache License 2.0,组织用户
+57222302,openai/gym,14957082,openai,Python,Other,组织用户
+2293158,rapid7/metasploit-framework,1013671,rapid7,Ruby,Other,组织用户
+281975310,type-challenges/type-challenges,68700335,type-challenges,TypeScript,MIT License,组织用户
+137724480,hasura/graphql-engine,13966722,hasura,TypeScript,Other,组织用户
+94367677,formium/formik,50745844,formium,TypeScript,Apache License 2.0,组织用户
+30969188,react-boilerplate/react-boilerplate,25323389,react-boilerplate,JavaScript,MIT License,组织用户
+2096579,markedjs/marked,19886934,markedjs,JavaScript,Other,组织用户
+99761907,atlassian/react-beautiful-dnd,168166,atlassian,JavaScript,Other,组织用户
+39840932,google/googletest,1342004,google,C++,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+33884891,apache/airflow,47359,apache,Python,Apache License 2.0,组织用户
+7548986,laravel/framework,958072,laravel,PHP,MIT License,组织用户
+1116542,aria2/aria2,13545224,aria2,C++,Other,组织用户
+95189138,alibaba/p3c,1961952,alibaba,Kotlin,Apache License 2.0,组织用户
+95876775,elsewhencode/project-guidelines,7815827,elsewhencode,JavaScript,MIT License,组织用户
+32247847,ReactiveX/rxjs,6407041,ReactiveX,TypeScript,Apache License 2.0,组织用户
+15045751,docker/compose,5429470,docker,Python,Apache License 2.0,组织用户
+180190854,appwrite/appwrite,25003669,appwrite,TypeScript,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+34824499,square/leakcanary,82592,square,Kotlin,Apache License 2.0,组织用户
+1844251,tastejs/todomvc,1733746,tastejs,JavaScript,Other,组织用户
+569041,curl/curl,16928085,curl,C,Other,组织用户
+192925833,prisma/prisma,17219288,prisma,TypeScript,Apache License 2.0,组织用户
+10788737,codepath/android_guides,3710273,codepath,,MIT License,组织用户
+31085130,airbnb/lottie-web,698437,airbnb,JavaScript,MIT License,组织用户
+39176269,vuejs/vuex,6128107,vuejs,JavaScript,MIT License,组织用户
+458058,symfony/symfony,143937,symfony,PHP,MIT License,组织用户
+29891188,standard/standard,29208316,standard,JavaScript,MIT License,组织用户
+158703981,lib-pku/libpku,44827603,lib-pku,TeX,,组织用户
+53127403,apolloconfig/apollo,83490506,apolloconfig,Java,Apache License 2.0,组织用户
+19745004,odoo/odoo,6368483,odoo,Python,Other,组织用户
+262296122,PaddlePaddle/PaddleOCR,23534030,PaddlePaddle,Python,Apache License 2.0,组织用户
+92443980,jgraph/drawio-desktop,1769238,jgraph,Shell,Apache License 2.0,组织用户
+13584262,webtorrent/webtorrent,5800008,webtorrent,JavaScript,MIT License,组织用户
+193215554,n8n-io/n8n,45487711,n8n-io,TypeScript,Other,组织用户
+790359,sequelize/sequelize,3591786,sequelize,JavaScript,MIT License,组织用户
+50447720,kodecocodes/swift-algorithm-club,4722515,kodecocodes,Swift,MIT License,组织用户
+1864363,composer/composer,837015,composer,PHP,MIT License,组织用户
+36836475,tmux/tmux,12054114,tmux,C,Other,组织用户
+13078968,postcss/postcss,8296347,postcss,TypeScript,MIT License,组织用户
+170326929,goabstract/Awesome-Design-Tools,18014107,goabstract,JavaScript,MIT License,组织用户
+91253698,ccxt/ccxt,31901609,ccxt,JavaScript,MIT License,组织用户
+42920477,layui/layui,7955643,layui,JavaScript,MIT License,组织用户
+31288958,hashicorp/vault,761456,hashicorp,Go,Mozilla Public License 2.0,组织用户
+28167802,Tencent/weui,18461506,Tencent,Less,Other,组织用户
+58842707,trailofbits/algo,2314423,trailofbits,Python,GNU Affero General Public License v3.0,组织用户
+60246359,ClickHouse/ClickHouse,54801242,ClickHouse,C++,Apache License 2.0,组织用户
+49122742,Wechat-Group/WxJava,19882207,Wechat-Group,Java,Apache License 2.0,组织用户
+151619717,google-research/google-research,43830688,google-research,Jupyter Notebook,Apache License 2.0,组织用户
+168008797,microsoft/calculator,6154722,microsoft,C++,MIT License,组织用户
+2700159,alibaba/druid,1961952,alibaba,Java,Other,组织用户
+16563587,cockroachdb/cockroach,6748139,cockroachdb,Go,Other,组织用户
+16607898,harness/drone,34780278,harness,Go,Other,组织用户
+46273445,transloadit/uppy,125754,transloadit,JavaScript,MIT License,组织用户
+120395176,alibaba/easyexcel,1961952,alibaba,Java,Apache License 2.0,组织用户
+15308499,SortableJS/Sortable,17040762,SortableJS,JavaScript,MIT License,组织用户
+32215970,mobxjs/mobx,17475736,mobxjs,TypeScript,MIT License,组织用户
+69495170,fastify/fastify,24939410,fastify,JavaScript,Other,组织用户
+36891867,angular/angular-cli,139426,angular,TypeScript,MIT License,组织用户
+6452529,rethinkdb/rethinkdb,1229647,rethinkdb,C++,Other,组织用户
+14125254,hashicorp/consul,761456,hashicorp,Go,Mozilla Public License 2.0,组织用户
+2541284,cheeriojs/cheerio,7230330,cheeriojs,TypeScript,MIT License,组织用户
+164140756,files-community/Files,65931357,files-community,C#,MIT License,组织用户
+53370988,GoogleChrome/lighthouse,1778935,GoogleChrome,JavaScript,Apache License 2.0,组织用户
+114466145,yewstack/yew,49116234,yewstack,Rust,Other,组织用户
+56899284,Kong/insomnia,962416,Kong,JavaScript,MIT License,组织用户
+1481305,realpython/python-guide,5448020,realpython,Batchfile,Other,组织用户
+4793392,sqlmapproject/sqlmap,735289,sqlmapproject,Python,Other,组织用户
+1283503,request/request,730467,request,JavaScript,Apache License 2.0,组织用户
+1254497,codemirror/codemirror5,8876537,codemirror,JavaScript,MIT License,组织用户
+402046,parallax/jsPDF,320004,parallax,JavaScript,MIT License,组织用户
+25136308,github/fetch,9919,github,JavaScript,MIT License,组织用户
+59996401,YMFE/yapi,19645609,YMFE,JavaScript,Apache License 2.0,组织用户
+17372733,OAI/OpenAPI-Specification,16343502,OAI,JavaScript,Apache License 2.0,组织用户
+3620194,select2/select2,8077542,select2,JavaScript,MIT License,组织用户
+108252892,proxyee-down-org/proxyee-down,39588481,proxyee-down-org,Java,Apache License 2.0,组织用户
+7613257,SeleniumHQ/selenium,983927,SeleniumHQ,Java,Apache License 2.0,组织用户
+56353740,kubernetes/minikube,13629408,kubernetes,Go,Apache License 2.0,组织用户
+115110181,swc-project/swc,26715726,swc-project,TypeScript,Other,组织用户
+317757,Modernizr/Modernizr,131060,Modernizr,JavaScript,Other,组织用户
+126178683,halo-dev/halo,48195280,halo-dev,Java,GNU General Public License v3.0,组织用户
+89247811,CMU-Perceptual-Computing-Lab/openpose,12239573,CMU-Perceptual-Computing-Lab,C++,Other,组织用户
+1028340,ajaxorg/ace,168515,ajaxorg,JavaScript,Other,组织用户
+597879,Automattic/mongoose,887802,Automattic,JavaScript,MIT License,组织用户
+2700474,alibaba/fastjson,1961952,alibaba,Java,Apache License 2.0,组织用户
+218115303,vercel/swr,14985020,vercel,TypeScript,MIT License,组织用户
+18280236,GitbookIO/gitbook,7111340,GitbookIO,JavaScript,Apache License 2.0,组织用户
+18723836,dromara/hutool,41095225,dromara,Java,Other,组织用户
+137451403,alibaba/nacos,1961952,alibaba,Java,Apache License 2.0,组织用户
+180328715,pmndrs/zustand,45790596,pmndrs,TypeScript,MIT License,组织用户
+21467110,explosion/spaCy,20011530,explosion,Python,MIT License,组织用户
+481872,hashicorp/vagrant,761456,hashicorp,Ruby,MIT License,组织用户
+45456804,jobbole/awesome-python-cn,8531823,jobbole,Makefile,Other,组织用户
+479924503,The-Run-Philosophy-Organization/run,103482135,The-Run-Philosophy-Organization,JavaScript,Other,组织用户
+349321229,TencentARC/GFPGAN,83739826,TencentARC,Python,Other,组织用户
+7587038,alibaba/canal,1961952,alibaba,Java,Apache License 2.0,组织用户
+116392709,digitalocean/nginxconfig.io,4650108,digitalocean,JavaScript,MIT License,组织用户
+25315643,nylas/nylas-mail,4219865,nylas,JavaScript,MIT License,组织用户
+1431547,encode/django-rest-framework,19159390,encode,Python,Other,组织用户
+124257233,pmndrs/react-spring,45790596,pmndrs,TypeScript,MIT License,组织用户
+13124802,influxdata/influxdb,5713248,influxdata,Go,MIT License,组织用户
+105919803,facebookresearch/Detectron,16943930,facebookresearch,Python,Apache License 2.0,组织用户
+45055693,balena-io/etcher,6157842,balena-io,TypeScript,Apache License 2.0,组织用户
+31504491,labstack/echo,2624634,labstack,Go,MIT License,组织用户
+37448451,mattermost/mattermost-server,9828093,mattermost,Go,Other,组织用户
+13886476,zsh-users/zsh-autosuggestions,567410,zsh-users,Shell,MIT License,组织用户
+4037197,ycm-core/YouCompleteMe,52140259,ycm-core,Python,GNU General Public License v3.0,组织用户
+313419,SDWebImage/SDWebImage,33113626,SDWebImage,Objective-C,MIT License,组织用户
+112785414,alibaba/spring-cloud-alibaba,1961952,alibaba,Java,Apache License 2.0,组织用户
+130884470,solidjs/solid,79226042,solidjs,TypeScript,MIT License,组织用户
+30215630,go-kit/kit,10981023,go-kit,Go,MIT License,组织用户
+11276147,cmderdev/cmder,11646750,cmderdev,C++,MIT License,组织用户
+6934395,facebook/rocksdb,69631,facebook,C++,Other,组织用户
+115720575,immerjs/immer,45853199,immerjs,JavaScript,MIT License,组织用户
+156084530,ehang-io/nps,59558731,ehang-io,Go,GNU General Public License v3.0,组织用户
+59652928,akveo/ngx-admin,11921694,akveo,TypeScript,MIT License,组织用户
+97086543,TheAlgorithms/Javascript,20487725,TheAlgorithms,JavaScript,GNU General Public License v3.0,组织用户
+63484632,facebookresearch/fastText,16943930,facebookresearch,HTML,MIT License,组织用户
+59239347,portainer/portainer,22225832,portainer,JavaScript,zlib License,组织用户
+7240954,powerline/fonts,10100576,powerline,Shell,,组织用户
+10567197,dokku/dokku,13455795,dokku,Shell,MIT License,组织用户
+64355429,iview/iview,20693613,iview,Vue,Other,组织用户
+4524181,facebook/folly,69631,facebook,C++,Apache License 2.0,组织用户
+361044034,slidevjs/slidev,83095831,slidevjs,TypeScript,MIT License,组织用户
+119160553,photoprism/photoprism,32436079,photoprism,Go,Other,组织用户
+54994103,floating-ui/popper-core,58035617,floating-ui,TypeScript,MIT License,组织用户
+2211243,apache/kafka,47359,apache,Java,Other,组织用户
+234231371,gofiber/fiber,59947262,gofiber,Go,MIT License,组织用户
+348060227,withastro/astro,44914786,withastro,TypeScript,Other,组织用户
+275993885,appsmithorg/appsmith,67620218,appsmithorg,TypeScript,Apache License 2.0,组织用户
+16587283,dmlc/xgboost,11508361,dmlc,C++,Apache License 2.0,组织用户
+712530,fabricjs/fabric.js,24580162,fabricjs,JavaScript,Other,组织用户
+70198664,airbnb/lottie-ios,698437,airbnb,Swift,Apache License 2.0,组织用户
+44150497,remoteintech/remote-jobs,31714327,remoteintech,JavaScript,Creative Commons Zero v1.0 Universal,组织用户
+82729529,google/python-fire,1342004,google,Python,Other,组织用户
+79510167,pypa/pipenv,647025,pypa,Python,MIT License,组织用户
+36804486,tqdm/tqdm,12731565,tqdm,Python,Other,组织用户
+160083795,SerenityOS/serenity,50811782,SerenityOS,C++,"BSD 2-Clause ""Simplified"" License",组织用户
+43723161,helm/helm,15859888,helm,Go,Apache License 2.0,组织用户
+995750,VundleVim/Vundle.vim,12930284,VundleVim,Vim script,MIT License,组织用户
+71932349,ray-project/ray,22125274,ray-project,Python,Apache License 2.0,组织用户
+116167731,yuzu-emu/yuzu,35075882,yuzu-emu,C++,GNU General Public License v3.0,组织用户
+3602123,hammerjs/hammer.js,7997161,hammerjs,JavaScript,MIT License,组织用户
+49016322,angular/components,139426,angular,TypeScript,MIT License,组织用户
+11620669,CodeHubApp/CodeHub,31394933,CodeHubApp,C#,,组织用户
+206660580,facebookresearch/detectron2,16943930,facebookresearch,Python,Apache License 2.0,组织用户
+102973646,fastai/fastai,20547620,fastai,Jupyter Notebook,Apache License 2.0,组织用户
+2055965,swagger-api/swagger-ui,7658037,swagger-api,JavaScript,Apache License 2.0,组织用户
+163387337,seata/seata,48813648,seata,Java,Apache License 2.0,组织用户
+24579238,vuejs/vue-devtools,6128107,vuejs,Vue,MIT License,组织用户
+2990192,signalapp/Signal-Android,702459,signalapp,Java,GNU General Public License v3.0,组织用户
+67709808,react-native-elements/react-native-elements,49050851,react-native-elements,TypeScript,MIT License,组织用户
+1357796,emscripten-core/emscripten,46011144,emscripten-core,C++,Other,组织用户
+123303402,python-poetry/poetry,48722593,python-poetry,Python,MIT License,组织用户
+33569135,ReactiveX/RxSwift,6407041,ReactiveX,Swift,Other,组织用户
+2500088,gitlabhq/gitlabhq,1086321,gitlabhq,Ruby,Other,组织用户
+6766558,Netflix/Hystrix,913567,Netflix,Java,Apache License 2.0,组织用户
+4307108,nsqio/nsq,8295919,nsqio,Go,MIT License,组织用户
+108110,mongodb/mongo,45120,mongodb,C++,Other,组织用户
+308770,heartcombo/devise,59584037,heartcombo,Ruby,MIT License,组织用户
+125596489,doczjs/docz,39714731,doczjs,TypeScript,MIT License,组织用户
+20270252,feathericons/feather,29268069,feathericons,JavaScript,MIT License,组织用户
+23069399,mdbootstrap/mdb-ui-kit,20553039,mdbootstrap,SCSS,Other,组织用户
+35640229,rollup/rollup,12554859,rollup,JavaScript,Other,组织用户
+9603240,pure-css/pure,23743443,pure-css,JavaScript,Other,组织用户
+63477612,TheAlgorithms/C-Plus-Plus,20487725,TheAlgorithms,C++,MIT License,组织用户
+164608222,alibaba/flutter-go,1961952,alibaba,Dart,Other,组织用户
+43695474,quasarframework/quasar,23064371,quasarframework,JavaScript,MIT License,组织用户
+13428264,ShareX/ShareX,5548736,ShareX,C#,GNU General Public License v3.0,组织用户
+10851820,ramda/ramda,5298359,ramda,JavaScript,MIT License,组织用户
+107595270,matterport/Mask_RCNN,4206481,matterport,Python,Other,组织用户
+224663696,alpinejs/alpine,59030169,alpinejs,JavaScript,MIT License,组织用户
+145670234,open-mmlab/mmdetection,10245193,open-mmlab,Python,Apache License 2.0,组织用户
+162723104,OWASP/CheatSheetSeries,155815,OWASP,Python,Other,组织用户
+65233633,vercel/pkg,14985020,vercel,JavaScript,MIT License,组织用户
+38934449,reduxjs/react-redux,13142323,reduxjs,TypeScript,MIT License,组织用户
+77144337,openfaas/faas,27013154,openfaas,Go,MIT License,组织用户
+15315789,Wox-launcher/Wox,15628601,Wox-launcher,C#,MIT License,组织用户
+90792131,android/architecture-components-samples,32689599,android,Kotlin,Apache License 2.0,组织用户
+18044526,StreisandEffect/streisand,32347203,StreisandEffect,Shell,Other,组织用户
+41889031,TeamNewPipe/NewPipe,22159318,TeamNewPipe,Java,Other,组织用户
+74260508,docsifyjs/docsify,40133106,docsifyjs,JavaScript,MIT License,组织用户
+49910095,vapor/vapor,17364220,vapor,Swift,MIT License,组织用户
+1801829,emberjs/ember.js,1253363,emberjs,JavaScript,MIT License,组织用户
+13926404,getredash/redash,10746780,getredash,Python,"BSD 2-Clause ""Simplified"" License",组织用户
+3757512,balderdashy/sails,1445252,balderdashy,JavaScript,MIT License,组织用户
+47071941,redux-saga/redux-saga,24776643,redux-saga,JavaScript,Other,组织用户
+186024298,nushell/nushell,50749515,nushell,Rust,MIT License,组织用户
+908607,numpy/numpy,288276,numpy,Python,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+52113921,facebook/draft-js,69631,facebook,JavaScript,Other,组织用户
+35133520,MostlyAdequate/mostly-adequate-guide,14079115,MostlyAdequate,JavaScript,Other,组织用户
+1420053,guzzle/guzzle,638632,guzzle,PHP,MIT License,组织用户
+19620844,ovity/octotree,43424025,ovity,JavaScript,GNU Affero General Public License v3.0,组织用户
+401025,github/hub,9919,github,Go,MIT License,组织用户
+42455934,statelyai/xstate,61783956,statelyai,TypeScript,MIT License,组织用户
+1631024,harvesthq/chosen,43635,harvesthq,HTML,Other,组织用户
+70104825,dotnet-architecture/eShopOnContainers,27453006,dotnet-architecture,C#,MIT License,组织用户
+285864199,zeromicro/go-zero,74225106,zeromicro,Go,MIT License,组织用户
+241805592,rome/tools,85328842,rome,TypeScript,MIT License,组织用户
+74660642,taichi-dev/taichi,33354891,taichi-dev,C++,MIT License,组织用户
+73681508,Tencent/wepy,18461506,Tencent,JavaScript,Other,组织用户
+3390243,servo/servo,2566135,servo,Rust,Mozilla Public License 2.0,组织用户
+31492490,NativeScript/NativeScript,7392261,NativeScript,TypeScript,MIT License,组织用户
+80149262,react-navigation/react-navigation,29647600,react-navigation,TypeScript,,组织用户
+204086862,streamlit/streamlit,45109972,streamlit,TypeScript,Apache License 2.0,组织用户
+11061773,eslint/eslint,6019716,eslint,JavaScript,MIT License,组织用户
+131770422,neoclide/coc.nvim,23586922,neoclide,Vim script,Other,组织用户
+25880891,facebook/flow,69631,facebook,OCaml,MIT License,组织用户
+135516270,k3s-io/k3s,49319725,k3s-io,Go,Apache License 2.0,组织用户
+5532320,Polymer/polymer,2159051,Polymer,HTML,Other,组织用户
+1451352,mochajs/mocha,8770005,mochajs,JavaScript,MIT License,组织用户
+8686855,usablica/intro.js,2010360,usablica,JavaScript,Other,组织用户
+120425779,lapce/lapce,43668847,lapce,Rust,MIT License,组织用户
+32538871,google/gson,1342004,google,Java,Apache License 2.0,组织用户
+16722900,ipfs/ipfs,10536621,ipfs,,MIT License,组织用户
+18840003,kriasoft/react-starter-kit,773036,kriasoft,TypeScript,MIT License,组织用户
+58623321,bilibili/flv.js,12002442,bilibili,JavaScript,Apache License 2.0,组织用户
+20965586,SwiftyJSON/SwiftyJSON,8858017,SwiftyJSON,Swift,MIT License,组织用户
+40484398,discordjs/discord.js,26492485,discordjs,JavaScript,Apache License 2.0,组织用户
+18347476,google/iosched,1342004,google,Kotlin,Other,组织用户
+196284711,microsoft/cascadia-code,6154722,microsoft,Python,SIL Open Font License 1.1,组织用户
+14003349,localForage/localForage,18673496,localForage,JavaScript,Apache License 2.0,组织用户
+420459569,github/copilot-docs,9919,github,Python,Creative Commons Attribution 4.0 International,组织用户
+307489284,remix-run/remix,64235328,remix-run,TypeScript,MIT License,组织用户
+15480067,react-bootstrap/react-bootstrap,6853419,react-bootstrap,TypeScript,MIT License,组织用户
+154739597,google/jax,1342004,google,Python,Other,组织用户
+233472199,massgravel/Microsoft-Activation-Scripts,59795046,massgravel,Batchfile,,组织用户
+63226588,marmelab/react-admin,3116319,marmelab,TypeScript,MIT License,组织用户
+50565430,pnpm/pnpm,21320719,pnpm,TypeScript,MIT License,组织用户
+65214191,envoyproxy/envoy,30125649,envoyproxy,C++,Apache License 2.0,组织用户
+211124697,deezer/spleeter,4393583,deezer,Python,MIT License,组织用户
+1234714,elixir-lang/elixir,1481354,elixir-lang,Elixir,Apache License 2.0,组织用户
+11892946,RedisInsight/RedisDesktopManager,87389211,RedisInsight,C++,Other,组织用户
+128237146,vuejs/vuepress,6128107,vuejs,JavaScript,MIT License,组织用户
+178626720,Lightning-AI/lightning,58386951,Lightning-AI,Python,Apache License 2.0,组织用户
+74697963,HeroTransitions/Hero,40681391,HeroTransitions,Swift,MIT License,组织用户
+734934,pugjs/pug,9338635,pugjs,JavaScript,,组织用户
+60243197,nextcloud/server,19211038,nextcloud,PHP,Other,组织用户
+47039255,codex-team/editor.js,16060815,codex-team,TypeScript,Apache License 2.0,组织用户
+6201092,mpv-player/mpv,2550273,mpv-player,C,Other,组织用户
+27388642,homebridge/homebridge,38217527,homebridge,TypeScript,Apache License 2.0,组织用户
+234798675,bevyengine/bevy,60047606,bevyengine,Rust,Other,组织用户
+2246815,DesignPatternsPHP/DesignPatternsPHP,78624921,DesignPatternsPHP,PHP,MIT License,组织用户
+299482335,withfig/autocomplete,68212401,withfig,TypeScript,MIT License,组织用户
+45721011,apache/skywalking,47359,apache,Java,Apache License 2.0,组织用户
+64700934,OpenZeppelin/openzeppelin-contracts,20820676,OpenZeppelin,JavaScript,MIT License,组织用户
+301742,tornadoweb/tornado,7468980,tornadoweb,Python,Apache License 2.0,组织用户
+5373551,libgdx/libgdx,509841,libgdx,Java,Other,组织用户
+118970914,debauchee/barrier,35818844,debauchee,C,Other,组织用户
+60027534,Awesome-Windows/Awesome,19653660,Awesome-Windows,,Creative Commons Zero v1.0 Universal,组织用户
+172521926,pmndrs/react-three-fiber,45790596,pmndrs,TypeScript,MIT License,组织用户
+1213225,highlightjs/highlight.js,9039821,highlightjs,JavaScript,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+12044132,bitcoinbook/bitcoinbook,5091621,bitcoinbook,Python,Other,组织用户
+19374812,telegramdesktop/tdesktop,6113871,telegramdesktop,C++,Other,组织用户
+184460,celery/celery,319983,celery,Python,Other,组织用户
+20429943,SwiftGGTeam/the-swift-programming-language-in-chinese,13672422,SwiftGGTeam,CSS,,组织用户
+8768406,postcss/autoprefixer,8296347,postcss,JavaScript,MIT License,组织用户
+88717215,youzan/vant,11404085,youzan,TypeScript,MIT License,组织用户
+35810174,electron-react-boilerplate/electron-react-boilerplate,28049053,electron-react-boilerplate,TypeScript,MIT License,组织用户
+35658863,ColorlibHQ/gentelella,39128121,ColorlibHQ,HTML,MIT License,组织用户
+965782,validatorjs/validator.js,52114810,validatorjs,JavaScript,MIT License,组织用户
+24420506,v8/v8,113781,v8,C++,Other,组织用户
+14812739,libuv/libuv,4030929,libuv,C,Other,组织用户
+38696925,python-telegram-bot/python-telegram-bot,16178365,python-telegram-bot,Python,Other,组织用户
+181807583,haizlin/fe-interview,31833528,haizlin,JavaScript,MIT License,组织用户
+99433554,googlehosts/hosts,30318333,googlehosts,,Other,组织用户
+60273704,mozilla/DeepSpeech,131524,mozilla,C++,Mozilla Public License 2.0,组织用户
+7634677,openssl/openssl,3279138,openssl,C,Apache License 2.0,组织用户
+101782647,facebookresearch/fairseq,16943930,facebookresearch,Python,MIT License,组织用户
+63188650,microsoft/api-guidelines,6154722,microsoft,,Other,组织用户
+26337322,rancher/rancher,9343010,rancher,Go,Apache License 2.0,组织用户
+1377867,locustio/locust,2641063,locustio,Python,MIT License,组织用户
+124171501,Meituan-Dianping/mpvue,20238146,Meituan-Dianping,JavaScript,MIT License,组织用户
+20587599,apache/flink,47359,apache,Java,Apache License 2.0,组织用户
+162783195,datawhalechina/pumpkin-book,46047812,datawhalechina,,Other,组织用户
+196353673,taosdata/TDengine,48876650,taosdata,Python,GNU Affero General Public License v3.0,组织用户
+34777562,ossrs/srs,12165287,ossrs,C++,Other,组织用户
+128018428,alibaba/Sentinel,1961952,alibaba,Java,Apache License 2.0,组织用户
+15823460,redisson/redisson,16851431,redisson,Java,Apache License 2.0,组织用户
+107505869,firecracker-microvm/firecracker,44477506,firecracker-microvm,Rust,Apache License 2.0,组织用户
+39122628,git-tips/tips,13345927,git-tips,JavaScript,MIT License,组织用户
+43807251,tachiyomiorg/tachiyomi,53302311,tachiyomiorg,Kotlin,Apache License 2.0,组织用户
+13753636,jhipster/generator-jhipster,6059488,jhipster,TypeScript,Apache License 2.0,组织用户
+71487058,TanStack/table,72518640,TanStack,TypeScript,MIT License,组织用户
+91629816,freqtrade/freqtrade,37536846,freqtrade,Python,GNU General Public License v3.0,组织用户
+34864402,apache/mxnet,47359,apache,C++,Apache License 2.0,组织用户
+20818126,google/ExoPlayer,1342004,google,Java,Apache License 2.0,组织用户
+32157172,gfwlist/gfwlist,11460227,gfwlist,,GNU Lesser General Public License v2.1,组织用户
+26820798,avajs/ava,8527916,avajs,JavaScript,MIT License,组织用户
+157166750,lensapp/lens,62133242,lensapp,TypeScript,Other,组织用户
+46622323,nefe/You-Dont-Need-jQuery,33238961,nefe,JavaScript,MIT License,组织用户
+192632000,dapr/dapr,51932459,dapr,Go,MIT License,组织用户
+21515044,academic/awesome-datascience,17519607,academic,,MIT License,组织用户
+4279682,fish-shell/fish-shell,1828073,fish-shell,Shell,Other,组织用户
+1103607,jenkinsci/jenkins,107424,jenkinsci,Java,MIT License,组织用户
+236095576,backstage/backstage,72526453,backstage,TypeScript,Apache License 2.0,组织用户
+73648678,forem/forem,65030610,forem,Ruby,GNU Affero General Public License v3.0,组织用户
+240215314,docker/awesome-compose,5429470,docker,HTML,Creative Commons Zero v1.0 Universal,组织用户
+3606624,ReactiveCocoa/ReactiveCocoa,3422977,ReactiveCocoa,Swift,Other,组织用户
+32531480,js-cookie/js-cookie,11557446,js-cookie,JavaScript,MIT License,组织用户
+103784142,MonitorControl/MonitorControl,66435613,MonitorControl,Swift,MIT License,组织用户
+20773773,bazelbuild/bazel,11684617,bazelbuild,Java,Apache License 2.0,组织用户
+45942274,enzymejs/enzyme,60945302,enzymejs,JavaScript,MIT License,组织用户
+51769689,refined-github/refined-github,53074291,refined-github,TypeScript,MIT License,组织用户
+50603846,parse-community/parse-server,26932219,parse-community,JavaScript,Other,组织用户
+537603333,openai/whisper,14957082,openai,Jupyter Notebook,MIT License,组织用户
+1206546,winstonjs/winston,9682013,winstonjs,JavaScript,MIT License,组织用户
+191820100,google/mediapipe,1342004,google,C++,Apache License 2.0,组织用户
+22374063,futurice/android-best-practices,852157,futurice,,Other,组织用户
+29217054,go-micro/go-micro,103172883,go-micro,Go,Apache License 2.0,组织用户
+538746,ruby/ruby,210414,ruby,Ruby,Other,组织用户
+22394357,osquery/osquery,8315868,osquery,C++,Other,组织用户
+172741073,withastro/snowpack,44914786,withastro,JavaScript,MIT License,组织用户
+19994257,go-delve/delve,19232073,go-delve,Go,MIT License,组织用户
+74962515,gchq/CyberChef,15800240,gchq,JavaScript,Apache License 2.0,组织用户
+90902132,flameshot-org/flameshot,36951528,flameshot-org,C++,GNU General Public License v3.0,组织用户
+20787122,PostgREST/postgrest,15115011,PostgREST,Haskell,MIT License,组织用户
+23095954,ReactiveX/RxAndroid,6407041,ReactiveX,Java,Apache License 2.0,组织用户
+57167764,xi-editor/xi-editor,43351123,xi-editor,Rust,Apache License 2.0,组织用户
+23129458,aseprite/aseprite,3853896,aseprite,C++,,组织用户
+48769241,penpot/penpot,30179644,penpot,Clojure,Mozilla Public License 2.0,组织用户
+3623050,Homebrew/homebrew-cask,1503512,Homebrew,Ruby,"BSD 2-Clause ""Simplified"" License",组织用户
+93253246,javascript-tutorial/en.javascript.info,49552305,javascript-tutorial,HTML,Other,组织用户
+21484781,jumpserver/jumpserver,6006570,jumpserver,Python,GNU General Public License v3.0,组织用户
+19953044,google/flatbuffers,1342004,google,C++,Apache License 2.0,组织用户
+82040650,shimohq/chinese-programmer-wrong-pronunciation,13383310,shimohq,Python,,组织用户
+165041732,go-kratos/kratos,62791634,go-kratos,Go,MIT License,组织用户
+5830987,hapijs/joi,3774533,hapijs,JavaScript,Other,组织用户
+71939872,palantir/blueprint,303157,palantir,TypeScript,Apache License 2.0,组织用户
+11855195,chalk/chalk,13122722,chalk,JavaScript,MIT License,组织用户
+66424871,pytorch/examples,21003710,pytorch,Python,"BSD 3-Clause ""New"" or ""Revised"" License",组织用户
+77358263,SpaceVim/SpaceVim,24742154,SpaceVim,Vim script,GNU General Public License v3.0,组织用户
+65848095,requarks/wiki,16729233,requarks,Vue,GNU Affero General Public License v3.0,组织用户
+40345658,recharts/recharts,13690587,recharts,TypeScript,MIT License,组织用户
+266231149,logseq/logseq,63385289,logseq,Clojure,GNU Affero General Public License v3.0,组织用户
+65711522,PaddlePaddle/Paddle,23534030,PaddlePaddle,Python,Apache License 2.0,组织用户
+18477927,segmentio/nightmare,819518,segmentio,JavaScript,,组织用户
+38307428,graphql/graphql-js,12972006,graphql,TypeScript,MIT License,组织用户

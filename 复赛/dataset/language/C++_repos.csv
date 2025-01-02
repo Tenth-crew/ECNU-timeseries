@@ -1,0 +1,54 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+45717250,tensorflow/tensorflow,15658638,tensorflow,C++,Apache License 2.0
+9384267,electron/electron,13409222,electron,C++,MIT License
+100060912,microsoft/terminal,6154722,microsoft,C++,MIT License
+184456251,microsoft/PowerToys,6154722,microsoft,C++,MIT License
+1181927,bitcoin/bitcoin,528860,bitcoin,C++,MIT License
+5108051,opencv/opencv,5009934,opencv,C++,Other
+44838949,apple/swift,10639145,apple,C++,Apache License 2.0
+65600975,pytorch/pytorch,21003710,pytorch,C++,Other
+23357588,protocolbuffers/protobuf,26310541,protocolbuffers,C++,Other
+15634981,godotengine/godot,6318500,godotengine,C++,Other
+22887094,tesseract-ocr/tesseract,8401422,tesseract-ocr,C++,Apache License 2.0
+22067521,ocornut/imgui,0,,C++,MIT License
+33791743,x64dbg/x64dbg,7937360,x64dbg,C++,Other
+27729880,grpc/grpc,7802525,grpc,C++,Apache License 2.0
+11171548,nlohmann/json,0,,C++,MIT License
+12791642,BVLC/caffe,6182163,BVLC,C++,Other
+23405758,google/leveldb,1342004,google,C++,"BSD 3-Clause ""New"" or ""Revised"" License"
+259463685,carbon-language/carbon-lang,63681715,carbon-language,C++,Other
+1200050,ariya/phantomjs,0,,C++,"BSD 3-Clause ""New"" or ""Revised"" License"
+39840932,google/googletest,1342004,google,C++,"BSD 3-Clause ""New"" or ""Revised"" License"
+1116542,aria2/aria2,13545224,aria2,C++,Other
+60246359,ClickHouse/ClickHouse,54801242,ClickHouse,C++,Apache License 2.0
+168008797,microsoft/calculator,6154722,microsoft,C++,MIT License
+196813750,Light-City/CPlusPlusThings,0,,C++,
+6452529,rethinkdb/rethinkdb,1229647,rethinkdb,C++,Other
+89247811,CMU-Perceptual-Computing-Lab/openpose,12239573,CMU-Perceptual-Computing-Lab,C++,Other
+120887835,huihut/interview,0,,C++,Other
+98771110,zhongyang219/TrafficMonitor,0,,C++,Other
+11276147,cmderdev/cmder,11646750,cmderdev,C++,MIT License
+6934395,facebook/rocksdb,69631,facebook,C++,Other
+4524181,facebook/folly,69631,facebook,C++,Apache License 2.0
+16587283,dmlc/xgboost,11508361,dmlc,C++,Apache License 2.0
+160083795,SerenityOS/serenity,50811782,SerenityOS,C++,"BSD 2-Clause ""Simplified"" License"
+116167731,yuzu-emu/yuzu,35075882,yuzu-emu,C++,GNU General Public License v3.0
+1357796,emscripten-core/emscripten,46011144,emscripten-core,C++,Other
+108110,mongodb/mongo,45120,mongodb,C++,Other
+311683390,WerWolv/ImHex,0,,C++,GNU General Public License v2.0
+63477612,TheAlgorithms/C-Plus-Plus,20487725,TheAlgorithms,C++,MIT License
+96246170,ApolloAuto/apollo,28768304,ApolloAuto,C++,Apache License 2.0
+74660642,taichi-dev/taichi,33354891,taichi-dev,C++,MIT License
+65214191,envoyproxy/envoy,30125649,envoyproxy,C++,Apache License 2.0
+11892946,RedisInsight/RedisDesktopManager,87389211,RedisInsight,C++,Other
+19374812,telegramdesktop/tdesktop,6113871,telegramdesktop,C++,Other
+24420506,v8/v8,113781,v8,C++,Other
+60273704,mozilla/DeepSpeech,131524,mozilla,C++,Mozilla Public License 2.0
+34777562,ossrs/srs,12165287,ossrs,C++,Other
+34864402,apache/mxnet,47359,apache,C++,Apache License 2.0
+191820100,google/mediapipe,1342004,google,C++,Apache License 2.0
+22394357,osquery/osquery,8315868,osquery,C++,Other
+90902132,flameshot-org/flameshot,36951528,flameshot-org,C++,GNU General Public License v3.0
+23129458,aseprite/aseprite,3853896,aseprite,C++,
+19953044,google/flatbuffers,1342004,google,C++,Apache License 2.0
+66088979,changkun/modern-cpp-tutorial,0,,C++,MIT License

@@ -1,0 +1,70 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+121395510,CyC2018/CS-Notes,0,,Java,
+132464395,Snailclimb/JavaGuide,0,,Java,Apache License 2.0
+22790488,iluwatar/java-design-patterns,0,,Java,Other
+160640094,MisterBooo/LeetCodeAnimation,0,,Java,
+151834062,doocs/advanced-java,43716716,doocs,Java,Creative Commons Attribution Share Alike 4.0 International
+6296790,spring-projects/spring-boot,317776,spring-projects,Java,Apache License 2.0
+127988011,macrozheng/mall,0,,Java,Apache License 2.0
+507775,elastic/elasticsearch,6764390,elastic,Java,Other
+81975372,kdn251/interviews,0,,Java,MIT License
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,0,,Java,Other
+1148753,spring-projects/spring-framework,317776,spring-projects,Java,Apache License 2.0
+63477660,TheAlgorithms/Java,20487725,TheAlgorithms,Java,MIT License
+7508411,ReactiveX/RxJava,6407041,ReactiveX,Java,Apache License 2.0
+20300177,google/guava,1342004,google,Java,Apache License 2.0
+892275,square/retrofit,82592,square,Java,Apache License 2.0
+4710920,apache/dubbo,47359,apache,Java,Apache License 2.0
+173228436,NationalSecurityAgency/ghidra,11298292,NationalSecurityAgency,Java,Apache License 2.0
+19148949,PhilJay/MPAndroidChart,0,,Java,Other
+70198875,airbnb/lottie-android,698437,airbnb,Java,Apache License 2.0
+11267509,bumptech/glide,423539,bumptech,Java,Other
+9754983,eugenp/tutorials,0,,Java,MIT License
+8859474,skylot/jadx,0,,Java,Apache License 2.0
+159152904,jeecgboot/jeecg-boot,86360035,jeecgboot,Java,Apache License 2.0
+64558143,Blankj/AndroidUtilCode,0,,Java,Apache License 2.0
+146633589,alibaba/arthas,1961952,alibaba,Java,Apache License 2.0
+267775629,geekxh/hello-algorithm,0,,Java,
+2562751,zxing/zxing,1122572,zxing,Java,Apache License 2.0
+1064563,netty/netty,473791,netty,Java,Apache License 2.0
+44662669,dbeaver/dbeaver,34743864,dbeaver,Java,Apache License 2.0
+72907253,ityouknow/spring-boot-examples,0,,Java,
+110211147,xkcoding/spring-boot-demo,0,,Java,MIT License
+53127403,apolloconfig/apollo,83490506,apolloconfig,Java,Apache License 2.0
+114523184,crossoverJie/JCSprout,0,,Java,MIT License
+49122742,Wechat-Group/WxJava,19882207,Wechat-Group,Java,Apache License 2.0
+2700159,alibaba/druid,1961952,alibaba,Java,Other
+120395176,alibaba/easyexcel,1961952,alibaba,Java,Apache License 2.0
+8575137,JakeWharton/butterknife,0,,Java,Apache License 2.0
+148736243,qiurunze123/miaosha,0,,Java,
+108252892,proxyee-down-org/proxyee-down,39588481,proxyee-down-org,Java,Apache License 2.0
+7613257,SeleniumHQ/selenium,983927,SeleniumHQ,Java,Apache License 2.0
+116237823,lenve/vhr,0,,Java,
+126178683,halo-dev/halo,48195280,halo-dev,Java,GNU General Public License v3.0
+2700474,alibaba/fastjson,1961952,alibaba,Java,Apache License 2.0
+18723836,dromara/hutool,41095225,dromara,Java,Other
+137451403,alibaba/nacos,1961952,alibaba,Java,Apache License 2.0
+7587038,alibaba/canal,1961952,alibaba,Java,Apache License 2.0
+131789494,wuyouzhuguli/SpringAll,0,,Java,MIT License
+112785414,alibaba/spring-cloud-alibaba,1961952,alibaba,Java,Apache License 2.0
+154648112,hollischuang/toBeTopJavaer,0,,Java,
+5070389,greenrobot/EventBus,0,,Java,Apache License 2.0
+2211243,apache/kafka,47359,apache,Java,Other
+93152223,scwang90/SmartRefreshLayout,0,,Java,Apache License 2.0
+47023603,xuxueli/xxl-job,0,,Java,GNU General Public License v3.0
+55886798,CymChad/BaseRecyclerViewAdapterHelper,0,,Java,MIT License
+163387337,seata/seata,48813648,seata,Java,Apache License 2.0
+2990192,signalapp/Signal-Android,702459,signalapp,Java,GNU General Public License v3.0
+6766558,Netflix/Hystrix,913567,Netflix,Java,Apache License 2.0
+41889031,TeamNewPipe/NewPipe,22159318,TeamNewPipe,Java,Other
+32538871,google/gson,1342004,google,Java,Apache License 2.0
+13862381,DrKLO/Telegram,0,,Java,GNU General Public License v2.0
+45721011,apache/skywalking,47359,apache,Java,Apache License 2.0
+5373551,libgdx/libgdx,509841,libgdx,Java,Other
+20587599,apache/flink,47359,apache,Java,Apache License 2.0
+128018428,alibaba/Sentinel,1961952,alibaba,Java,Apache License 2.0
+15823460,redisson/redisson,16851431,redisson,Java,Apache License 2.0
+20818126,google/ExoPlayer,1342004,google,Java,Apache License 2.0
+1103607,jenkinsci/jenkins,107424,jenkinsci,Java,MIT License
+20773773,bazelbuild/bazel,11684617,bazelbuild,Java,Apache License 2.0
+23095954,ReactiveX/RxAndroid,6407041,ReactiveX,Java,Apache License 2.0

@@ -1,0 +1,14 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+15111821,grafana/grafana,7195757,grafana,TypeScript,GNU Affero General Public License v3.0
+52281283,mastodon/mastodon,24979032,mastodon,Ruby,GNU Affero General Public License v3.0
+29261473,minio/minio,695951,minio,Go,GNU Affero General Public License v3.0
+108761645,nocodb/nocodb,50206778,nocodb,Vue,GNU Affero General Public License v3.0
+377496562,AppFlowy-IO/appflowy,86002201,AppFlowy-IO,Rust,GNU Affero General Public License v3.0
+58842707,trailofbits/algo,2314423,trailofbits,Python,GNU Affero General Public License v3.0
+317836248,GorvGoyl/Clone-Wars,0,,,GNU Affero General Public License v3.0
+19620844,ovity/octotree,43424025,ovity,JavaScript,GNU Affero General Public License v3.0
+137154114,yichengchen/clashX,0,,Swift,GNU Affero General Public License v3.0
+196353673,taosdata/TDengine,48876650,taosdata,Python,GNU Affero General Public License v3.0
+73648678,forem/forem,65030610,forem,Ruby,GNU Affero General Public License v3.0
+65848095,requarks/wiki,16729233,requarks,Vue,GNU Affero General Public License v3.0
+266231149,logseq/logseq,63385289,logseq,Clojure,GNU Affero General Public License v3.0

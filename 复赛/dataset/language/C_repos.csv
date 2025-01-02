@@ -1,0 +1,26 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+111583593,Genymobile/scrcpy,3427627,Genymobile,C,Apache License 2.0
+10744183,netdata/netdata,43390781,netdata,C,GNU General Public License v3.0
+156018,redis/redis,1529926,redis,C,"BSD 3-Clause ""New"" or ""Revised"" License"
+36502,git/git,18133,git,C,Other
+13233158,obsproject/obs-studio,7725691,obsproject,C,GNU General Public License v2.0
+246335987,ventoy/Ventoy,0,,C,GNU General Public License v3.0
+1903522,php/php-src,25158,php,C,Other
+3774328,wg/wrk,0,,C,Other
+10446890,bilibili/ijkplayer,12002442,bilibili,C,Other
+1614410,FFmpeg/FFmpeg,729418,FFmpeg,C,Other
+569041,curl/curl,16928085,curl,C,Other
+36836475,tmux/tmux,12054114,tmux,C,Other
+2810455,ggreer/the_silver_searcher,0,,C,Apache License 2.0
+102578345,coolsnowwolf/lede,0,,C,Other
+24586308,cfenollosa/os-tutorial,0,,C,"BSD 3-Clause ""New"" or ""Revised"" License"
+5101141,stedolan/jq,0,,C,Other
+18666758,pjreddie/darknet,0,,C,Other
+2810292,pbatard/rufus,0,,C,GNU General Public License v3.0
+6201092,mpv-player/mpv,2550273,mpv-player,C,Other
+118970914,debauchee/barrier,35818844,debauchee,C,Other
+20159867,nothings/stb,0,,C,Other
+14812739,libuv/libuv,4030929,libuv,C,Other
+7634677,openssl/openssl,3279138,openssl,C,Apache License 2.0
+11715753,robertdavidgraham/masscan,0,,C,Other
+14807173,SamyPesse/How-to-Make-a-Computer-Operating-System,0,,C,Apache License 2.0

@@ -1,0 +1,70 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+23096959,golang/go,4314092,golang,Go,Other
+20580498,kubernetes/kubernetes,13629408,kubernetes,Go,Apache License 2.0
+21540759,avelino/awesome-go,0,,Go,MIT License
+20904437,gin-gonic/gin,7894478,gin-gonic,Go,MIT License
+7691631,moby/moby,27259197,moby,Go,Apache License 2.0
+11180687,gohugoio/hugo,29385237,gohugoio,Go,Apache License 2.0
+48378947,fatedier/frp,0,,Go,Apache License 2.0
+13807606,junegunn/fzf,0,,Go,MIT License
+14712850,syncthing/syncthing,7628018,syncthing,Go,Mozilla Public License 2.0
+6838921,prometheus/prometheus,3380462,prometheus,Go,Apache License 2.0
+29207621,caddyserver/caddy,12955528,caddyserver,Go,Apache License 2.0
+11225014,etcd-io/etcd,41972792,etcd-io,Go,Apache License 2.0
+5271882,astaxie/build-web-application-with-golang,0,,Go,"BSD 3-Clause ""New"" or ""Revised"" License"
+41912791,v2ray/v2ray-core,14110142,v2ray,Go,MIT License
+42408804,traefik/traefik,14280338,traefik,Go,MIT License
+15452919,ethereum/go-ethereum,6250754,ethereum,Go,Other
+138547797,FiloSottile/mkcert,0,,Go,"BSD 3-Clause ""New"" or ""Revised"" License"
+29261473,minio/minio,695951,minio,Go,GNU Affero General Public License v3.0
+17803236,rclone/rclone,24937341,rclone,Go,MIT License
+17728164,hashicorp/terraform,761456,hashicorp,Go,Mozilla Public License 2.0
+136815833,Dreamacro/clash,0,,Go,GNU General Public License v3.0
+133251103,wagoodman/dive,0,,Go,MIT License
+61137153,evanw/esbuild,0,,Go,MIT License
+72495579,go-gitea/gitea,12724356,go-gitea,Go,MIT License
+163883279,nektos/act,3813618,nektos,Go,MIT License
+41986369,pingcap/tidb,11855343,pingcap,Go,Apache License 2.0
+74175805,istio/istio,23534644,istio,Go,Apache License 2.0
+8989842,unknwon/the-way-to-go_ZH_CN,0,,Go,
+134017286,jesseduffield/lazygit,0,,Go,MIT License
+13855476,go-gorm/gorm,15127678,go-gorm,Go,MIT License
+212613049,cli/cli,59704711,cli,Go,MIT License
+12574344,spf13/cobra,0,,Go,Apache License 2.0
+3577919,beego/beego,3884041,beego,Go,Other
+97533102,halfrost/LeetCode-Go,0,,Go,MIT License
+31288958,hashicorp/vault,761456,hashicorp,Go,Mozilla Public License 2.0
+16563587,cockroachdb/cockroach,6748139,cockroachdb,Go,Other
+16607898,harness/drone,34780278,harness,Go,Other
+14125254,hashicorp/consul,761456,hashicorp,Go,Mozilla Public License 2.0
+56353740,kubernetes/minikube,13629408,kubernetes,Go,Apache License 2.0
+187335810,jesseduffield/lazydocker,0,,Go,MIT License
+24268127,coreybutler/nvm-windows,0,,Go,MIT License
+13124802,influxdata/influxdb,5713248,influxdata,Go,MIT License
+31504491,labstack/echo,2624634,labstack,Go,MIT License
+37448451,mattermost/mattermost-server,9828093,mattermost,Go,Other
+30215630,go-kit/kit,10981023,go-kit,Go,MIT License
+156084530,ehang-io/nps,59558731,ehang-io,Go,GNU General Public License v3.0
+119160553,photoprism/photoprism,32436079,photoprism,Go,Other
+234231371,gofiber/fiber,59947262,gofiber,Go,MIT License
+43723161,helm/helm,15859888,helm,Go,Apache License 2.0
+50709152,kataras/iris,0,,Go,Other
+4307108,nsqio/nsq,8295919,nsqio,Go,MIT License
+77144337,openfaas/faas,27013154,openfaas,Go,MIT License
+401025,github/hub,9919,github,Go,MIT License
+285864199,zeromicro/go-zero,74225106,zeromicro,Go,MIT License
+8900723,inconshreveable/ngrok,0,,Go,Other
+13628513,sirupsen/logrus,0,,Go,MIT License
+135516270,k3s-io/k3s,49319725,k3s-io,Go,Apache License 2.0
+23689830,yeasy/docker_practice,0,,Go,
+18369373,spf13/viper,0,,Go,MIT License
+107286889,schollz/croc,0,,Go,MIT License
+53632140,zyedidia/micro,0,,Go,Other
+26337322,rancher/rancher,9343010,rancher,Go,Apache License 2.0
+12080551,tsenart/vegeta,0,,Go,MIT License
+192632000,dapr/dapr,51932459,dapr,Go,MIT License
+29217054,go-micro/go-micro,103172883,go-micro,Go,Apache License 2.0
+19994257,go-delve/delve,19232073,go-delve,Go,MIT License
+48003886,tmrts/go-patterns,0,,Go,Apache License 2.0
+122734569,iawia002/lux,0,,Go,MIT License
+165041732,go-kratos/kratos,62791634,go-kratos,Go,MIT License

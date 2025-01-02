@@ -1,0 +1,862 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+28457823,freeCodeCamp/freeCodeCamp,9892522,freeCodeCamp,TypeScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+177736533,996icu/996.ICU,0,,Rust,Other
+13491895,EbookFoundation/free-programming-books,14127308,EbookFoundation,,Other
+21737465,sindresorhus/awesome,0,,Shell,Creative Commons Zero v1.0 Universal
+85077558,kamranahmedse/developer-roadmap,0,,TypeScript,Other
+54346799,public-apis/public-apis,51121562,public-apis,Python,MIT License
+83222441,donnemartin/system-design-primer,0,,Python,Other
+11730342,vuejs/vue,6128107,vuejs,TypeScript,MIT License
+10270250,facebook/react,69631,facebook,JavaScript,MIT License
+45717250,tensorflow/tensorflow,15658638,tensorflow,C++,Apache License 2.0
+14440270,getify/You-Dont-Know-JS,0,,,Other
+2126244,twbs/bootstrap,2918581,twbs,JavaScript,MIT License
+126577260,trekhleb/javascript-algorithms,0,,JavaScript,MIT License
+291137,ohmyzsh/ohmyzsh,22552083,ohmyzsh,Shell,MIT License
+21289110,vinta/awesome-python,0,,Python,Other
+63476337,TheAlgorithms/Python,20487725,TheAlgorithms,Python,MIT License
+31792824,flutter/flutter,14101776,flutter,Dart,"BSD 3-Clause ""New"" or ""Revised"" License"
+1062897,github/gitignore,9919,github,,Creative Commons Zero v1.0 Universal
+41881900,microsoft/vscode,6154722,microsoft,TypeScript,MIT License
+2325298,torvalds/linux,0,,C,Other
+6498492,airbnb/javascript,698437,airbnb,JavaScript,MIT License
+132464395,Snailclimb/JavaGuide,0,,Java,Apache License 2.0
+19415064,ossu/computer-science,14957346,ossu,,MIT License
+36633370,awesome-selfhosted/awesome-selfhosted,24270415,awesome-selfhosted,JavaScript,Other
+23096959,golang/go,4314092,golang,Go,Other
+29028775,facebook/react-native,69631,facebook,JavaScript,Other
+9384267,electron/electron,13409222,electron,C++,MIT License
+112507086,30-seconds/30-seconds-of-code,43479428,30-seconds,JavaScript,Creative Commons Zero v1.0 Universal
+63537249,facebook/create-react-app,69631,facebook,JavaScript,MIT License
+70107786,vercel/next.js,14985020,vercel,JavaScript,MIT License
+23088740,axios/axios,32372333,axios,JavaScript,MIT License
+14098069,justjavac/free-programming-books-zh_CN,0,,,GNU General Public License v3.0
+20580498,kubernetes/kubernetes,13629408,kubernetes,Go,Apache License 2.0
+21540759,avelino/awesome-go,0,,Go,MIT License
+27193779,nodejs/node,9950313,nodejs,JavaScript,Other
+576201,mrdoob/three.js,0,,JavaScript,MIT License
+20929025,microsoft/TypeScript,6154722,microsoft,TypeScript,Apache License 2.0
+133442384,denoland/deno,42048915,denoland,TypeScript,MIT License
+100060912,microsoft/terminal,6154722,microsoft,C++,MIT License
+24195339,angular/angular,139426,angular,TypeScript,MIT License
+138393139,trimstray/the-book-of-secret-knowledge,0,,,MIT License
+88011908,practical-tutorials/project-based-learning,89421154,practical-tutorials,,MIT License
+184456251,microsoft/PowerToys,6154722,microsoft,C++,MIT License
+62607227,yangshun/tech-interview-handbook,0,,TypeScript,MIT License
+23083156,mui/material-ui,33663932,mui,JavaScript,MIT License
+34526884,ant-design/ant-design,12101536,ant-design,TypeScript,MIT License
+90796663,puppeteer/puppeteer,6906516,puppeteer,TypeScript,Apache License 2.0
+88464704,PanJiaChen/vue-element-admin,0,,Vue,MIT License
+22790488,iluwatar/java-design-patterns,0,,Java,Other
+155220641,huggingface/transformers,25720743,huggingface,Python,Apache License 2.0
+2561582,animate-css/animate.css,64791939,animate-css,CSS,Other
+74791366,ryanmcdermott/clean-code-javascript,0,,JavaScript,MIT License
+724712,rust-lang/rust,5430905,rust-lang,Rust,Other
+54173593,storybookjs/storybook,22632046,storybookjs,TypeScript,MIT License
+23083156,mui-org/material-ui,33663932,mui-org,JavaScript,MIT License
+51117837,tensorflow/models,15658638,tensorflow,Python,Other
+33614304,nvbn/thefuck,0,,Python,MIT License
+111583593,Genymobile/scrcpy,3427627,Genymobile,C,Apache License 2.0
+52631841,gothinkster/realworld,8601733,gothinkster,TypeScript,MIT License
+3470471,FortAwesome/Font-Awesome,1505683,FortAwesome,JavaScript,Other
+4164482,django/django,27804,django,Python,Other
+1181927,bitcoin/bitcoin,528860,bitcoin,C++,MIT License
+44571718,vuejs/awesome-vue,6128107,vuejs,,MIT License
+5108051,opencv/opencv,5009934,opencv,C++,Other
+20904437,gin-gonic/gin,7894478,gin-gonic,Go,MIT License
+6296790,spring-projects/spring-boot,317776,spring-projects,Java,Apache License 2.0
+7691631,moby/moby,27259197,moby,Go,Apache License 2.0
+14747598,typicode/json-server,0,,JavaScript,MIT License
+11180687,gohugoio/hugo,29385237,gohugoio,Go,Apache License 2.0
+74293321,sveltejs/svelte,23617963,sveltejs,TypeScript,MIT License
+612230,nvm-sh/nvm,49963700,nvm-sh,Shell,MIT License
+106017343,tailwindlabs/tailwindcss,67109815,tailwindlabs,JavaScript,MIT License
+107111421,thedaviddias/Front-End-Checklist,0,,,Creative Commons Zero v1.0 Universal
+48378947,fatedier/frp,0,,Go,Apache License 2.0
+1861458,hakimel/reveal.js,0,,JavaScript,MIT License
+127988011,macrozheng/mall,0,,Java,Apache License 2.0
+311525798,microsoft/Web-Dev-For-Beginners,6154722,microsoft,JavaScript,MIT License
+507775,elastic/elasticsearch,6764390,elastic,Java,Other
+3678731,webpack/webpack,2105791,webpack,JavaScript,MIT License
+10744183,netdata/netdata,43390781,netdata,C,GNU General Public License v3.0
+44838949,apple/swift,10639145,apple,C++,Apache License 2.0
+596892,pallets/flask,16748505,pallets,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+65600975,pytorch/pytorch,21003710,pytorch,C++,Other
+172562475,florinpop17/app-ideas,0,,,MIT License
+16408992,neovim/neovim,6471485,neovim,Vim script,Other
+460078,angular/angular.js,139426,angular,JavaScript,MIT License
+237159,expressjs/express,5658226,expressjs,JavaScript,MIT License
+8843683,chartjs/Chart.js,10342521,chartjs,JavaScript,MIT License
+36535156,reduxjs/redux,13142323,reduxjs,TypeScript,Other
+3228505,atom/atom,1089146,atom,JavaScript,MIT License
+81975372,kdn251/interviews,0,,Java,MIT License
+172953845,coder/code-server,95932066,coder,TypeScript,MIT License
+156018,redis/redis,1529926,redis,C,"BSD 3-Clause ""New"" or ""Revised"" License"
+55076063,Hack-with-Github/Awesome-Hacking,18143746,Hack-with-Github,,Creative Commons Zero v1.0 Universal
+23357588,protocolbuffers/protobuf,26310541,protocolbuffers,C++,Other
+4311796,adam-p/markdown-here,0,,JavaScript,MIT License
+557980,socketio/socket.io,10566080,socketio,TypeScript,MIT License
+21872392,josephmisiti/awesome-machine-learning,0,,Python,Other
+167174,jquery/jquery,70142,jquery,JavaScript,MIT License
+12888993,home-assistant/core,13844975,home-assistant,Python,Apache License 2.0
+33015583,keras-team/keras,34455048,keras-team,Python,Other
+15634981,godotengine/godot,6318500,godotengine,C++,Other
+63539055,jaywcjlove/awesome-mac,0,,JavaScript,Creative Commons Zero v1.0 Universal
+196701619,tauri-apps/tauri,54536011,tauri-apps,Rust,Other
+3402537,h5bp/Front-end-Developer-Interview-Questions,1136800,h5bp,Nunjucks,MIT License
+3638964,ansible/ansible,1507452,ansible,Python,GNU General Public License v3.0
+3955647,lodash/lodash,2565403,lodash,JavaScript,Other
+88011908,tuvtran/project-based-learning,0,,,MIT License
+7600409,shadowsocks/shadowsocks-windows,3006190,shadowsocks,C#,Other
+120538304,kelseyhightower/nocode,0,,Dockerfile,Apache License 2.0
+36040894,gatsbyjs/gatsby,12551863,gatsbyjs,JavaScript,MIT License
+18408635,chrislgarry/Apollo-11,0,,Assembly,Other
+3544424,httpie/httpie,24454777,httpie,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+9185792,apache/incubator-echarts,47359,apache,TypeScript,Apache License 2.0
+486550,h5bp/html5-boilerplate,1136800,h5bp,JavaScript,MIT License
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,0,,Java,Other
+147350463,leonardomso/33-js-concepts,0,,JavaScript,MIT License
+15111821,grafana/grafana,7195757,grafana,TypeScript,GNU Affero General Public License v3.0
+80945428,nestjs/nest,28507035,nestjs,TypeScript,MIT License
+67274736,ElemeFE/element,12810740,ElemeFE,Vue,MIT License
+160919119,tiangolo/fastapi,0,,Python,MIT License
+26066727,mermaid-js/mermaid,57169982,mermaid-js,JavaScript,MIT License
+843222,scikit-learn/scikit-learn,365630,scikit-learn,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+26898879,awesomedata/awesome-public-datasets,35111974,awesomedata,,MIT License
+8514,rails/rails,4223,rails,Ruby,MIT License
+257485422,vitejs/vite,65625612,vitejs,TypeScript,MIT License
+191529732,lydiahallie/javascript-questions,0,,,MIT License
+43441403,strapi/strapi,19872173,strapi,JavaScript,Other
+172953845,cdr/code-server,1375,cdr,TypeScript,MIT License
+9309093,Semantic-Org/Semantic-UI,5796209,Semantic-Org,JavaScript,MIT License
+1148753,spring-projects/spring-framework,317776,spring-projects,Java,Apache License 2.0
+83999700,sdmg15/Best-websites-a-programmer-should-visit,0,,,MIT License
+39464018,apache/superset,47359,apache,TypeScript,Apache License 2.0
+81598961,python/cpython,1525981,python,Python,Other
+127407957,azl397985856/leetcode,0,,JavaScript,Other
+63477660,TheAlgorithms/Java,20487725,TheAlgorithms,Java,MIT License
+1700621,necolas/normalize.css,0,,CSS,MIT License
+278335273,anuraghazra/github-readme-stats,0,,JavaScript,MIT License
+19872456,remix-run/react-router,64235328,remix-run,TypeScript,MIT License
+203587744,hoppscotch/hoppscotch,56705483,hoppscotch,Vue,MIT License
+13807606,junegunn/fzf,0,,Go,MIT License
+32689863,3b1b/manim,0,,Python,Other
+1362490,psf/requests,50630501,psf,Python,Apache License 2.0
+138839979,scutan90/DeepLearning-500-questions,0,,JavaScript,GNU General Public License v3.0
+12256376,ionic-team/ionic-framework,3171503,ionic-team,TypeScript,Other
+21737266,sindresorhus/awesome-nodejs,0,,,Creative Commons Zero v1.0 Universal
+22887094,tesseract-ocr/tesseract,8401422,tesseract-ocr,C++,Apache License 2.0
+1424470,moment/moment,4129662,moment,JavaScript,MIT License
+24953448,google/material-design-icons,1342004,google,,Apache License 2.0
+83844720,ageitgey/face_recognition,0,,Python,MIT License
+261787758,bradtraversy/design-resources-for-developers,0,,,MIT License
+7508411,ReactiveX/RxJava,6407041,ReactiveX,Java,Apache License 2.0
+50264296,jgthms/bulma,0,,CSS,MIT License
+20300177,google/guava,1342004,google,Java,Apache License 2.0
+5483330,soimort/you-get,0,,Python,Other
+6838921,prometheus/prometheus,3380462,prometheus,Go,Apache License 2.0
+221981891,microsoft/playwright,6154722,microsoft,TypeScript,Apache License 2.0
+65252,jekyll/jekyll,3083652,jekyll,Ruby,MIT License
+529502,scrapy/scrapy,733635,scrapy,Python,Other
+71948498,localstack/localstack,28732122,localstack,Python,Other
+29207621,caddyserver/caddy,12955528,caddyserver,Go,Apache License 2.0
+36502,git/git,18133,git,C,Other
+75104123,prettier/prettier,25822731,prettier,JavaScript,MIT License
+40416236,minimaxir/big-list-of-naughty-strings,0,,Python,MIT License
+22067521,ocornut/imgui,0,,C++,MIT License
+71220757,swisskyrepo/PayloadsAllTheThings,0,,Python,MIT License
+34302698,serverless/serverless,13742415,serverless,JavaScript,MIT License
+3482588,danielmiessler/SecLists,0,,PHP,MIT License
+51980455,alacritty/alacritty,29714349,alacritty,Rust,Apache License 2.0
+19872456,ReactTraining/react-router,11823761,ReactTraining,JavaScript,MIT License
+28428729,wasabeef/awesome-android-ui,0,,,MIT License
+5152285,square/okhttp,82592,square,Kotlin,Apache License 2.0
+214587193,supabase/supabase,54469796,supabase,TypeScript,Apache License 2.0
+343965132,microsoft/ML-For-Beginners,6154722,microsoft,Jupyter Notebook,MIT License
+246335987,ventoy/Ventoy,0,,C,GNU General Public License v3.0
+53809090,juliangarnier/anime,0,,JavaScript,MIT License
+98029592,ziishaned/learn-regex,0,,,MIT License
+3214406,meteor/meteor,789528,meteor,JavaScript,Other
+114747226,deepfakes/faceswap,0,,Python,GNU General Public License v3.0
+21935031,fffaraz/awesome-cpp,0,,,Other
+15019962,tldr-pages/tldr,7366472,tldr-pages,Shell,Other
+45986162,aymericdamien/TensorFlow-Examples,0,,Jupyter Notebook,Other
+11225014,etcd-io/etcd,41972792,etcd-io,Go,Apache License 2.0
+31629751,cypress-io/cypress,8908513,cypress-io,JavaScript,MIT License
+6093316,DefinitelyTyped/DefinitelyTyped,3637556,DefinitelyTyped,TypeScript,Other
+9852918,TryGhost/Ghost,2178663,TryGhost,JavaScript,MIT License
+15428480,ColorlibHQ/AdminLTE,39128121,ColorlibHQ,JavaScript,MIT License
+51148780,android/architecture-samples,32689599,android,Kotlin,Apache License 2.0
+77213120,Eugeny/terminus,0,,TypeScript,MIT License
+99598595,parcel-bundler/parcel,32607881,parcel-bundler,JavaScript,MIT License
+24560307,babel/babel,9637642,babel,TypeScript,MIT License
+71995937,nuxt/nuxt.js,23360933,nuxt,JavaScript,Other
+128907699,iamkun/dayjs,0,,JavaScript,MIT License
+58836534,algorithm-visualizer/algorithm-visualizer,38487505,algorithm-visualizer,JavaScript,MIT License
+16752620,gogs/gogs,6656686,gogs,JavaScript,MIT License
+115478820,binhnguyennus/awesome-scalability,0,,,MIT License
+5271882,astaxie/build-web-application-with-golang,0,,Go,"BSD 3-Clause ""New"" or ""Revised"" License"
+220809393,Textualize/rich,93378883,Textualize,Python,MIT License
+21700699,vsouza/awesome-ios,0,,Swift,MIT License
+1644196,JuliaLang/julia,743164,JuliaLang,Julia,Other
+41912791,v2ray/v2ray-core,14110142,v2ray,Go,MIT License
+1663468,mozilla/pdf.js,131524,mozilla,JavaScript,Apache License 2.0
+15062869,facebook/jest,69631,facebook,TypeScript,MIT License
+49970642,yarnpkg/yarn,22247014,yarnpkg,JavaScript,Other
+42408804,traefik/traefik,14280338,traefik,Go,MIT License
+892275,square/retrofit,82592,square,Java,Apache License 2.0
+94911145,facebook/docusaurus,69631,facebook,TypeScript,Other
+11177928,karan/Projects,0,,,MIT License
+15452919,ethereum/go-ethereum,6250754,ethereum,Go,Other
+27574418,ryanoasis/nerd-fonts,0,,CSS,Other
+20619036,pi-hole/pi-hole,16827203,pi-hole,Shell,Other
+62367558,vercel/hyper,14985020,vercel,TypeScript,MIT License
+33791743,x64dbg/x64dbg,7937360,x64dbg,C++,Other
+3100121,nwjs/nw.js,10180421,nwjs,JavaScript,MIT License
+138547797,FiloSottile/mkcert,0,,Go,"BSD 3-Clause ""New"" or ""Revised"" License"
+68957920,justjavac/awesome-wechat-weapp,0,,,GNU General Public License v3.0
+52281283,mastodon/mastodon,24979032,mastodon,Ruby,GNU Affero General Public License v3.0
+130464961,sharkdp/bat,0,,Rust,Other
+23974149,Dogfalo/materialize,0,,JavaScript,MIT License
+22458259,Alamofire/Alamofire,7774181,Alamofire,Swift,MIT License
+135786093,typescript-cheatsheets/react,50188264,typescript-cheatsheets,JavaScript,MIT License
+139824423,Avik-Jain/100-Days-Of-ML-Code,0,,,MIT License
+7741856,pixijs/pixijs,5406849,pixijs,TypeScript,MIT License
+67186968,chinese-poetry/chinese-poetry,30764933,chinese-poetry,JavaScript,MIT License
+231283452,excalidraw/excalidraw,59452120,excalidraw,TypeScript,MIT License
+10187082,Unitech/pm2,0,,JavaScript,Other
+4710920,apache/dubbo,47359,apache,Java,Apache License 2.0
+162998479,sherlock-project/sherlock,48293496,sherlock-project,Python,MIT License
+74627617,commaai/openpilot,16128714,commaai,Python,MIT License
+523379232,CompVis/stable-diffusion,30233788,CompVis,Jupyter Notebook,Other
+65794292,styled-components/styled-components,20658825,styled-components,TypeScript,MIT License
+140687430,dcloudio/uni-app,5485517,dcloudio,JavaScript,Apache License 2.0
+18708860,tiimgreen/github-cheat-sheet,0,,,MIT License
+110446844,marktext/marktext,36623013,marktext,JavaScript,MIT License
+8681349,huginn/huginn,23225142,huginn,Ruby,MIT License
+7569578,discourse/discourse,3220138,discourse,Ruby,Other
+3065454,impress/impress.js,5477410,impress,JavaScript,MIT License
+101138315,d2l-ai/d2l-zh,43974506,d2l-ai,Python,Apache License 2.0
+29261473,minio/minio,695951,minio,Go,GNU Affero General Public License v3.0
+65388917,jakevdp/PythonDataScienceHandbook,0,,Jupyter Notebook,Other
+102969245,golang-standards/project-layout,31396365,golang-standards,Makefile,Other
+27729880,grpc/grpc,7802525,grpc,C++,Apache License 2.0
+49609581,PowerShell/PowerShell,11524380,PowerShell,C#,MIT License
+69629434,FreeCodeCampChina/freecodecamp.cn,18478284,FreeCodeCampChina,CSS,Other
+188660663,CorentinJ/Real-Time-Voice-Cloning,0,,Python,Other
+41058054,isocpp/CppCoreGuidelines,13841574,isocpp,Python,Other
+173228436,NationalSecurityAgency/ghidra,11298292,NationalSecurityAgency,Java,Apache License 2.0
+931135,Leaflet/Leaflet,2854298,Leaflet,JavaScript,Other
+858127,pandas-dev/pandas,21206976,pandas-dev,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+17803236,rclone/rclone,24937341,rclone,Go,MIT License
+136026789,iperov/DeepFaceLab,0,,Python,GNU General Public License v3.0
+27442967,fastlane/fastlane,11098337,fastlane,Ruby,MIT License
+67962648,vuetifyjs/vuetify,22138497,vuetifyjs,TypeScript,MIT License
+19148949,PhilJay/MPAndroidChart,0,,Java,Other
+5923215,hexojs/hexo,6375567,hexojs,JavaScript,MIT License
+117372806,yangshun/front-end-interview-handbook,0,,JavaScript,MIT License
+299354207,rustdesk/rustdesk,0,,Rust,GNU General Public License v3.0
+364474335,google/zx,1342004,google,TypeScript,Apache License 2.0
+212639071,bregman-arie/devops-exercises,0,,Python,Other
+199570071,2dust/v2rayN,0,,C#,GNU General Public License v3.0
+162279822,agalwood/Motrix,0,,JavaScript,MIT License
+1903522,php/php-src,25158,php,C,Other
+12820537,slatedocs/slate,54482270,slatedocs,SCSS,Apache License 2.0
+667006,videojs/video.js,3287189,videojs,JavaScript,Other
+21648001,akullpp/awesome-java,0,,,Other
+136815833,Dreamacro/clash,0,,Go,GNU General Public License v3.0
+17165658,apache/spark,47359,apache,Scala,Apache License 2.0
+35866694,RocketChat/Rocket.Chat,12508788,RocketChat,TypeScript,Other
+137078487,vuejs/vue-next,6128107,vuejs,TypeScript,MIT License
+83119431,apachecn/ailearning,24802038,apachecn,Python,Other
+667561,Marak/faker.js,0,,JavaScript,Other
+133251103,wagoodman/dive,0,,Go,MIT License
+85031442,poteto/hiring-without-whiteboards,0,,JavaScript,MIT License
+5239185,quilljs/quill,7089101,quilljs,JavaScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+61137153,evanw/esbuild,0,,Go,MIT License
+12972263,alvarotrigo/fullPage.js,0,,JavaScript,GNU General Public License v3.0
+47394776,lerna/lerna,19333396,lerna,JavaScript,MIT License
+264818686,ultralytics/yolov5,26833451,ultralytics,Python,GNU General Public License v3.0
+90563585,chubin/cheat.sh,0,,Python,MIT License
+72495579,go-gitea/gitea,12724356,go-gitea,Go,MIT License
+14370955,sahat/hackathon-starter,0,,JavaScript,MIT License
+80276391,GitSquared/edex-ui,0,,JavaScript,GNU General Public License v3.0
+33263118,gorhill/uBlock,0,,JavaScript,GNU General Public License v3.0
+61893399,brillout/awesome-react-components,0,,,Creative Commons Zero v1.0 Universal
+2935735,adobe/brackets,476009,adobe,JavaScript,MIT License
+26783295,Kong/kong,962416,Kong,Lua,Other
+62812261,kelseyhightower/kubernetes-the-hard-way,0,,,Other
+79162682,laurent22/joplin,0,,TypeScript,Other
+3721224,nolimits4web/swiper,0,,JavaScript,MIT License
+109343098,serhii-londar/open-source-mac-os-apps,0,,Swift,Creative Commons Zero v1.0 Universal
+42283287,preactjs/preact,26872990,preactjs,JavaScript,MIT License
+70198875,airbnb/lottie-android,698437,airbnb,Java,Apache License 2.0
+11551538,koajs/koa,5055057,koajs,JavaScript,MIT License
+101394335,ant-design/ant-design-pro,12101536,ant-design,TypeScript,MIT License
+163883279,nektos/act,3813618,nektos,Go,MIT License
+9393759,photonstorm/phaser,0,,JavaScript,MIT License
+1828795,AFNetworking/AFNetworking,1181541,AFNetworking,Objective-C,MIT License
+3774328,wg/wrk,0,,C,Other
+108761645,nocodb/nocodb,50206778,nocodb,Vue,GNU Affero General Public License v3.0
+11267509,bumptech/glide,423539,bumptech,Java,Other
+7190986,shadowsocks/shadowsocks-android,3006190,shadowsocks,Kotlin,Other
+172378503,romkatv/powerlevel10k,0,,Shell,MIT License
+42489829,rust-lang/rustlings,5430905,rust-lang,Rust,MIT License
+41986369,pingcap/tidb,11855343,pingcap,Go,Apache License 2.0
+11171548,nlohmann/json,0,,C++,MIT License
+12791642,BVLC/caffe,6182163,BVLC,C++,Other
+873328,getsentry/sentry,1396951,getsentry,Python,Other
+9754983,eugenp/tutorials,0,,Java,MIT License
+29887499,dkhamsing/open-source-ios-apps,0,,Swift,MIT License
+42751014,zenorocha/clipboard.js,0,,JavaScript,MIT License
+11167738,gulpjs/gulp,6200624,gulpjs,JavaScript,MIT License
+154747577,google-research/bert,43830688,google-research,Python,Apache License 2.0
+8859474,skylot/jadx,0,,Java,Apache License 2.0
+159152904,jeecgboot/jeecg-boot,86360035,jeecgboot,Java,Apache License 2.0
+35969061,google/styleguide,1342004,google,HTML,Apache License 2.0
+119811010,tabler/tabler,35471246,tabler,HTML,MIT License
+174038031,react-hook-form/react-hook-form,53986236,react-hook-form,TypeScript,MIT License
+21413198,immutable-js/immutable-js,46405934,immutable-js,TypeScript,MIT License
+60630844,microsoft/monaco-editor,6154722,microsoft,JavaScript,MIT License
+67508428,jgraph/drawio,1769238,jgraph,JavaScript,Apache License 2.0
+74175805,istio/istio,23534644,istio,Go,Apache License 2.0
+29268051,google/material-design-lite,1342004,google,HTML,Apache License 2.0
+128624453,NervJS/taro,30794937,NervJS,TypeScript,MIT License
+76838017,iina/iina,35151645,iina,Swift,GNU General Public License v3.0
+38558578,nativefier/nativefier,69503009,nativefier,TypeScript,MIT License
+207645083,TanStack/query,72518640,TanStack,TypeScript,MIT License
+220809393,willmcgugan/rich,0,,Python,MIT License
+156157055,GokuMohandas/MadeWithML,0,,Jupyter Notebook,MIT License
+6988020,SheetJS/sheetjs,5826089,SheetJS,Makefile,Apache License 2.0
+110058856,LeCoupa/awesome-cheatsheets,0,,JavaScript,MIT License
+134017286,jesseduffield/lazygit,0,,Go,MIT License
+94498635,carbon-app/carbon,52179379,carbon-app,JavaScript,MIT License
+94367677,jaredpalmer/formik,0,,TypeScript,Apache License 2.0
+64558143,Blankj/AndroidUtilCode,0,,Java,Apache License 2.0
+130688011,meilisearch/meilisearch,43250847,meilisearch,Rust,MIT License
+23405758,google/leveldb,1342004,google,C++,"BSD 3-Clause ""New"" or ""Revised"" License"
+146633589,alibaba/arthas,1961952,alibaba,Java,Apache License 2.0
+67702184,topjohnwu/Magisk,0,,Kotlin,GNU General Public License v3.0
+21938243,rust-unofficial/awesome-rust,20820960,rust-unofficial,Rust,Creative Commons Zero v1.0 Universal
+169677297,vlang/v,46413578,vlang,V,MIT License
+15653276,Trinea/android-open-project,0,,,Apache License 2.0
+1129010,blueimp/jQuery-File-Upload,0,,PHP,MIT License
+10446890,bilibili/ijkplayer,12002442,bilibili,C,Other
+30203935,metabase/metabase,10520629,metabase,Clojure,Other
+13855476,go-gorm/gorm,15127678,go-gorm,Go,MIT License
+212613049,cli/cli,59704711,cli,Go,MIT License
+6731432,koalaman/shellcheck,0,,Haskell,Other
+137147386,dylanaraps/pure-bash-bible,0,,Shell,MIT License
+68720867,firstcontributions/first-contributions,37713493,firstcontributions,,MIT License
+91573538,testerSunshine/12306,0,,Python,MIT License
+125266328,psf/black,50630501,psf,Python,MIT License
+24841635,date-fns/date-fns,14921202,date-fns,TypeScript,Other
+377496562,AppFlowy-IO/appflowy,86002201,AppFlowy-IO,Rust,GNU Affero General Public License v3.0
+2562751,zxing/zxing,1122572,zxing,Java,Apache License 2.0
+1614410,FFmpeg/FFmpeg,729418,FFmpeg,C,Other
+1064563,netty/netty,473791,netty,Java,Apache License 2.0
+13840241,freeCodeCamp/devdocs,9892522,freeCodeCamp,Ruby,Other
+17620347,dotnet/aspnetcore,9141961,dotnet,C#,MIT License
+202890778,chakra-ui/chakra-ui,54212428,chakra-ui,TypeScript,MIT License
+60844036,shadowsocks/ShadowsocksX-NG,3006190,shadowsocks,Swift,GNU General Public License v3.0
+12732573,junegunn/vim-plug,0,,Vim script,MIT License
+52773157,typeorm/typeorm,20165699,typeorm,TypeScript,MIT License
+12574344,spf13/cobra,0,,Go,Apache License 2.0
+5625464,pyenv/pyenv,16530698,pyenv,Shell,MIT License
+44662669,dbeaver/dbeaver,34743864,dbeaver,Java,Apache License 2.0
+48610662,acmesh-official/acme.sh,60454762,acmesh-official,Shell,GNU General Public License v3.0
+519832,mitmproxy/mitmproxy,4652787,mitmproxy,Python,MIT License
+48626335,vuejs/vue-cli,6128107,vuejs,JavaScript,MIT License
+26516210,certbot/certbot,17889013,certbot,Python,Other
+6007295,fxsjy/jieba,0,,Python,MIT License
+2573058,foundation/foundation-sites,35962841,foundation,HTML,MIT License
+3577919,beego/beego,3884041,beego,Go,Other
+259463685,carbon-language/carbon-lang,63681715,carbon-language,C++,Other
+37958358,naptha/tesseract.js,7720173,naptha,JavaScript,Apache License 2.0
+1200050,ariya/phantomjs,0,,C++,"BSD 3-Clause ""New"" or ""Revised"" License"
+57222302,openai/gym,14957082,openai,Python,Other
+2293158,rapid7/metasploit-framework,1013671,rapid7,Ruby,Other
+281975310,type-challenges/type-challenges,68700335,type-challenges,TypeScript,MIT License
+17375436,lukehoban/es6features,0,,,MIT License
+137724480,hasura/graphql-engine,13966722,hasura,TypeScript,Other
+94367677,formium/formik,50745844,formium,TypeScript,Apache License 2.0
+30969188,react-boilerplate/react-boilerplate,25323389,react-boilerplate,JavaScript,MIT License
+2096579,markedjs/marked,19886934,markedjs,JavaScript,Other
+99761907,atlassian/react-beautiful-dnd,168166,atlassian,JavaScript,Other
+39840932,google/googletest,1342004,google,C++,"BSD 3-Clause ""New"" or ""Revised"" License"
+33884891,apache/airflow,47359,apache,Python,Apache License 2.0
+7548986,laravel/framework,958072,laravel,PHP,MIT License
+2329766,mathiasbynens/dotfiles,0,,Shell,MIT License
+97533102,halfrost/LeetCode-Go,0,,Go,MIT License
+21125024,typicode/husky,0,,JavaScript,Other
+110211147,xkcoding/spring-boot-demo,0,,Java,MIT License
+1116542,aria2/aria2,13545224,aria2,C++,Other
+95189138,alibaba/p3c,1961952,alibaba,Kotlin,Apache License 2.0
+95876775,elsewhencode/project-guidelines,7815827,elsewhencode,JavaScript,MIT License
+4484451,amix/vimrc,0,,Vim script,MIT License
+32247847,ReactiveX/rxjs,6407041,ReactiveX,TypeScript,Apache License 2.0
+15045751,docker/compose,5429470,docker,Python,Apache License 2.0
+180190854,appwrite/appwrite,25003669,appwrite,TypeScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+34824499,square/leakcanary,82592,square,Kotlin,Apache License 2.0
+1844251,tastejs/todomvc,1733746,tastejs,JavaScript,Other
+569041,curl/curl,16928085,curl,C,Other
+14098121,aosabook/500lines,0,,JavaScript,Other
+192925833,prisma/prisma,17219288,prisma,TypeScript,Apache License 2.0
+952189,jashkenas/backbone,0,,JavaScript,MIT License
+10788737,codepath/android_guides,3710273,codepath,,MIT License
+31085130,airbnb/lottie-web,698437,airbnb,JavaScript,MIT License
+39176269,vuejs/vuex,6128107,vuejs,JavaScript,MIT License
+15585444,IanLunn/Hover,0,,SCSS,Other
+458058,symfony/symfony,143937,symfony,PHP,MIT License
+29891188,standard/standard,29208316,standard,JavaScript,MIT License
+698041,caolan/async,0,,JavaScript,MIT License
+18049133,kenwheeler/slick,0,,JavaScript,MIT License
+207645083,tannerlinsley/react-query,0,,TypeScript,MIT License
+53127403,apolloconfig/apollo,83490506,apolloconfig,Java,Apache License 2.0
+237791077,mingrammer/diagrams,0,,Python,MIT License
+24976755,hankcs/HanLP,0,,Python,Apache License 2.0
+19745004,odoo/odoo,6368483,odoo,Python,Other
+262296122,PaddlePaddle/PaddleOCR,23534030,PaddlePaddle,Python,Apache License 2.0
+92443980,jgraph/drawio-desktop,1769238,jgraph,Shell,Apache License 2.0
+28751632,0xAX/linux-insides,0,,Python,Other
+13584262,webtorrent/webtorrent,5800008,webtorrent,JavaScript,MIT License
+571770,jgm/pandoc,0,,Haskell,Other
+382496361,louislam/uptime-kuma,0,,Vue,MIT License
+193215554,n8n-io/n8n,45487711,n8n-io,TypeScript,Other
+790359,sequelize/sequelize,3591786,sequelize,JavaScript,MIT License
+50447720,kodecocodes/swift-algorithm-club,4722515,kodecocodes,Swift,MIT License
+2056312,niklasvh/html2canvas,0,,TypeScript,MIT License
+1864363,composer/composer,837015,composer,PHP,MIT License
+61929586,shengxinjing/programmer-job-blacklist,0,,Shell,MIT License
+36836475,tmux/tmux,12054114,tmux,C,Other
+13078968,postcss/postcss,8296347,postcss,TypeScript,MIT License
+170326929,goabstract/Awesome-Design-Tools,18014107,goabstract,JavaScript,MIT License
+2881789,geekcomputers/Python,0,,Python,MIT License
+114523184,crossoverJie/JCSprout,0,,Java,MIT License
+50447720,raywenderlich/swift-algorithm-club,4722515,raywenderlich,Swift,MIT License
+91253698,ccxt/ccxt,31901609,ccxt,JavaScript,MIT License
+42920477,layui/layui,7955643,layui,JavaScript,MIT License
+349241,jashkenas/underscore,0,,JavaScript,Other
+28167802,Tencent/weui,18461506,Tencent,Less,Other
+58842707,trailofbits/algo,2314423,trailofbits,Python,GNU Affero General Public License v3.0
+2579314,fzaninotto/Faker,0,,PHP,Other
+60246359,ClickHouse/ClickHouse,54801242,ClickHouse,C++,Apache License 2.0
+49122742,Wechat-Group/WxJava,19882207,Wechat-Group,Java,Apache License 2.0
+151619717,google-research/google-research,43830688,google-research,Jupyter Notebook,Apache License 2.0
+61715431,Binaryify/NeteaseCloudMusicApi,0,,JavaScript,MIT License
+168008797,microsoft/calculator,6154722,microsoft,C++,MIT License
+2700159,alibaba/druid,1961952,alibaba,Java,Other
+16563587,cockroachdb/cockroach,6748139,cockroachdb,Go,Other
+32578467,danielgindi/Charts,0,,Swift,Apache License 2.0
+5405654,pcottle/learnGitBranching,0,,JavaScript,MIT License
+34757182,donnemartin/interactive-coding-challenges,0,,Python,Other
+16607898,harness/drone,34780278,harness,Go,Other
+46273445,transloadit/uppy,125754,transloadit,JavaScript,MIT License
+61412022,ianstormtaylor/slate,0,,TypeScript,MIT License
+120395176,alibaba/easyexcel,1961952,alibaba,Java,Apache License 2.0
+15308499,SortableJS/Sortable,17040762,SortableJS,JavaScript,MIT License
+23736449,VincentGarreau/particles.js,0,,JavaScript,MIT License
+481366,nvie/gitflow,0,,Shell,Other
+32215970,mobxjs/mobx,17475736,mobxjs,TypeScript,MIT License
+21552971,alebcay/awesome-shell,0,,,Creative Commons Zero v1.0 Universal
+69495170,fastify/fastify,24939410,fastify,JavaScript,Other
+38558578,jiahaog/nativefier,0,,TypeScript,MIT License
+36891867,angular/angular-cli,139426,angular,TypeScript,MIT License
+6452529,rethinkdb/rethinkdb,1229647,rethinkdb,C++,Other
+90793418,sharkdp/fd,0,,Rust,Other
+2541284,cheeriojs/cheerio,7230330,cheeriojs,TypeScript,MIT License
+8575137,JakeWharton/butterknife,0,,Java,Apache License 2.0
+164140756,files-community/Files,65931357,files-community,C#,MIT License
+53370988,GoogleChrome/lighthouse,1778935,GoogleChrome,JavaScript,Apache License 2.0
+114466145,yewstack/yew,49116234,yewstack,Rust,Other
+56899284,Kong/insomnia,962416,Kong,JavaScript,MIT License
+1481305,realpython/python-guide,5448020,realpython,Batchfile,Other
+4793392,sqlmapproject/sqlmap,735289,sqlmapproject,Python,Other
+269336148,sickcodes/Docker-OSX,0,,Shell,GNU General Public License v3.0
+1283503,request/request,730467,request,JavaScript,Apache License 2.0
+1254497,codemirror/codemirror5,8876537,codemirror,JavaScript,MIT License
+402046,parallax/jsPDF,320004,parallax,JavaScript,MIT License
+25136308,github/fetch,9919,github,JavaScript,MIT License
+23338716,JedWatson/react-select,0,,TypeScript,MIT License
+59996401,YMFE/yapi,19645609,YMFE,JavaScript,Apache License 2.0
+17372733,OAI/OpenAPI-Specification,16343502,OAI,JavaScript,Apache License 2.0
+3620194,select2/select2,8077542,select2,JavaScript,MIT License
+108252892,proxyee-down-org/proxyee-down,39588481,proxyee-down-org,Java,Apache License 2.0
+7613257,SeleniumHQ/selenium,983927,SeleniumHQ,Java,Apache License 2.0
+393571599,babysor/Realtime-Voice-Clone-Chinese,0,,Python,Other
+56353740,kubernetes/minikube,13629408,kubernetes,Go,Apache License 2.0
+115110181,swc-project/swc,26715726,swc-project,TypeScript,Other
+317757,Modernizr/Modernizr,131060,Modernizr,JavaScript,Other
+42920477,sentsin/layui,0,,JavaScript,MIT License
+126178683,halo-dev/halo,48195280,halo-dev,Java,GNU General Public License v3.0
+53127403,ctripcorp/apollo,10720307,ctripcorp,Java,Apache License 2.0
+89247811,CMU-Perceptual-Computing-Lab/openpose,12239573,CMU-Perceptual-Computing-Lab,C++,Other
+84533158,yunjey/pytorch-tutorial,0,,Python,MIT License
+120887835,huihut/interview,0,,C++,Other
+1028340,ajaxorg/ace,168515,ajaxorg,JavaScript,Other
+187335810,jesseduffield/lazydocker,0,,Go,MIT License
+597879,Automattic/mongoose,887802,Automattic,JavaScript,MIT License
+2700474,alibaba/fastjson,1961952,alibaba,Java,Apache License 2.0
+218115303,vercel/swr,14985020,vercel,TypeScript,MIT License
+18280236,GitbookIO/gitbook,7111340,GitbookIO,JavaScript,Apache License 2.0
+18723836,dromara/hutool,41095225,dromara,Java,Other
+137451403,alibaba/nacos,1961952,alibaba,Java,Apache License 2.0
+180328715,pmndrs/zustand,45790596,pmndrs,TypeScript,MIT License
+24268127,coreybutler/nvm-windows,0,,Go,MIT License
+7607075,CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,0,,Jupyter Notebook,MIT License
+51863547,ageron/handson-ml,0,,Jupyter Notebook,Apache License 2.0
+21467110,explosion/spaCy,20011530,explosion,Python,MIT License
+12244426,rstacruz/nprogress,0,,JavaScript,MIT License
+481872,hashicorp/vagrant,761456,hashicorp,Ruby,MIT License
+45456804,jobbole/awesome-python-cn,8531823,jobbole,Makefile,Other
+958314,remy/nodemon,0,,JavaScript,MIT License
+479924503,The-Run-Philosophy-Organization/run,103482135,The-Run-Philosophy-Organization,JavaScript,Other
+349321229,TencentARC/GFPGAN,83739826,TencentARC,Python,Other
+7587038,alibaba/canal,1961952,alibaba,Java,Apache License 2.0
+116392709,digitalocean/nginxconfig.io,4650108,digitalocean,JavaScript,MIT License
+25315643,nylas/nylas-mail,4219865,nylas,JavaScript,MIT License
+1431547,encode/django-rest-framework,19159390,encode,Python,Other
+124257233,pmndrs/react-spring,45790596,pmndrs,TypeScript,MIT License
+13124802,influxdata/influxdb,5713248,influxdata,Go,MIT License
+98771110,zhongyang219/TrafficMonitor,0,,C++,Other
+207117992,viraptor/reverse-interview,0,,,Other
+105919803,facebookresearch/Detectron,16943930,facebookresearch,Python,Apache License 2.0
+45055693,balena-io/etcher,6157842,balena-io,TypeScript,Apache License 2.0
+31504491,labstack/echo,2624634,labstack,Go,MIT License
+37448451,mattermost/mattermost-server,9828093,mattermost,Go,Other
+419347358,PKUFlyingPig/pku-cs-self-learning,0,,HTML,Other
+13886476,zsh-users/zsh-autosuggestions,567410,zsh-users,Shell,MIT License
+4037197,ycm-core/YouCompleteMe,52140259,ycm-core,Python,GNU General Public License v3.0
+131789494,wuyouzhuguli/SpringAll,0,,Java,MIT License
+313419,SDWebImage/SDWebImage,33113626,SDWebImage,Objective-C,MIT License
+52281283,tootsuite/mastodon,24979032,tootsuite,Ruby,GNU Affero General Public License v3.0
+112785414,alibaba/spring-cloud-alibaba,1961952,alibaba,Java,Apache License 2.0
+45431898,bvaughn/react-virtualized,0,,JavaScript,MIT License
+2810455,ggreer/the_silver_searcher,0,,C,Apache License 2.0
+130884470,solidjs/solid,79226042,solidjs,TypeScript,MIT License
+30215630,go-kit/kit,10981023,go-kit,Go,MIT License
+11276147,cmderdev/cmder,11646750,cmderdev,C++,MIT License
+102578345,coolsnowwolf/lede,0,,C,Other
+6934395,facebook/rocksdb,69631,facebook,C++,Other
+115720575,immerjs/immer,45853199,immerjs,JavaScript,MIT License
+156084530,ehang-io/nps,59558731,ehang-io,Go,GNU General Public License v3.0
+16607898,drone/drone,2181346,drone,Go,Other
+24586308,cfenollosa/os-tutorial,0,,C,"BSD 3-Clause ""New"" or ""Revised"" License"
+35756351,nagadomi/waifu2x,0,,Lua,MIT License
+59652928,akveo/ngx-admin,11921694,akveo,TypeScript,MIT License
+97086543,TheAlgorithms/Javascript,20487725,TheAlgorithms,JavaScript,GNU General Public License v3.0
+63484632,facebookresearch/fastText,16943930,facebookresearch,HTML,MIT License
+22362099,johnpapa/angular-styleguide,0,,,MIT License
+12226786,lovell/sharp,0,,JavaScript,Apache License 2.0
+10567197,dokku/dokku,13455795,dokku,Shell,MIT License
+64355429,iview/iview,20693613,iview,Vue,Other
+4524181,facebook/folly,69631,facebook,C++,Apache License 2.0
+5070389,greenrobot/EventBus,0,,Java,Apache License 2.0
+361044034,slidevjs/slidev,83095831,slidevjs,TypeScript,MIT License
+2206953,tj/commander.js,0,,JavaScript,MIT License
+29749635,donnemartin/data-science-ipython-notebooks,0,,Python,Other
+119160553,photoprism/photoprism,32436079,photoprism,Go,Other
+54994103,floating-ui/popper-core,58035617,floating-ui,TypeScript,MIT License
+5101141,stedolan/jq,0,,C,Other
+2211243,apache/kafka,47359,apache,Java,Other
+234231371,gofiber/fiber,59947262,gofiber,Go,MIT License
+348060227,withastro/astro,44914786,withastro,TypeScript,Other
+34453060,sindresorhus/awesome-electron,0,,,Creative Commons Zero v1.0 Universal
+275993885,appsmithorg/appsmith,67620218,appsmithorg,TypeScript,Apache License 2.0
+164574693,qishibo/AnotherRedisDesktopManager,0,,JavaScript,MIT License
+313330998,bradtraversy/50projects50days,0,,CSS,MIT License
+24297122,veggiemonk/awesome-docker,0,,,Apache License 2.0
+16587283,dmlc/xgboost,11508361,dmlc,C++,Apache License 2.0
+93152223,scwang90/SmartRefreshLayout,0,,Java,Apache License 2.0
+712530,fabricjs/fabric.js,24580162,fabricjs,JavaScript,Other
+33041711,ryanhanwu/How-To-Ask-Questions-The-Smart-Way,0,,JavaScript,MIT License
+70198664,airbnb/lottie-ios,698437,airbnb,Swift,Apache License 2.0
+44150497,remoteintech/remote-jobs,31714327,remoteintech,JavaScript,Creative Commons Zero v1.0 Universal
+82729529,google/python-fire,1342004,google,Python,Other
+79510167,pypa/pipenv,647025,pypa,Python,MIT License
+18666758,pjreddie/darknet,0,,C,Other
+36804486,tqdm/tqdm,12731565,tqdm,Python,Other
+254832799,Z4nzu/hackingtool,0,,Python,MIT License
+41592744,AllThingsSmitty/css-protips,0,,,Creative Commons Zero v1.0 Universal
+164554832,ageron/handson-ml2,0,,Jupyter Notebook,Apache License 2.0
+43723161,helm/helm,15859888,helm,Go,Apache License 2.0
+50709152,kataras/iris,0,,Go,Other
+995750,VundleVim/Vundle.vim,12930284,VundleVim,Vim script,MIT License
+71932349,ray-project/ray,22125274,ray-project,Python,Apache License 2.0
+159152904,zhangdaiscott/jeecg-boot,0,,Java,Apache License 2.0
+47023603,xuxueli/xxl-job,0,,Java,GNU General Public License v3.0
+116167731,yuzu-emu/yuzu,35075882,yuzu-emu,C++,GNU General Public License v3.0
+55886798,CymChad/BaseRecyclerViewAdapterHelper,0,,Java,MIT License
+3602123,hammerjs/hammer.js,7997161,hammerjs,JavaScript,MIT License
+49016322,angular/components,139426,angular,TypeScript,MIT License
+206660580,facebookresearch/detectron2,16943930,facebookresearch,Python,Apache License 2.0
+102973646,fastai/fastai,20547620,fastai,Jupyter Notebook,Apache License 2.0
+2055965,swagger-api/swagger-ui,7658037,swagger-api,JavaScript,Apache License 2.0
+163387337,seata/seata,48813648,seata,Java,Apache License 2.0
+24579238,vuejs/vue-devtools,6128107,vuejs,Vue,MIT License
+2990192,signalapp/Signal-Android,702459,signalapp,Java,GNU General Public License v3.0
+67709808,react-native-elements/react-native-elements,49050851,react-native-elements,TypeScript,MIT License
+1357796,emscripten-core/emscripten,46011144,emscripten-core,C++,Other
+123303402,python-poetry/poetry,48722593,python-poetry,Python,MIT License
+30794868,sampotts/plyr,0,,JavaScript,MIT License
+33569135,ReactiveX/RxSwift,6407041,ReactiveX,Swift,Other
+317836248,GorvGoyl/Clone-Wars,0,,,GNU Affero General Public License v3.0
+2500088,gitlabhq/gitlabhq,1086321,gitlabhq,Ruby,Other
+6766558,Netflix/Hystrix,913567,Netflix,Java,Apache License 2.0
+4307108,nsqio/nsq,8295919,nsqio,Go,MIT License
+108110,mongodb/mongo,45120,mongodb,C++,Other
+308770,heartcombo/devise,59584037,heartcombo,Ruby,MIT License
+125596489,doczjs/docz,39714731,doczjs,TypeScript,MIT License
+20270252,feathericons/feather,29268069,feathericons,JavaScript,MIT License
+202367615,lyswhut/lx-music-desktop,0,,Vue,Apache License 2.0
+402046,MrRio/jsPDF,0,,JavaScript,MIT License
+23069399,mdbootstrap/mdb-ui-kit,20553039,mdbootstrap,SCSS,Other
+21696302,matteocrippa/awesome-swift,0,,Swift,Creative Commons Zero v1.0 Universal
+103953059,mbeaudru/modern-js-cheatsheet,0,,,MIT License
+35640229,rollup/rollup,12554859,rollup,JavaScript,Other
+7212645,syl20bnr/spacemacs,0,,Emacs Lisp,Other
+9603240,pure-css/pure,23743443,pure-css,JavaScript,Other
+168799526,rwightman/pytorch-image-models,0,,Python,Apache License 2.0
+63477612,TheAlgorithms/C-Plus-Plus,20487725,TheAlgorithms,C++,MIT License
+164608222,alibaba/flutter-go,1961952,alibaba,Dart,Other
+127769231,DIYgod/RSSHub,0,,JavaScript,MIT License
+43695474,quasarframework/quasar,23064371,quasarframework,JavaScript,MIT License
+13428264,ShareX/ShareX,5548736,ShareX,C#,GNU General Public License v3.0
+319029846,beurtschipper/Depix,0,,Python,Other
+10851820,ramda/ramda,5298359,ramda,JavaScript,MIT License
+16677706,kahun/awesome-sysadmin,0,,,Other
+107595270,matterport/Mask_RCNN,4206481,matterport,Python,Other
+224663696,alpinejs/alpine,59030169,alpinejs,JavaScript,MIT License
+145670234,open-mmlab/mmdetection,10245193,open-mmlab,Python,Apache License 2.0
+162723104,OWASP/CheatSheetSeries,155815,OWASP,Python,Other
+65233633,vercel/pkg,14985020,vercel,JavaScript,MIT License
+38934449,reduxjs/react-redux,13142323,reduxjs,TypeScript,MIT License
+1554093,mbadolato/iTerm2-Color-Schemes,0,,Shell,Other
+77144337,openfaas/faas,27013154,openfaas,Go,MIT License
+15315789,Wox-launcher/Wox,15628601,Wox-launcher,C#,MIT License
+90792131,android/architecture-components-samples,32689599,android,Kotlin,Apache License 2.0
+18044526,StreisandEffect/streisand,32347203,StreisandEffect,Shell,Other
+41889031,TeamNewPipe/NewPipe,22159318,TeamNewPipe,Java,Other
+74260508,docsifyjs/docsify,40133106,docsifyjs,JavaScript,MIT License
+49910095,vapor/vapor,17364220,vapor,Swift,MIT License
+1580851,dimsemenov/PhotoSwipe,0,,JavaScript,MIT License
+1801829,emberjs/ember.js,1253363,emberjs,JavaScript,MIT License
+3757512,balderdashy/sails,1445252,balderdashy,JavaScript,MIT License
+47071941,redux-saga/redux-saga,24776643,redux-saga,JavaScript,Other
+186024298,nushell/nushell,50749515,nushell,Rust,MIT License
+908607,numpy/numpy,288276,numpy,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+73561650,jaywcjlove/linux-command,0,,Markdown,MIT License
+52113921,facebook/draft-js,69631,facebook,JavaScript,Other
+35133520,MostlyAdequate/mostly-adequate-guide,14079115,MostlyAdequate,JavaScript,Other
+1420053,guzzle/guzzle,638632,guzzle,PHP,MIT License
+19620844,ovity/octotree,43424025,ovity,JavaScript,GNU Affero General Public License v3.0
+401025,github/hub,9919,github,Go,MIT License
+42455934,statelyai/xstate,61783956,statelyai,TypeScript,MIT License
+1631024,harvesthq/chosen,43635,harvesthq,HTML,Other
+70104825,dotnet-architecture/eShopOnContainers,27453006,dotnet-architecture,C#,MIT License
+38836015,michalsnik/aos,0,,JavaScript,MIT License
+77912349,qianguyihao/Web,0,,JavaScript,Other
+96246170,ApolloAuto/apollo,28768304,ApolloAuto,C++,Apache License 2.0
+285864199,zeromicro/go-zero,74225106,zeromicro,Go,MIT License
+8900723,inconshreveable/ngrok,0,,Go,Other
+277168957,eugeneyan/applied-ml,0,,,MIT License
+241805592,rome/tools,85328842,rome,TypeScript,MIT License
+4008931,StevenBlack/hosts,0,,Python,MIT License
+24635156,t4t5/sweetalert,0,,TypeScript,MIT License
+74660642,taichi-dev/taichi,33354891,taichi-dev,C++,MIT License
+73681508,Tencent/wepy,18461506,Tencent,JavaScript,Other
+31492490,NativeScript/NativeScript,7392261,NativeScript,TypeScript,MIT License
+204086862,streamlit/streamlit,45109972,streamlit,TypeScript,Apache License 2.0
+2909429,nicolargo/glances,0,,Python,Other
+74073233,keon/algorithms,0,,Python,MIT License
+11061773,eslint/eslint,6019716,eslint,JavaScript,MIT License
+131770422,neoclide/coc.nvim,23586922,neoclide,Vim script,Other
+25880891,facebook/flow,69631,facebook,OCaml,MIT License
+121081768,komeiji-satori/Dress,0,,Standard ML,Other
+13628513,sirupsen/logrus,0,,Go,MIT License
+135516270,k3s-io/k3s,49319725,k3s-io,Go,Apache License 2.0
+5532320,Polymer/polymer,2159051,Polymer,HTML,Other
+1451352,mochajs/mocha,8770005,mochajs,JavaScript,MIT License
+8686855,usablica/intro.js,2010360,usablica,JavaScript,Other
+120425779,lapce/lapce,43668847,lapce,Rust,MIT License
+32538871,google/gson,1342004,google,Java,Apache License 2.0
+16722900,ipfs/ipfs,10536621,ipfs,,MIT License
+18840003,kriasoft/react-starter-kit,773036,kriasoft,TypeScript,MIT License
+58623321,bilibili/flv.js,12002442,bilibili,JavaScript,Apache License 2.0
+137154114,yichengchen/clashX,0,,Swift,GNU Affero General Public License v3.0
+145803079,felixrieseberg/windows95,0,,TypeScript,Other
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,0,,Python,MIT License
+80990461,eriklindernoren/ML-From-Scratch,0,,Python,MIT License
+20965586,SwiftyJSON/SwiftyJSON,8858017,SwiftyJSON,Swift,MIT License
+18369373,spf13/viper,0,,Go,MIT License
+40484398,discordjs/discord.js,26492485,discordjs,JavaScript,Apache License 2.0
+18347476,google/iosched,1342004,google,Kotlin,Other
+14003349,localForage/localForage,18673496,localForage,JavaScript,Apache License 2.0
+51270739,viatsko/awesome-vscode,0,,JavaScript,Creative Commons Zero v1.0 Universal
+192175095,conwnet/github1s,0,,TypeScript,MIT License
+150058902,wangzheng0822/algo,0,,Python,Apache License 2.0
+33895378,bevacqua/dragula,0,,JavaScript,MIT License
+307489284,remix-run/remix,64235328,remix-run,TypeScript,MIT License
+15480067,react-bootstrap/react-bootstrap,6853419,react-bootstrap,TypeScript,MIT License
+154739597,google/jax,1342004,google,Python,Other
+49935814,littlecodersh/ItChat,0,,Python,Other
+107286889,schollz/croc,0,,Go,MIT License
+37246537,chenglou/react-motion,0,,JavaScript,MIT License
+121898717,dani-garcia/vaultwarden,0,,Rust,GNU General Public License v3.0
+63226588,marmelab/react-admin,3116319,marmelab,TypeScript,MIT License
+138331573,sebastianruder/NLP-progress,0,,Python,MIT License
+50565430,pnpm/pnpm,21320719,pnpm,TypeScript,MIT License
+65214191,envoyproxy/envoy,30125649,envoyproxy,C++,Apache License 2.0
+211124697,deezer/spleeter,4393583,deezer,Python,MIT License
+2810292,pbatard/rufus,0,,C,GNU General Public License v3.0
+1234714,elixir-lang/elixir,1481354,elixir-lang,Elixir,Apache License 2.0
+11892946,RedisInsight/RedisDesktopManager,87389211,RedisInsight,C++,Other
+45723377,charlax/professional-programming,0,,Python,MIT License
+128237146,vuejs/vuepress,6128107,vuejs,JavaScript,MIT License
+178626720,Lightning-AI/lightning,58386951,Lightning-AI,Python,Apache License 2.0
+74697963,HeroTransitions/Hero,40681391,HeroTransitions,Swift,MIT License
+60243197,nextcloud/server,19211038,nextcloud,PHP,Other
+47039255,codex-team/editor.js,16060815,codex-team,TypeScript,Apache License 2.0
+152327866,Igglybuff/awesome-piracy,0,,HTML,Creative Commons Zero v1.0 Universal
+6201092,mpv-player/mpv,2550273,mpv-player,C,Other
+27388642,homebridge/homebridge,38217527,homebridge,TypeScript,Apache License 2.0
+234798675,bevyengine/bevy,60047606,bevyengine,Rust,Other
+7874074,goldfire/howler.js,0,,JavaScript,MIT License
+1800198,rwaldron/idiomatic.js,0,,,Other
+2246815,DesignPatternsPHP/DesignPatternsPHP,78624921,DesignPatternsPHP,PHP,MIT License
+299482335,withfig/autocomplete,68212401,withfig,TypeScript,MIT License
+45721011,apache/skywalking,47359,apache,Java,Apache License 2.0
+64700934,OpenZeppelin/openzeppelin-contracts,20820676,OpenZeppelin,JavaScript,MIT License
+2540368,jaredhanson/passport,0,,JavaScript,MIT License
+1198539,lutzroeder/netron,0,,JavaScript,MIT License
+301742,tornadoweb/tornado,7468980,tornadoweb,Python,Apache License 2.0
+5373551,libgdx/libgdx,509841,libgdx,Java,Other
+118970914,debauchee/barrier,35818844,debauchee,C,Other
+23141830,paularmstrong/normalizr,0,,JavaScript,MIT License
+60027534,Awesome-Windows/Awesome,19653660,Awesome-Windows,,Creative Commons Zero v1.0 Universal
+172521926,pmndrs/react-three-fiber,45790596,pmndrs,TypeScript,MIT License
+11892946,uglide/RedisDesktopManager,0,,C++,Other
+53632140,zyedidia/micro,0,,Go,Other
+1213225,highlightjs/highlight.js,9039821,highlightjs,JavaScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+12044132,bitcoinbook/bitcoinbook,5091621,bitcoinbook,Python,Other
+33486016,onevcat/Kingfisher,0,,Swift,MIT License
+19374812,telegramdesktop/tdesktop,6113871,telegramdesktop,C++,Other
+20159867,nothings/stb,0,,C,Other
+184460,celery/celery,319983,celery,Python,Other
+8768406,postcss/autoprefixer,8296347,postcss,JavaScript,MIT License
+441903012,MichaelCade/90DaysOfDevOps,0,,Shell,Other
+88717215,youzan/vant,11404085,youzan,TypeScript,MIT License
+35810174,electron-react-boilerplate/electron-react-boilerplate,28049053,electron-react-boilerplate,TypeScript,MIT License
+35658863,ColorlibHQ/gentelella,39128121,ColorlibHQ,HTML,MIT License
+965782,validatorjs/validator.js,52114810,validatorjs,JavaScript,MIT License
+24420506,v8/v8,113781,v8,C++,Other
+49217007,hwdsl2/setup-ipsec-vpn,0,,Shell,Other
+14812739,libuv/libuv,4030929,libuv,C,Other
+38696925,python-telegram-bot/python-telegram-bot,16178365,python-telegram-bot,Python,Other
+181807583,haizlin/fe-interview,31833528,haizlin,JavaScript,MIT License
+453717720,AykutSarac/jsonvisio.com,0,,TypeScript,MIT License
+99433554,googlehosts/hosts,30318333,googlehosts,,Other
+7634677,openssl/openssl,3279138,openssl,C,Apache License 2.0
+101782647,facebookresearch/fairseq,16943930,facebookresearch,Python,MIT License
+37153337,necolas/react-native-web,0,,JavaScript,MIT License
+63188650,microsoft/api-guidelines,6154722,microsoft,,Other
+153500249,sdras/awesome-actions,0,,,Creative Commons Zero v1.0 Universal
+26337322,rancher/rancher,9343010,rancher,Go,Apache License 2.0
+18964487,ruanyf/es6tutorial,0,,JavaScript,Other
+1377867,locustio/locust,2641063,locustio,Python,MIT License
+124171501,Meituan-Dianping/mpvue,20238146,Meituan-Dianping,JavaScript,MIT License
+20587599,apache/flink,47359,apache,Java,Apache License 2.0
+162783195,datawhalechina/pumpkin-book,46047812,datawhalechina,,Other
+302603001,qier222/YesPlayMusic,0,,Vue,MIT License
+196353673,taosdata/TDengine,48876650,taosdata,Python,GNU Affero General Public License v3.0
+34777562,ossrs/srs,12165287,ossrs,C++,Other
+128018428,alibaba/Sentinel,1961952,alibaba,Java,Apache License 2.0
+15823460,redisson/redisson,16851431,redisson,Java,Apache License 2.0
+125596489,pedronauck/docz,0,,TypeScript,MIT License
+107505869,firecracker-microvm/firecracker,44477506,firecracker-microvm,Rust,Apache License 2.0
+39122628,git-tips/tips,13345927,git-tips,JavaScript,MIT License
+43807251,tachiyomiorg/tachiyomi,53302311,tachiyomiorg,Kotlin,Apache License 2.0
+11715753,robertdavidgraham/masscan,0,,C,Other
+13753636,jhipster/generator-jhipster,6059488,jhipster,TypeScript,Apache License 2.0
+12670444,petkaantonov/bluebird,0,,JavaScript,MIT License
+71487058,TanStack/table,72518640,TanStack,TypeScript,MIT License
+91629816,freqtrade/freqtrade,37536846,freqtrade,Python,GNU General Public License v3.0
+34864402,apache/mxnet,47359,apache,C++,Apache License 2.0
+20818126,google/ExoPlayer,1342004,google,Java,Apache License 2.0
+88717215,vant-ui/vant,82015979,vant-ui,TypeScript,MIT License
+155662306,trekhleb/homemade-machine-learning,0,,Jupyter Notebook,MIT License
+26820798,avajs/ava,8527916,avajs,JavaScript,MIT License
+20060596,ogham/exa,0,,Rust,MIT License
+12080551,tsenart/vegeta,0,,Go,MIT License
+157166750,lensapp/lens,62133242,lensapp,TypeScript,Other
+46622323,nefe/You-Dont-Need-jQuery,33238961,nefe,JavaScript,MIT License
+75388965,AlexeyAB/darknet,0,,C,Other
+192632000,dapr/dapr,51932459,dapr,Go,MIT License
+21515044,academic/awesome-datascience,17519607,academic,,MIT License
+44998092,JohnCoates/Aerial,0,,Swift,MIT License
+4279682,fish-shell/fish-shell,1828073,fish-shell,Shell,Other
+1103607,jenkinsci/jenkins,107424,jenkinsci,Java,MIT License
+236095576,backstage/backstage,72526453,backstage,TypeScript,Apache License 2.0
+73648678,forem/forem,65030610,forem,Ruby,GNU Affero General Public License v3.0
+240215314,docker/awesome-compose,5429470,docker,HTML,Creative Commons Zero v1.0 Universal
+1376664,Seldaek/monolog,0,,PHP,MIT License
+48623558,chubin/wttr.in,0,,Python,Apache License 2.0
+3431083,BradLarson/GPUImage,0,,Objective-C,"BSD 3-Clause ""New"" or ""Revised"" License"
+3606624,ReactiveCocoa/ReactiveCocoa,3422977,ReactiveCocoa,Swift,Other
+32531480,js-cookie/js-cookie,11557446,js-cookie,JavaScript,MIT License
+103784142,MonitorControl/MonitorControl,66435613,MonitorControl,Swift,MIT License
+20773773,bazelbuild/bazel,11684617,bazelbuild,Java,Apache License 2.0
+169529567,zhaoolee/ChromeAppHeroes,0,,JavaScript,GNU General Public License v3.0
+45942274,enzymejs/enzyme,60945302,enzymejs,JavaScript,MIT License
+51769689,refined-github/refined-github,53074291,refined-github,TypeScript,MIT License
+50603846,parse-community/parse-server,26932219,parse-community,JavaScript,Other
+537603333,openai/whisper,14957082,openai,Jupyter Notebook,MIT License
+1206546,winstonjs/winston,9682013,winstonjs,JavaScript,MIT License
+181461073,v2fly/v2ray-core,49637375,v2fly,JavaScript,MIT License
+183345962,MustangYM/WeChatExtension-ForMac,0,,Objective-C,MIT License
+2051226,eligrey/FileSaver.js,0,,JavaScript,Other
+191820100,google/mediapipe,1342004,google,C++,Apache License 2.0
+22374063,futurice/android-best-practices,852157,futurice,,Other
+29217054,go-micro/go-micro,103172883,go-micro,Go,Apache License 2.0
+172741073,FredKSchott/snowpack,0,,JavaScript,MIT License
+538746,ruby/ruby,210414,ruby,Ruby,Other
+41654081,drduh/macOS-Security-and-Privacy-Guide,0,,Python,MIT License
+22394357,osquery/osquery,8315868,osquery,C++,Other
+172741073,withastro/snowpack,44914786,withastro,JavaScript,MIT License
+83516498,norvig/pytudes,0,,Jupyter Notebook,MIT License
+19994257,go-delve/delve,19232073,go-delve,Go,MIT License
+48003886,tmrts/go-patterns,0,,Go,Apache License 2.0
+74962515,gchq/CyberChef,15800240,gchq,JavaScript,Apache License 2.0
+90902132,flameshot-org/flameshot,36951528,flameshot-org,C++,GNU General Public License v3.0
+8986773,benweet/stackedit,0,,JavaScript,Apache License 2.0
+20787122,PostgREST/postgrest,15115011,PostgREST,Haskell,MIT License
+23095954,ReactiveX/RxAndroid,6407041,ReactiveX,Java,Apache License 2.0
+195226340,goldbergyoni/javascript-testing-best-practices,0,,JavaScript,MIT License
+57167764,xi-editor/xi-editor,43351123,xi-editor,Rust,Apache License 2.0
+31522041,vnpy/vnpy,0,,Python,MIT License
+93253246,javascript-tutorial/en.javascript.info,49552305,javascript-tutorial,HTML,Other
+14807173,SamyPesse/How-to-Make-a-Computer-Operating-System,0,,C,Apache License 2.0
+193162629,rxhanson/Rectangle,0,,Swift,Other
+113752225,tipsy/profile-summary-for-github,0,,Vue,Apache License 2.0
+21484781,jumpserver/jumpserver,6006570,jumpserver,Python,GNU General Public License v3.0
+19953044,google/flatbuffers,1342004,google,C++,Apache License 2.0
+122734569,iawia002/lux,0,,Go,MIT License
+165041732,go-kratos/kratos,62791634,go-kratos,Go,MIT License
+66088979,changkun/modern-cpp-tutorial,0,,C++,MIT License
+11393110,urfave/cli,19274464,urfave,Go,MIT License
+94061307,vadimdemedes/ink,0,,TypeScript,MIT License
+5830987,hapijs/joi,3774533,hapijs,JavaScript,Other
+71939872,palantir/blueprint,303157,palantir,TypeScript,Apache License 2.0
+172741073,snowpackjs/snowpack,44914786,snowpackjs,JavaScript,MIT License
+11855195,chalk/chalk,13122722,chalk,JavaScript,MIT License
+66424871,pytorch/examples,21003710,pytorch,Python,"BSD 3-Clause ""New"" or ""Revised"" License"
+77358263,SpaceVim/SpaceVim,24742154,SpaceVim,Vim script,GNU General Public License v3.0
+69662720,mxgmn/WaveFunctionCollapse,0,,C#,Other
+65848095,requarks/wiki,16729233,requarks,Vue,GNU Affero General Public License v3.0
+40345658,recharts/recharts,13690587,recharts,TypeScript,MIT License
+67687706,kdeldycke/awesome-falsehood,0,,,Creative Commons Zero v1.0 Universal
+266231149,logseq/logseq,63385289,logseq,Clojure,GNU Affero General Public License v3.0
+65711522,PaddlePaddle/Paddle,23534030,PaddlePaddle,Python,Apache License 2.0
+54168759,SergioBenitez/Rocket,0,,Rust,Other
+99401299,ai/nanoid,0,,JavaScript,MIT License
+38307428,graphql/graphql-js,12972006,graphql,TypeScript,MIT License

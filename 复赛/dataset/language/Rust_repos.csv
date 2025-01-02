@@ -1,0 +1,24 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+177736533,996icu/996.ICU,0,,Rust,Other
+724712,rust-lang/rust,5430905,rust-lang,Rust,Other
+196701619,tauri-apps/tauri,54536011,tauri-apps,Rust,Other
+51980455,alacritty/alacritty,29714349,alacritty,Rust,Apache License 2.0
+130464961,sharkdp/bat,0,,Rust,Other
+299354207,rustdesk/rustdesk,0,,Rust,GNU General Public License v3.0
+53631945,BurntSushi/ripgrep,0,,Rust,The Unlicense
+42489829,rust-lang/rustlings,5430905,rust-lang,Rust,MIT License
+178991158,starship/starship,49654870,starship,Rust,ISC License
+130688011,meilisearch/meilisearch,43250847,meilisearch,Rust,MIT License
+21938243,rust-unofficial/awesome-rust,20820960,rust-unofficial,Rust,Creative Commons Zero v1.0 Universal
+377496562,AppFlowy-IO/appflowy,86002201,AppFlowy-IO,Rust,GNU Affero General Public License v3.0
+90793418,sharkdp/fd,0,,Rust,Other
+114466145,yewstack/yew,49116234,yewstack,Rust,Other
+186024298,nushell/nushell,50749515,nushell,Rust,MIT License
+3390243,servo/servo,2566135,servo,Rust,Mozilla Public License 2.0
+120425779,lapce/lapce,43668847,lapce,Rust,MIT License
+121898717,dani-garcia/vaultwarden,0,,Rust,GNU General Public License v3.0
+234798675,bevyengine/bevy,60047606,bevyengine,Rust,Other
+107505869,firecracker-microvm/firecracker,44477506,firecracker-microvm,Rust,Apache License 2.0
+20060596,ogham/exa,0,,Rust,MIT License
+57167764,xi-editor/xi-editor,43351123,xi-editor,Rust,Apache License 2.0
+54168759,SergioBenitez/Rocket,0,,Rust,Other

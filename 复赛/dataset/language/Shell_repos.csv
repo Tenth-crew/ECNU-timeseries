@@ -1,0 +1,28 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+21737465,sindresorhus/awesome,0,,Shell,Creative Commons Zero v1.0 Universal
+291137,ohmyzsh/ohmyzsh,22552083,ohmyzsh,Shell,MIT License
+15204860,papers-we-love/papers-we-love,6187757,papers-we-love,Shell,
+612230,nvm-sh/nvm,49963700,nvm-sh,Shell,MIT License
+243950408,Anduin2017/HowToCook,0,,Shell,The Unlicense
+15019962,tldr-pages/tldr,7366472,tldr-pages,Shell,Other
+20619036,pi-hole/pi-hole,16827203,pi-hole,Shell,Other
+228016443,youngyangyang04/leetcode-master,0,,Shell,
+172378503,romkatv/powerlevel10k,0,,Shell,MIT License
+63266213,open-guides/og-aws,17152571,open-guides,Shell,Creative Commons Attribution 4.0 International
+137147386,dylanaraps/pure-bash-bible,0,,Shell,MIT License
+5625464,pyenv/pyenv,16530698,pyenv,Shell,MIT License
+48610662,acmesh-official/acme.sh,60454762,acmesh-official,Shell,GNU General Public License v3.0
+2329766,mathiasbynens/dotfiles,0,,Shell,MIT License
+92443980,jgraph/drawio-desktop,1769238,jgraph,Shell,Apache License 2.0
+61929586,shengxinjing/programmer-job-blacklist,0,,Shell,MIT License
+481366,nvie/gitflow,0,,Shell,Other
+269336148,sickcodes/Docker-OSX,0,,Shell,GNU General Public License v3.0
+13886476,zsh-users/zsh-autosuggestions,567410,zsh-users,Shell,MIT License
+118858739,dwmkerr/hacker-laws,0,,Shell,Creative Commons Attribution Share Alike 4.0 International
+7240954,powerline/fonts,10100576,powerline,Shell,
+10567197,dokku/dokku,13455795,dokku,Shell,MIT License
+1554093,mbadolato/iTerm2-Color-Schemes,0,,Shell,Other
+18044526,StreisandEffect/streisand,32347203,StreisandEffect,Shell,Other
+441903012,MichaelCade/90DaysOfDevOps,0,,Shell,Other
+49217007,hwdsl2/setup-ipsec-vpn,0,,Shell,Other
+4279682,fish-shell/fish-shell,1828073,fish-shell,Shell,Other

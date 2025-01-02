@@ -1,0 +1,36 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+14098069,justjavac/free-programming-books-zh_CN,0,,,GNU General Public License v3.0
+10744183,netdata/netdata,43390781,netdata,C,GNU General Public License v3.0
+3638964,ansible/ansible,1507452,ansible,Python,GNU General Public License v3.0
+138839979,scutan90/DeepLearning-500-questions,0,,JavaScript,GNU General Public License v3.0
+246335987,ventoy/Ventoy,0,,C,GNU General Public License v3.0
+114747226,deepfakes/faceswap,0,,Python,GNU General Public License v3.0
+68957920,justjavac/awesome-wechat-weapp,0,,,GNU General Public License v3.0
+136026789,iperov/DeepFaceLab,0,,Python,GNU General Public License v3.0
+299354207,rustdesk/rustdesk,0,,Rust,GNU General Public License v3.0
+199570071,2dust/v2rayN,0,,C#,GNU General Public License v3.0
+136815833,Dreamacro/clash,0,,Go,GNU General Public License v3.0
+12972263,alvarotrigo/fullPage.js,0,,JavaScript,GNU General Public License v3.0
+264818686,ultralytics/yolov5,26833451,ultralytics,Python,GNU General Public License v3.0
+80276391,GitSquared/edex-ui,0,,JavaScript,GNU General Public License v3.0
+33263118,gorhill/uBlock,0,,JavaScript,GNU General Public License v3.0
+76838017,iina/iina,35151645,iina,Swift,GNU General Public License v3.0
+67702184,topjohnwu/Magisk,0,,Kotlin,GNU General Public License v3.0
+60844036,shadowsocks/ShadowsocksX-NG,3006190,shadowsocks,Swift,GNU General Public License v3.0
+48610662,acmesh-official/acme.sh,60454762,acmesh-official,Shell,GNU General Public License v3.0
+269336148,sickcodes/Docker-OSX,0,,Shell,GNU General Public License v3.0
+126178683,halo-dev/halo,48195280,halo-dev,Java,GNU General Public License v3.0
+4037197,ycm-core/YouCompleteMe,52140259,ycm-core,Python,GNU General Public License v3.0
+156084530,ehang-io/nps,59558731,ehang-io,Go,GNU General Public License v3.0
+97086543,TheAlgorithms/Javascript,20487725,TheAlgorithms,JavaScript,GNU General Public License v3.0
+47023603,xuxueli/xxl-job,0,,Java,GNU General Public License v3.0
+116167731,yuzu-emu/yuzu,35075882,yuzu-emu,C++,GNU General Public License v3.0
+2990192,signalapp/Signal-Android,702459,signalapp,Java,GNU General Public License v3.0
+13428264,ShareX/ShareX,5548736,ShareX,C#,GNU General Public License v3.0
+121898717,dani-garcia/vaultwarden,0,,Rust,GNU General Public License v3.0
+2810292,pbatard/rufus,0,,C,GNU General Public License v3.0
+91629816,freqtrade/freqtrade,37536846,freqtrade,Python,GNU General Public License v3.0
+169529567,zhaoolee/ChromeAppHeroes,0,,JavaScript,GNU General Public License v3.0
+90902132,flameshot-org/flameshot,36951528,flameshot-org,C++,GNU General Public License v3.0
+21484781,jumpserver/jumpserver,6006570,jumpserver,Python,GNU General Public License v3.0
+77358263,SpaceVim/SpaceVim,24742154,SpaceVim,Vim script,GNU General Public License v3.0

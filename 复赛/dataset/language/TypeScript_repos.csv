@@ -1,0 +1,110 @@
+repo_id,repo_name,org_id,org_login,repo_language,repo_license
+28457823,freeCodeCamp/freeCodeCamp,9892522,freeCodeCamp,TypeScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+85077558,kamranahmedse/developer-roadmap,0,,TypeScript,Other
+11730342,vuejs/vue,6128107,vuejs,TypeScript,MIT License
+41881900,microsoft/vscode,6154722,microsoft,TypeScript,MIT License
+20929025,microsoft/TypeScript,6154722,microsoft,TypeScript,Apache License 2.0
+133442384,denoland/deno,42048915,denoland,TypeScript,MIT License
+24195339,angular/angular,139426,angular,TypeScript,MIT License
+62607227,yangshun/tech-interview-handbook,0,,TypeScript,MIT License
+34526884,ant-design/ant-design,12101536,ant-design,TypeScript,MIT License
+90796663,puppeteer/puppeteer,6906516,puppeteer,TypeScript,Apache License 2.0
+54173593,storybookjs/storybook,22632046,storybookjs,TypeScript,MIT License
+52631841,gothinkster/realworld,8601733,gothinkster,TypeScript,MIT License
+74293321,sveltejs/svelte,23617963,sveltejs,TypeScript,MIT License
+36535156,reduxjs/redux,13142323,reduxjs,TypeScript,Other
+172953845,coder/code-server,95932066,coder,TypeScript,MIT License
+557980,socketio/socket.io,10566080,socketio,TypeScript,MIT License
+9185792,apache/incubator-echarts,47359,apache,TypeScript,Apache License 2.0
+15111821,grafana/grafana,7195757,grafana,TypeScript,GNU Affero General Public License v3.0
+80945428,nestjs/nest,28507035,nestjs,TypeScript,MIT License
+257485422,vitejs/vite,65625612,vitejs,TypeScript,MIT License
+39464018,apache/superset,47359,apache,TypeScript,Apache License 2.0
+19872456,remix-run/react-router,64235328,remix-run,TypeScript,MIT License
+12256376,ionic-team/ionic-framework,3171503,ionic-team,TypeScript,Other
+221981891,microsoft/playwright,6154722,microsoft,TypeScript,Apache License 2.0
+214587193,supabase/supabase,54469796,supabase,TypeScript,Apache License 2.0
+6093316,DefinitelyTyped/DefinitelyTyped,3637556,DefinitelyTyped,TypeScript,Other
+77213120,Eugeny/terminus,0,,TypeScript,MIT License
+24560307,babel/babel,9637642,babel,TypeScript,MIT License
+15062869,facebook/jest,69631,facebook,TypeScript,MIT License
+94911145,facebook/docusaurus,69631,facebook,TypeScript,Other
+62367558,vercel/hyper,14985020,vercel,TypeScript,MIT License
+7741856,pixijs/pixijs,5406849,pixijs,TypeScript,MIT License
+231283452,excalidraw/excalidraw,59452120,excalidraw,TypeScript,MIT License
+65794292,styled-components/styled-components,20658825,styled-components,TypeScript,MIT License
+67962648,vuetifyjs/vuetify,22138497,vuetifyjs,TypeScript,MIT License
+364474335,google/zx,1342004,google,TypeScript,Apache License 2.0
+154950925,streamich/react-use,0,,TypeScript,The Unlicense
+35866694,RocketChat/Rocket.Chat,12508788,RocketChat,TypeScript,Other
+137078487,vuejs/vue-next,6128107,vuejs,TypeScript,MIT License
+79162682,laurent22/joplin,0,,TypeScript,Other
+101394335,ant-design/ant-design-pro,12101536,ant-design,TypeScript,MIT License
+174038031,react-hook-form/react-hook-form,53986236,react-hook-form,TypeScript,MIT License
+21413198,immutable-js/immutable-js,46405934,immutable-js,TypeScript,MIT License
+128624453,NervJS/taro,30794937,NervJS,TypeScript,MIT License
+38558578,nativefier/nativefier,69503009,nativefier,TypeScript,MIT License
+207645083,TanStack/query,72518640,TanStack,TypeScript,MIT License
+94367677,jaredpalmer/formik,0,,TypeScript,Apache License 2.0
+24841635,date-fns/date-fns,14921202,date-fns,TypeScript,Other
+202890778,chakra-ui/chakra-ui,54212428,chakra-ui,TypeScript,MIT License
+52773157,typeorm/typeorm,20165699,typeorm,TypeScript,MIT License
+281975310,type-challenges/type-challenges,68700335,type-challenges,TypeScript,MIT License
+137724480,hasura/graphql-engine,13966722,hasura,TypeScript,Other
+32247847,ReactiveX/rxjs,6407041,ReactiveX,TypeScript,Apache License 2.0
+180190854,appwrite/appwrite,25003669,appwrite,TypeScript,"BSD 3-Clause ""New"" or ""Revised"" License"
+192925833,prisma/prisma,17219288,prisma,TypeScript,Apache License 2.0
+207645083,tannerlinsley/react-query,0,,TypeScript,MIT License
+193215554,n8n-io/n8n,45487711,n8n-io,TypeScript,Other
+2056312,niklasvh/html2canvas,0,,TypeScript,MIT License
+13078968,postcss/postcss,8296347,postcss,TypeScript,MIT License
+61412022,ianstormtaylor/slate,0,,TypeScript,MIT License
+32215970,mobxjs/mobx,17475736,mobxjs,TypeScript,MIT License
+36891867,angular/angular-cli,139426,angular,TypeScript,MIT License
+2541284,cheeriojs/cheerio,7230330,cheeriojs,TypeScript,MIT License
+23338716,JedWatson/react-select,0,,TypeScript,MIT License
+115110181,swc-project/swc,26715726,swc-project,TypeScript,Other
+218115303,vercel/swr,14985020,vercel,TypeScript,MIT License
+180328715,pmndrs/zustand,45790596,pmndrs,TypeScript,MIT License
+124257233,pmndrs/react-spring,45790596,pmndrs,TypeScript,MIT License
+45055693,balena-io/etcher,6157842,balena-io,TypeScript,Apache License 2.0
+130884470,solidjs/solid,79226042,solidjs,TypeScript,MIT License
+59652928,akveo/ngx-admin,11921694,akveo,TypeScript,MIT License
+361044034,slidevjs/slidev,83095831,slidevjs,TypeScript,MIT License
+54994103,floating-ui/popper-core,58035617,floating-ui,TypeScript,MIT License
+348060227,withastro/astro,44914786,withastro,TypeScript,Other
+275993885,appsmithorg/appsmith,67620218,appsmithorg,TypeScript,Apache License 2.0
+49016322,angular/components,139426,angular,TypeScript,MIT License
+67709808,react-native-elements/react-native-elements,49050851,react-native-elements,TypeScript,MIT License
+125596489,doczjs/docz,39714731,doczjs,TypeScript,MIT License
+38934449,reduxjs/react-redux,13142323,reduxjs,TypeScript,MIT License
+42455934,statelyai/xstate,61783956,statelyai,TypeScript,MIT License
+241805592,rome/tools,85328842,rome,TypeScript,MIT License
+24635156,t4t5/sweetalert,0,,TypeScript,MIT License
+31492490,NativeScript/NativeScript,7392261,NativeScript,TypeScript,MIT License
+80149262,react-navigation/react-navigation,29647600,react-navigation,TypeScript,
+204086862,streamlit/streamlit,45109972,streamlit,TypeScript,Apache License 2.0
+18840003,kriasoft/react-starter-kit,773036,kriasoft,TypeScript,MIT License
+145803079,felixrieseberg/windows95,0,,TypeScript,Other
+192175095,conwnet/github1s,0,,TypeScript,MIT License
+307489284,remix-run/remix,64235328,remix-run,TypeScript,MIT License
+15480067,react-bootstrap/react-bootstrap,6853419,react-bootstrap,TypeScript,MIT License
+63226588,marmelab/react-admin,3116319,marmelab,TypeScript,MIT License
+50565430,pnpm/pnpm,21320719,pnpm,TypeScript,MIT License
+47039255,codex-team/editor.js,16060815,codex-team,TypeScript,Apache License 2.0
+27388642,homebridge/homebridge,38217527,homebridge,TypeScript,Apache License 2.0
+299482335,withfig/autocomplete,68212401,withfig,TypeScript,MIT License
+172521926,pmndrs/react-three-fiber,45790596,pmndrs,TypeScript,MIT License
+88717215,youzan/vant,11404085,youzan,TypeScript,MIT License
+35810174,electron-react-boilerplate/electron-react-boilerplate,28049053,electron-react-boilerplate,TypeScript,MIT License
+453717720,AykutSarac/jsonvisio.com,0,,TypeScript,MIT License
+513217098,WeNeedHome/SummaryOfLoanSuspension,0,,TypeScript,
+13753636,jhipster/generator-jhipster,6059488,jhipster,TypeScript,Apache License 2.0
+71487058,TanStack/table,72518640,TanStack,TypeScript,MIT License
+157166750,lensapp/lens,62133242,lensapp,TypeScript,Other
+236095576,backstage/backstage,72526453,backstage,TypeScript,Apache License 2.0
+51769689,refined-github/refined-github,53074291,refined-github,TypeScript,MIT License
+94061307,vadimdemedes/ink,0,,TypeScript,MIT License
+71939872,palantir/blueprint,303157,palantir,TypeScript,Apache License 2.0
+40345658,recharts/recharts,13690587,recharts,TypeScript,MIT License
+38307428,graphql/graphql-js,12972006,graphql,TypeScript,MIT License
